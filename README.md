@@ -5,6 +5,7 @@ List of stuffs about the Godot Engine
 
 * [Zeff list](https://godot-engine.zeef.com/andre.antonio.schmitz)
 * [https://godotdevelopers.org/forum/discussion/15457/where-to-find-more-tutorials](https://godotdevelopers.org/forum/discussion/15457/where-to-find-more-tutorials)
+* [lehast22 list](https://lehast22.github.io/)
 
 ## Code/Examples
 
