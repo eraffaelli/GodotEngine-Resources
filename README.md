@@ -15,7 +15,7 @@ List of stuffs about the Godot Engine
 * [Godot Enet Better](https://github.com/Faless/godot-enet-better)
 * [Godot-Voxel-Game-MineCraftClone](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone)
 
-## Démos
+## Demos
 
 * [Akira_san : Various stuff](https://www.youtube.com/user/akiras2501)
 * [mclelun : Various démos](https://www.youtube.com/user/mclelun/search?query=godot)
@@ -203,7 +203,7 @@ List of stuffs about the Godot Engine
 * [Godot 3 Visual Scripting Tutorials](https://www.youtube.com/watch?v=pPhnU_a6Adw&list=PLVPelrbFmzgOGBz1rKQjVjXLGhjAGJaKs)
 * [Godot 3 Shader Tutorials](https://www.youtube.com/watch?v=Lk-N-Ej0DDg&list=PLVPelrbFmzgPiWeyv7lN2mCL937UFNFdq)
 * [Godot 3 RTS Game Tutorials](https://www.youtube.com/watch?v=vM2988gWK3Y&list=PLVPelrbFmzgMoEGH_xb3r3s61Pwnm2zMO)
-* [Godot 3 RPG Tutorial [Pokemon Clone] Part-1 (Player Movement)](https://www.youtube.com/watch?v=Rp-JuBvetf0)
+* [Godot 3 RPG Tutorial [Pokemon Clone])](https://www.youtube.com/watch?v=Rp-JuBvetf0&list=PLVPelrbFmzgNMM9tPh0VUdP1EBSukS6e6)
 
 ### [Solar Lune](https://www.youtube.com/user/SolarLuneTube/videos) Many videos
 
