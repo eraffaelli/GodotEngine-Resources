@@ -6,6 +6,8 @@ List of stuffs about the Godot Engine
 * [Zeff list](https://godot-engine.zeef.com/andre.antonio.schmitz)
 * [https://godotdevelopers.org/forum/discussion/15457/where-to-find-more-tutorials](https://godotdevelopers.org/forum/discussion/15457/where-to-find-more-tutorials)
 * [lehast22 list](https://lehast22.github.io/)
+* [TD-Godot-Games Godot 2](https://github.com/TutorialDoctor/TD-Godot-Games)
+* [TD-Godot-3-Demos](https://github.com/TutorialDoctor/TD-Godot-3-Demos)
 
 ## Code/Examples
 
@@ -165,7 +167,21 @@ List of stuffs about the Godot Engine
 * [Godot 3 Basic 3D Tutorial Playlist](https://www.youtube.com/watch?v=-D-IcbsdT04&list=PLTZoMpB5Z4aBOtdBUXOeemKdg2fKxgJjm)
 * [Godot FPS Controller Playlist](https://www.youtube.com/watch?v=Etpq-d5af6M&list=PLTZoMpB5Z4aD-rCpluXsQjkGYgUGUZNIV)
 
-### [KemoJallow](https://www.youtube.com/channel/UCvqdRkXwYQfx_2QWe2nFJXA/playlists)
+### [Khairul Hidayat](https://www.youtube.com/channel/UCGzQFkSnOG-wEA8janAsJ_g)
+
+* [Godot Engine Tutorial Series (Godot 2)](https://www.youtube.com/watch?v=HXhiuDdzCPc&list=PL_jnteSmze_oS1ebnWnrb9jEQs3gNV8m9)
+  * Horror FPS Tutorial
+  * Adding Ambient Occlusion Map
+  * Creating Overview Map 1 & 2
+  * Create Simple Gun Decal
+  * Make Gun Shooter Game With Godot
+* [Simple Water Surface (Godot 2)](https://www.youtube.com/watch?v=4qa1DmQEzy4)
+* [How to Make Splitscreen Multiplayer Game](https://www.youtube.com/watch?v=WhCQABLmEv0)
+* [How to make camera phone](https://www.youtube.com/watch?v=yxSP9j7DII4)
+* [Multiplayer Thirdperson Shooter v1.1](https://www.youtube.com/watch?v=i13A9M8zfjU)
+* [Simple Day/Night Cycle](https://www.youtube.com/watch?v=iTkLEP3Kwko)
+
+### [KemoJallow](https://www.youtube.com/channel/UCvqdRkXwYQfx_2QWe2nFJXA)
 
 * [Godot Engine Mobile Game Tutorials](https://www.youtube.com/watch?v=TAPO7y1EYnY&list=PLm_vxcRCNKYyO7iMrKQAyp-P1otM1Z4U9)
 * [Godot C# game development](https://www.youtube.com/watch?v=uHcKEIbM-5Q&list=PLm_vxcRCNKYzIyUjHtlWAk_mM7-QUD5kw)
