@@ -1,7 +1,7 @@
 # GodotEngine-Resources
 List of stuffs about the Godot Engine
 
-# Resources
+## Resources
 
 * [Zeff list](https://godot-engine.zeef.com/andre.antonio.schmitz)
 * [https://godotdevelopers.org/forum/discussion/15457/where-to-find-more-tutorials](https://godotdevelopers.org/forum/discussion/15457/where-to-find-more-tutorials)
@@ -129,7 +129,7 @@ List of stuffs about the Godot Engine
 
 * [Godot Engine | QA](https://www.youtube.com/watch?v=qbobNBqhz20&list=PLK_G4MaDtKfAHPcA_9N7hfR3DZARj2o87)
 
-### [Jag's TEch World](https://www.youtube.com/channel/UCYhOoRbDylkILK70C7abujQ)
+### [Jag's Tech World](https://www.youtube.com/channel/UCYhOoRbDylkILK70C7abujQ)
 
 * [Godot 3](https://www.youtube.com/watch?v=whlslfxZRIc&list=PLFc9LMxWODH_FYYYKFdKQt_D4-Milr6DW)
 
@@ -146,6 +146,8 @@ List of stuffs about the Godot Engine
 
 #### Extra
 
+* June 9 2017 [How to Learn Game Development](https://www.youtube.com/watch?v=mKz9zBcrK-k)
+* July 22 2017 [Why C++ for game](https://www.youtube.com/watch?v=mVaf9v2Ya7M)
 * August 11 2017 [Make a Game With Low Budget](https://www.youtube.com/watch?v=8DufKzxYjL8)
 
 #### Godot Engine 3 3D Tutorials
@@ -160,6 +162,7 @@ List of stuffs about the Godot Engine
 * February 17 2018 [Thirdperson Player Animation](https://www.youtube.com/watch?v=msZw59Iln74)
 * February 20 2018 [Thirdperson Character Rotation](https://www.youtube.com/watch?v=CeNXDSkv5v8)
 * February 25 2018 [Camera Follow Player](https://www.youtube.com/watch?v=kc-zJnRvPUY)
+= June 26 2018 [Android Export Tutorial](https://www.youtube.com/watch?v=QPI8JsKF2j4)
 
 ### [Jeremy Bullock](https://www.youtube.com/channel/UCwJw2-V5S1TkBjLQ3_Ws54g)
 
