@@ -16,6 +16,7 @@ List of stuffs about the Godot Engine
 * [GD-Com TCP/UDP Godot - Nodejs](https://www.npmjs.com/package/gd-com)
 * [Godot Enet Better](https://github.com/Faless/godot-enet-better)
 * [Godot-Voxel-Game-MineCraftClone](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone)
+* [Top-Down MMO robots war](https://github.com/HassanHeydariNasab/sola) (Spanish)
 
 ## Demos
 
@@ -35,6 +36,7 @@ List of stuffs about the Godot Engine
 * [Godot 3 Windows issues](https://www.youtube.com/channel/UC1zMh5_cGW6tpMwKf13YSOQ)
 * [Youk54 : Godot 3 - Procedural Generated World](https://www.youtube.com/watch?v=uu2NI3Fmx4M)
 * [Zylann Productions : Cubic voxels in Godot 2 with physics](https://www.youtube.com/watch?v=0HLKJK1ex64)
+* [Linkans : Godot engine experiments playlist](https://www.youtube.com/watch?v=Ec7OxZQi64E&list=PLTUoLxm6vZ9bCbWKT7dbpnc6Mg3kWYQOj)
 
 ## Initiation
 
@@ -84,10 +86,13 @@ List of stuffs about the Godot Engine
 * [[ENG] 002 - Knowing Godot 3.0 Editor](https://www.youtube.com/watch?v=NjIXeKXXWKo)
 * [[ENG] 003 - Scenes & Nodes - Godot 3.0](https://www.youtube.com/watch?v=SCkxyaH6v-Q)
 
-### [Escuela de Juegos](https://www.youtube.com/channel/UCgJBHUEJEi7RkjCQx7xR4Wg)
+### [Escuela de Juegos](https://www.youtube.com/channel/UCgJBHUEJEi7RkjCQx7xR4Wg) (Español)
 
 * [Godot 3 : Tutoriales en Español](https://www.youtube.com/watch?v=BUufdKKOpYs&list=PL-EPeghw5sXiCTYE7Tjv9hFqyEtCUpc3n)
 * [GDScript : Fundamentos Basicos](https://www.youtube.com/watch?v=XAGCXHluqwk&list=PL-EPeghw5sXhVskw_YRQ83N6GZk4p9RQh)
+* [Godot en Español: Curso Completo](https://www.youtube.com/watch?v=-BJNQengOfg&list=PL-EPeghw5sXjWgz_uPhxqrf4AQM39AuxV)
+* [[Vivo] Creando Super Mario Bros en Godot 3 [Parte 1]](https://www.youtube.com/watch?v=XPNHfuxkLsk)
+* [[Vivo] Creando FlappyBirds en Godot 3 [Parte 1]](https://www.youtube.com/watch?v=nC7aakaQieU)
 
 ### [fornclake](https://www.youtube.com/channel/UCcvec1pEInJKoyoXAr8MgUw)
 
