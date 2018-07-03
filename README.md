@@ -3,6 +3,7 @@ List of stuffs about the Godot Engine
 
 ## Resources
 
+* [Awesome Godot](https://github.com/Calinou/awesome-godot)
 * [Zeff list](https://godot-engine.zeef.com/andre.antonio.schmitz)
 * [https://godotdevelopers.org/forum/discussion/15457/where-to-find-more-tutorials](https://godotdevelopers.org/forum/discussion/15457/where-to-find-more-tutorials)
 * [lehast22 list](https://lehast22.github.io/)
@@ -11,7 +12,6 @@ List of stuffs about the Godot Engine
 
 ## Code/Examples
 
-* [Awesome Godot](https://github.com/Calinou/awesome-godot)
 * [MMORPG Godot engine test](https://github.com/leotada/solid-memory)
 * [GD-Com TCP/UDP Godot - Nodejs](https://www.npmjs.com/package/gd-com)
 * [Godot Enet Better](https://github.com/Faless/godot-enet-better)
@@ -207,6 +207,10 @@ List of stuffs about the Godot Engine
 ### [Leandro Voltolino](https://www.youtube.com/user/xupisco)
 
 * [FlappyBird Tutorial - Godot](https://www.youtube.com/watch?v=csKL8xQq-p0&list=PLfhw26jMNbCrGGUVfF-z5pw7CheEWCnyf) (Spanish? Italian?)
+
+### [Mariano Suligoy](https://www.youtube.com/channel/UCoteoMv9mJGbSGOVOIFdBwA)
+
+* [Pokemon con Godot Engine (Godot 2)](https://www.youtube.com/watch?v=snG4kfVN1X8&list=PLdxpqdgprAY0bLAtdcWi8M1TZjSjIdDHn) (Portugal?)
 
 ### [Master-Info Turiais](https://www.youtube.com/channel/UC8HJPSAFPf6136h3FDXLnaA/about)
 
