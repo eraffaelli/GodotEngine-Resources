@@ -79,6 +79,10 @@ List of stuffs about the Godot Engine
 
 ### [César León](https://www.youtube.com/channel/UCgGzdCAHB0R5KbSHZKUcaRA)
 
+### [Crystal Bit](https://www.youtube.com/channel/UCFVgUrvckqp0i_pbCj3wjfA)
+
+* [Godot Engine 3.0 - Tutorial per principianti](https://www.youtube.com/watch?v=AY1zuH2mHQ0&list=PLaCq3HqKQR6rlPpf2GAOXp52ddt0V71Yl) (ITA)
+
 ### [Diseñando Videojuegos con CR](https://www.youtube.com/channel/UC22JyoEBWm6qWJlCY2rSzIQ/videos)
 
 * [Curso de Godot 3.0 [Game Engine] en Español](https://www.youtube.com/watch?v=RpajSAcRBE8&list=PL-LVzUIW9jywpWGmcCDsHZ0WsprFibZD0)
@@ -107,6 +111,7 @@ List of stuffs about the Godot Engine
 
 * [Godot 1/2 Game Engine Tutorial Series](http://www.gamefromscratch.com/page/Godot-Game-Engine-tutorial-series.aspx) [Youtube](https://www.youtube.com/watch?v=UWB-HVFxEpU&list=PLS9MbmO_ssyAXRl-_ktrebQBFxjSQt7UX)
 * [Godot 3  Tutorial Series Index](http://www.gamefromscratch.com/page/Godot-3-Tutorial-Series-Index.aspx) [Youtube](https://www.youtube.com/watch?v=iDEcP8Mc-7s&list=PLS9MbmO_ssyDk79j9ewONxV88fD5e_o5d)
+  * [2D Physics -- Godot 3 Tutorial Series](https://www.youtube.com/watch?v=vY4I5VeQbBk)
 * [Bowling With Godot -- A Complete 3D Game Using The Godot Game Engine](https://www.youtube.com/watch?v=-NtqTzevB-0)
 * [GDSCript Programming 101 - Godot 3 Tutorial Series](https://www.youtube.com/watch?v=ybz5CfIPYq0)
 
@@ -114,6 +119,10 @@ List of stuffs about the Godot Engine
 
 * [30 Days of Godot 2 tutorials](http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/)
 * [Intro to the Godot game engine](http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/)
+* [Godot 3 Tutorials Playlist](https://www.youtube.com/watch?v=Pg79tztNZeA&list=PLhqJJNjsQ7KF0o0ke_CA2QlqK8BxQNSFS)
+* [Godot 3 UI Tutorials Playlist](https://www.youtube.com/watch?v=y1E_y9AIqow&list=PLhqJJNjsQ7KGXNbfsUHJbb5-s2Tujtjt4)
+
+### [Greaby](https://www.youtube.com/user/greabyMinecraft) (French)
 
 ### [Gus Game Dev](https://www.youtube.com/channel/UCoxRNjIDKlzxxl8OOJub6CA/playlists)
 
@@ -255,6 +264,12 @@ List of stuffs about the Godot Engine
 
 * [Godot Engine Tutorials](https://www.youtube.com/watch?v=W47-ozym9-c&list=PLEeuOz8n-w2OWQm7T4Ppbo-fLI1k81ZJd)
 * [Godot Engine Showcase](https://www.youtube.com/watch?v=pFvH4qXoD6A&list=PLEeuOz8n-w2PLKLFNwYKFMmyr3C6Sf_iD)
+
+### [Wicardo Devs](https://www.youtube.com/channel/UCPV9ZzTcqK4cLFPBGdBtUNg) (Spanish?)
+
+* [Guia: Desde GameMaker a Godot Engine Parte 1](https://www.youtube.com/watch?v=88AUKog9uRA)
+* [Godot 3 - Plataformas C# Parte 1](https://www.youtube.com/watch?v=vQsJTvonP_E)
+* [Godot 3 - Plataformas C# Parte 2](https://www.youtube.com/watch?v=HwM4oA-Olt8)
 
 ### [Wizardtroll Games](https://www.youtube.com/channel/UC5PgqSQHZr9HH8p-2VtjPAg)
 
