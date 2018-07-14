@@ -118,7 +118,7 @@ List of stuffs about the Godot Engine
 * [Godot 2D Vertex Shader Demo Project](https://www.youtube.com/watch?v=B9TDe2GYmmA)
 * [Godot Vertex Shader Tutorial](https://www.youtube.com/watch?v=UGzGY7Us5ws)
 * [Godot project development update with signals](https://www.youtube.com/watch?v=tzyn7pjWU6Q)
-* [Godot GDSCript Reactive Audio](vhttps://www.youtube.com/watch?v=JcE4MF897bo)
+* [Godot GDSCript Reactive Audio](https://www.youtube.com/watch?v=JcE4MF897bo)
 
 ### [Bastiaan Olij](https://www.youtube.com/channel/UCrbLJYzJjDf2p-vJC011lYw)
 
