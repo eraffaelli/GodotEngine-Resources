@@ -32,11 +32,6 @@ List of stuffs about the Godot Engine
 * [TheAgent4125 : Xonix inspired game in progress using godot engine](https://www.youtube.com/user/TheAgent4125)
 * [Kestrel Moon : Creature Godot Engine 3 Real-time Morph Targets](https://www.youtube.com/watch?v=87jPiCNLyiE)
 * [Fleetwood Game Design Lab : Various](https://www.youtube.com/channel/UCiaetZ5yBuFwMfAoLKhx_XA/videos)
-* [BackendCoder](https://www.youtube.com/channel/UCMeGhrTAryky9QFRTN6IWqQ/)
-  * [Godot 2D Vertex Shader Demo Project](https://www.youtube.com/watch?v=B9TDe2GYmmA)
-  * [Godot Vertex Shader Tutorial](https://www.youtube.com/watch?v=UGzGY7Us5ws)
-  * [Godot project development update with signals](https://www.youtube.com/watch?v=tzyn7pjWU6Q)
-  * [Godot GDSCript Reactive Audio](vhttps://www.youtube.com/watch?v=JcE4MF897bo)
 
 ## Experiments
 
@@ -117,6 +112,13 @@ List of stuffs about the Godot Engine
 * [Pixel perfection in godot](https://alvarber.gitlab.io/pixel-perfection-in-godot.html) (Text)
 
 ### [Axen Lader](https://godot3tutorials.wordpress.com/) (Text)
+
+### [BackendCoder](https://www.youtube.com/channel/UCMeGhrTAryky9QFRTN6IWqQ/)
+
+* [Godot 2D Vertex Shader Demo Project](https://www.youtube.com/watch?v=B9TDe2GYmmA)
+* [Godot Vertex Shader Tutorial](https://www.youtube.com/watch?v=UGzGY7Us5ws)
+* [Godot project development update with signals](https://www.youtube.com/watch?v=tzyn7pjWU6Q)
+* [Godot GDSCript Reactive Audio](vhttps://www.youtube.com/watch?v=JcE4MF897bo)
 
 ### [Bastiaan Olij](https://www.youtube.com/channel/UCrbLJYzJjDf2p-vJC011lYw)
 
