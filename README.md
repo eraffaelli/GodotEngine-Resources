@@ -124,6 +124,7 @@ List of stuffs about the Godot Engine
 
 * [Godot Desktop VR Tutorials Playlist](https://www.youtube.com/watch?v=07euJhZbeSc&list=PLe63S5Eft1KYGqgkx9I70vfWmvvOZ7apF)
 * [Godot Playlist](https://www.youtube.com/watch?v=kD1gMLE5XEg&list=PLe63S5Eft1KZWYPund35Bw7bNqIa8bQ7y)
+* [Godot Vehicle Tutorial](https://www.youtube.com/watch?v=Yvy8vQ-5O_w&list=PLe63S5Eft1KapdW0-o824gCbG8LPvzxSA)
 
 ### [BrainDeadBZH](https://www.braindead.bzh/)
 
