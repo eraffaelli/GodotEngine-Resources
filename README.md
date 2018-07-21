@@ -361,6 +361,11 @@ List of stuffs about the Godot Engine
 
 * [Simple Chat Room using Multiplayer API](http://www.narwalengineering.com/2018/07/01/godot-tutorial-simple-chat-room-using-multiplayer-api/)
 
+### [NerdOfTheMontain Marcos Bitetti](https://www.youtube.com/channel/UCQQMA2C2FLVsFGgps5xvlag)
+
+* [make a list in Godot - criar listas na Godot - eng sub](https://www.youtube.com/watch?v=_g9MnludJnw)
+* [Godot Tutorials playlist](https://www.youtube.com/playlist?list=PLamhic-COR0WZFUhZUDSvSrniDGlWVQFs)
+
 ### [Nuno Donato](https://www.youtube.com/user/nunosdonato/playlists)
 
 [Tutorials](https://www.youtube.com/playlist?list=PLhZ4HC__ica795Y05VGAnDV8u_4BjoCgV)
