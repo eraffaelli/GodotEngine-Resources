@@ -37,7 +37,6 @@ List of stuffs about the Godot Engine
 * [TheAgent4125 : Xonix inspired game in progress using godot engine](https://www.youtube.com/user/TheAgent4125)
 * [Kestrel Moon : Creature Godot Engine 3 Real-time Morph Targets](https://www.youtube.com/watch?v=87jPiCNLyiE)
 * [Fleetwood Game Design Lab : Various](https://www.youtube.com/channel/UCiaetZ5yBuFwMfAoLKhx_XA/videos)
-* [EIREXE : PepperCarrotGame JRPG with Child of light like combat system](https://github.com/PepperCarrotGame/peppercarrotgame_source)
 
 ## Experiments
 
@@ -61,7 +60,7 @@ List of stuffs about the Godot Engine
 * [Godot Engine Forum](https://godotdevelopers.org/forum/categories/projects)
 * [On Itch.io](https://itch.io/games/tag-godot)
 * [On Steam](https://steamcommunity.com/app/404790/discussions/0/412448792354265655/)
-* [Pepper & Carrot Tactical RPG](https://www.reddit.com/comments/63ktsb)
+* [Pepper & Carrot Tactical JRPG with Child of light / Grandia like combat system](https://www.reddit.com/comments/63ktsb)
 * [CowThing game list](https://cowthing.itch.io/)
 * [Castlevania like The Diasporic Crypt](https://beelzy.itch.io/the-diasporic-crypt)
 * [Little Shadows project](https://littleshadowsgame.blogspot.com/)
@@ -178,6 +177,10 @@ List of stuffs about the Godot Engine
 * [[ENG] 001- Theoric Introduction - Godot 3](https://www.youtube.com/watch?v=q0tlQ7kFKFQ)
 * [[ENG] 002 - Knowing Godot 3.0 Editor](https://www.youtube.com/watch?v=NjIXeKXXWKo)
 * [[ENG] 003 - Scenes & Nodes - Godot 3.0](https://www.youtube.com/watch?v=SCkxyaH6v-Q)
+
+### EIREXE
+
+
 
 ### [Escuela de Juegos](https://www.youtube.com/channel/UCgJBHUEJEi7RkjCQx7xR4Wg) (Español)
 
