@@ -13,6 +13,10 @@ List of stuffs about the Godot Engine
 * [MichaelDB : My Godot Packages](http://michaelb.org/godot-packages/)
 * [Python x GDScript differences](https://www.reddit.com/r/godot/comments/5g3l6y/learning_python_and_godot_at_the_same_time_to/)
 
+## Books
+
+* [Godot Engine Game Development in 24 hours by Ariel Manzur, George Marques](http://www.pearson.com.au/products/M-N-Manzur-Marques/M-N-Manzur-Ariel-Marques-George/SAMS-Teach-Yourself-Godot-Engine-Game-Development-in-24-Hours/9780134835099?R=9780134835099)
+
 ## Code/Examples
 
 * [MMORPG Godot engine test](https://github.com/leotada/solid-memory)
@@ -22,6 +26,7 @@ List of stuffs about the Godot Engine
 * [Top-Down MMO robots war](https://github.com/HassanHeydariNasab/sola) (Spanish)
 * [Decay Battle Royal](https://github.com/Gonkee/decay-br/)
 * [Mr Minimal : Water Shader](https://gitlab.com/MrMinimal/GodotWater)
+* [Godot OpenStreetMap (godot 2)](https://github.com/RodZill4/godot-openstreetmap)
 
 ## Demos
 
@@ -32,6 +37,7 @@ List of stuffs about the Godot Engine
 * [TheAgent4125 : Xonix inspired game in progress using godot engine](https://www.youtube.com/user/TheAgent4125)
 * [Kestrel Moon : Creature Godot Engine 3 Real-time Morph Targets](https://www.youtube.com/watch?v=87jPiCNLyiE)
 * [Fleetwood Game Design Lab : Various](https://www.youtube.com/channel/UCiaetZ5yBuFwMfAoLKhx_XA/videos)
+* [EIREXE : PepperCarrotGame JRPG with Child of light like combat system](https://github.com/PepperCarrotGame/peppercarrotgame_source)
 
 ## Experiments
 
@@ -281,7 +287,7 @@ List of stuffs about the Godot Engine
 
 ### [Juan Linietsky](https://www.youtube.com/channel/UCpays4QrGaZ4_ZpX0P6aM1w)
 
-* [Godot Engine](https://www.youtube.com/watch?v=ioMZ5-j_PD0&list=PLBgwKMnonTew0Z0xRA8rJch1aB3-Qnm1T)
+* [Godot Engine: Meeting the Nodes](https://www.youtube.com/watch?v=ioMZ5-j_PD0&list=PLBgwKMnonTew0Z0xRA8rJch1aB3-Qnm1T)
 * [Godot 3: Global Illumination Quick Set-Up on Existing Scene](https://www.youtube.com/watch?v=jG1f3Cxopvc)
 
 ### [Khairul Hidayat](https://www.youtube.com/channel/UCGzQFkSnOG-wEA8janAsJ_g)
