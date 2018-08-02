@@ -12,6 +12,7 @@ List of stuffs about the Godot Engine
 * [TD-Godot-3-Demos](https://github.com/TutorialDoctor/TD-Godot-3-Demos)
 * [MichaelDB : My Godot Packages](http://michaelb.org/godot-packages/)
 * [Python x GDScript differences](https://www.reddit.com/r/godot/comments/5g3l6y/learning_python_and_godot_at_the_same_time_to/)
+* [Sebastián Diéguez : Godot Starter](https://www.youtube.com/watch?v=LUKzKMOc72M) [Github](https://github.com/SebaSOFT/GodotStarter)
 
 ## Books
 
@@ -71,7 +72,7 @@ List of stuffs about the Godot Engine
 ## Initiation
 
 * [Godot Game Engine : initiation](https://fr.flossmanuals.net/godot-game-engine-initiation/a-propos-de-ce-livre/) (French)
-* [Présentation and installation de Godot Engine 3.0 C#](https://makeyourgame.fun/presentation-installation-de-godot-engine-3-0/) (French)
+* [Présentation et installation de Godot Engine 3.0 C#](https://makeyourgame.fun/presentation-installation-de-godot-engine-3-0/) (French)
 
 ## Tutorial
 
@@ -398,6 +399,12 @@ List of stuffs about the Godot Engine
 * [Rocketschmeers - Godot Multiplayer Network Tutorial](https://www.youtube.com/watch?v=LIK5tRzGAHw)
 * [Rocketschmeers - Godot Multiplayer Network Tutorial Part 2](https://www.youtube.com/watch?v=2CgzdEuU03k)
 * [Planet Jumper Physics Tutorial](https://www.youtube.com/watch?v=L1LZi0ePQ7Y)
+
+### [Sebastián Diéguez](https://www.youtube.com/channel/UCZkjxZtCcowzCPky_pXa-NA)
+
+* [Godot Starter](https://github.com/SebaSOFT/GodotStarter)
+* [Godot 3: Conociendo la Interfaz](https://www.youtube.com/watch?v=Zx8r-1UYuLA) (Spanish)
+* [Godot 3: Primeros pasos en el 2D](https://www.youtube.com/watch?v=A4xee54qDp8) (Spanish)
 
 ### [Securas](https://www.youtube.com/user/rluis)
 
