@@ -1,4 +1,5 @@
 # GodotEngine-Resources
+
 List of stuffs about the Godot Engine
 
 ## Resources
@@ -461,7 +462,11 @@ List of stuffs about the Godot Engine
 
 ### [Tutorial Geeks](https://www.youtube.com/watch?v=D8LnTRXnVF8&list=PLSoiAaD2GJL6BeIExjy0lNhMQ9psiU4A0)
 
-* [Godot 3 - Subway Surfers Tutorial ](https://www.youtube.com/watch?v=D8LnTRXnVF8&list=PLSoiAaD2GJL6BeIExjy0lNhMQ9psiU4A0)
+* [Godot 3 - Subway Surfers Tutorial](https://www.youtube.com/watch?v=D8LnTRXnVF8&list=PLSoiAaD2GJL6BeIExjy0lNhMQ9psiU4A0)
+
+### [UmaiPixel](https://www.youtube.com/channel/UCla6BhPwo5zGal6vR5le4YA)
+
+* [Godot 3 - Platformer Tutorial](https://www.youtube.com/watch?v=MMsMtPVUtUE)
 
 ### [Vunnysher](https://www.youtube.com/channel/UCMmsuWnT0NAM0yA4ZJPz7tg)
 
