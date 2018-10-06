@@ -14,6 +14,7 @@ List of stuffs about the Godot Engine
 * [MichaelDB : My Godot Packages](http://michaelb.org/godot-packages/)
 * [Python x GDScript differences](https://www.reddit.com/r/godot/comments/5g3l6y/learning_python_and_godot_at_the_same_time_to/)
 * [Sebastián Diéguez : Godot Starter](https://www.youtube.com/watch?v=LUKzKMOc72M) [Github](https://github.com/SebaSOFT/GodotStarter)
+* [Kermer: Godot stuff](https://github.com/Kermer/Godot)
 
 ## Books
 
@@ -29,6 +30,13 @@ List of stuffs about the Godot Engine
 * [Decay Battle Royal](https://github.com/Gonkee/decay-br/)
 * [Mr Minimal : Water Shader](https://gitlab.com/MrMinimal/GodotWater)
 * [Godot OpenStreetMap (godot 2)](https://github.com/RodZill4/godot-openstreetmap)
+* [Tavurth : Simple FPS Camera](https://github.com/tavurth/godot-simple-fps-camera)
+
+## Debug
+
+* [How to debug godot engine itself on Android](https://godotdevelopers.org/forum/discussion/18921/how-to-debug-godot-engine-itself-on-android)
+* [Debug your mono Godot project](http://godotsharp.net/how-to/debug-your-mono-godot-project)
+* [Debugging a Godot C# Project using Jetbrains Rider](http://idiotcoder.com/debugging-a-godot-c-project-using-jetbrains-rider)
 
 ## Demos
 
@@ -55,6 +63,8 @@ List of stuffs about the Godot Engine
 * [Migrations notes Godot 2 => Godot 3](https://github.com/dploeger/godot-migrationnotes)
 * [Stacked Boxes : Trying out GDNative](https://stackedboxes.org/2017/08/20/trying-out-gdnative/)
 * [Godot Engine Q&A : Omni Directional Touch Pad](https://godotengine.org/qa/360/omni-directional-touch-pad?show=375#a375)
+* [Em Alexander : Dialogue Tree Plugin](https://github.com/EmAlexander/DialogueTreePlugin)
+* [Supatier : Magic square Godot](https://github.com/Supatier/magic-square-godot)
 
 ## Games
 
@@ -74,6 +84,11 @@ List of stuffs about the Godot Engine
 
 * [Godot Game Engine : initiation](https://fr.flossmanuals.net/godot-game-engine-initiation/a-propos-de-ce-livre/) (French)
 * [Présentation et installation de Godot Engine 3.0 C#](https://makeyourgame.fun/presentation-installation-de-godot-engine-3-0/) (French)
+
+## Libraries
+
+* [Unirest in GDScript: Simplified, lightweight HTTP client library.](https://github.com/godot-addons/godot-unirest)
+* [Godot Steam API](https://github.com/Gramps/GodotSteam/tree/godot3)
 
 ## Tutorial
 
@@ -110,6 +125,7 @@ List of stuffs about the Godot Engine
 
 ### [Alex Horatio](https://www.youtube.com/channel/UCW9PWY-I3wMaxr7U4qzg6PA) [Website](https://www.alexhoratio.co.uk)
 
+* [A Complete Guide To Control Nodes - Popups](https://www.youtube.com/watch?v=L0anvhjwdU8)
 * [Gitting Gud At Godot 2 Text](https://www.alexhoratio.co.uk/2017/05/gitting-gud-at-godot-part-1.html)
 * [Gitting Gud At Godot 2 Playlist](https://www.youtube.com/watch?v=VQeVKAOnJ10&list=PLnF-Gn3Mr308k2smKtkZaZb6Gwtnt4Wa3)
 * [Sporadic Godot Tutorials - Tile Sets and Autotiling](https://www.alexhoratio.co.uk/2018/05/sporadic-godot-tutorials-tile-sets-and.html)
@@ -180,10 +196,6 @@ List of stuffs about the Godot Engine
 * [[ENG] 002 - Knowing Godot 3.0 Editor](https://www.youtube.com/watch?v=NjIXeKXXWKo)
 * [[ENG] 003 - Scenes & Nodes - Godot 3.0](https://www.youtube.com/watch?v=SCkxyaH6v-Q)
 
-### EIREXE
-
-
-
 ### [Escuela de Juegos](https://www.youtube.com/channel/UCgJBHUEJEi7RkjCQx7xR4Wg) (Español)
 
 * [Godot 3 : Tutoriales en Español](https://www.youtube.com/watch?v=BUufdKKOpYs&list=PL-EPeghw5sXiCTYE7Tjv9hFqyEtCUpc3n)
@@ -194,7 +206,7 @@ List of stuffs about the Godot Engine
 
 ### [fornclake](https://www.youtube.com/channel/UCcvec1pEInJKoyoXAr8MgUw)
 
-* [Godot Zelda Tutorial Playlist](https://www.youtube.com/watch?v=4CLvL05Av6g&list=PLv0bAfkzWSiY4d_FJlQTlFOZh34nrlJZY)
+* [Godot Zelda-like Tutorial Playlist](https://www.youtube.com/watch?v=4CLvL05Av6g&list=PLv0bAfkzWSiY4d_FJlQTlFOZh34nrlJZY)
 
 ### [FrogsSquare](https://frogsquare.com/) (Text)
 
@@ -206,6 +218,14 @@ List of stuffs about the Godot Engine
 ### [Game Dev Adventures](https://gamedevadventures.posthaven.com/)
 
 * [Using C++ and GDNative in Godot - Part 1](https://gamedevadventures.posthaven.com/using-c-plus-plus-and-gdnative-in-godot-part-1)
+
+### [Game Endeavor](https://www.youtube.com/channel/UCLweX1UtQjRjj7rs_0XQ2Eg)
+
+#### Godot 3.0
+
+* [Cutout Animation & Run Cycle](https://www.youtube.com/watch?v=lMFuEc1XsOQ)
+* [Slow time effect](https://www.youtube.com/watch?v=6_EwotQJCfY&t=9s)
+* [Screen shake](https://www.youtube.com/watch?v=_DAvzzJMko8)
 
 ### [Gamefromscratch](https://www.youtube.com/user/gamefromscratch)
 
@@ -224,8 +244,9 @@ List of stuffs about the Godot Engine
 * [30 Days of Godot 2 tutorials](http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/)
 * [Intro to the Godot game engine](http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/)
 * [Godot 3 Tutorials Playlist](https://www.youtube.com/watch?v=Pg79tztNZeA&list=PLhqJJNjsQ7KF0o0ke_CA2QlqK8BxQNSFS)
-* [Godot 3 UI Tutorials Playlist](https://www.youtube.com/watch?v=y1E_y9AIqow&list=PLhqJJNjsQ7KGXNbfsUHJbb5-s2Tujtjt4)
-* [Godot tutorial: Learn the Godot Engine and Create a Platform Game](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KEbSXHacP9eD37xyoPJz9gm)
+* [Godot 3 UI Tutorials Playlist](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KGXNbfsUHJbb5-s2Tujtjt4)
+* [Godot Power Pitch How to use translations and contribute new languages](https://www.youtube.com/watch?v=txCSyNgzvzw)
+* [Godot tutorial: Learn the Godot Engine and Create a Platform Game](https://www.youtube.com/watch?v=txCSyNgzvzw)
 
 ### [Greaby](https://www.youtube.com/user/greabyMinecraft) (French)
 
@@ -336,9 +357,13 @@ List of stuffs about the Godot Engine
 * [How to create Ribbon Particle System in Godot 3.0 with Line2D](https://www.youtube.com/watch?v=8LJsRKRR_7w)
 * [How to create 2D trails in Godot 3.0 with Line2D](https://www.youtube.com/watch?v=s5DwZZ0fZDg)
 
-### [Lars](https://thingsmatic.com)
+### [Lars Bergqvist](https://thingsmatic.com)
 
 * [Making a 2D platform game with Godot 3.0](https://thingsmatic.com/2018/02/17/making-a-2d-platform-game-with-godot-3-0/) (Text)
+
+### [Lars Kokemohr](http://www.lkokemohr.de)
+
+* [Godot Tutoring](http://www.lkokemohr.de/godot_tutoring.html)
 
 ### [Lava Block](https://lava-block.com)
 
