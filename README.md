@@ -22,49 +22,65 @@ List of stuffs about the Godot Engine
 
 ## Code/Examples
 
-* [MMORPG Godot engine test](https://github.com/leotada/solid-memory)
+* [Decay Battle Royal](https://github.com/Gonkee/decay-br/)
 * [GD-Com TCP/UDP Godot - Nodejs](https://www.npmjs.com/package/gd-com)
 * [Godot Enet Better](https://github.com/Faless/godot-enet-better)
 * [Godot-Voxel-Game-MineCraftClone](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone)
-* [Top-Down MMO robots war](https://github.com/HassanHeydariNasab/sola) (Spanish)
-* [Decay Battle Royal](https://github.com/Gonkee/decay-br/)
+* [MMORPG Godot engine test](https://github.com/leotada/solid-memory)
 * [Mr Minimal : Water Shader](https://gitlab.com/MrMinimal/GodotWater)
 * [Godot OpenStreetMap (godot 2)](https://github.com/RodZill4/godot-openstreetmap)
+* [Rafael Arreaola: Page fold mobile](https://www.youtube.com/watch?v=zjYLVV2rVEo)
 * [Tavurth : Simple FPS Camera](https://github.com/tavurth/godot-simple-fps-camera)
+* [Tom Kemna ! Connect and disconnect Godot Engine Dedicated Server](https://www.youtube.com/watch?v=O8X7RATgMwA)
+* [Top-Down MMO robots war](https://github.com/HassanHeydariNasab/sola) (Spanish)
 
 ## Debug
 
-* [How to debug godot engine itself on Android](https://godotdevelopers.org/forum/discussion/18921/how-to-debug-godot-engine-itself-on-android)
 * [Debug your mono Godot project](http://godotsharp.net/how-to/debug-your-mono-godot-project)
 * [Debugging a Godot C# Project using Jetbrains Rider](http://idiotcoder.com/debugging-a-godot-c-project-using-jetbrains-rider)
+* [How to debug godot engine itself on Android](https://godotdevelopers.org/forum/discussion/18921/how-to-debug-godot-engine-itself-on-android)
 
 ## Demos
 
 * [Akira_san : Various stuff](https://www.youtube.com/user/akiras2501)
-* [mclelun : Various démos](https://www.youtube.com/user/mclelun/search?query=godot)
-* [Jbat1Jumper : Eryhrina Indie 2D Game for Godot Engine and a series of tutorials of how I'm making it](https://github.com/Jbat1Jumper/erythrina)
-* [Francesco Lima : Various](https://www.youtube.com/watch?v=Jf_BcLHCbhI&list=PLltB_VgnhJKQXUgcd96OFANHauXGdKHZJ) [Godot experimentations](https://www.youtube.com/watch?v=htBEKQu8Iy4&list=PLltB_VgnhJKQa9tY-wM0kv4n-HjaPLv4I)
-* [TheAgent4125 : Xonix inspired game in progress using godot engine](https://www.youtube.com/user/TheAgent4125)
-* [Kestrel Moon : Creature Godot Engine 3 Real-time Morph Targets](https://www.youtube.com/watch?v=87jPiCNLyiE)
+* [ca3 : TRIKIX](https://www.youtube.com/watch?v=KZ-2417bqX0)
+* [David RIGAL : RPG Medieval Fantastic](https://www.youtube.com/watch?v=7W_kWxg67iI)
 * [Fleetwood Game Design Lab : Various](https://www.youtube.com/channel/UCiaetZ5yBuFwMfAoLKhx_XA/videos)
+* [Francesco Lima : Various](https://www.youtube.com/watch?v=Jf_BcLHCbhI&list=PLltB_VgnhJKQXUgcd96OFANHauXGdKHZJ) [Godot experimentations](https://www.youtube.com/watch?v=htBEKQu8Iy4&list=PLltB_VgnhJKQa9tY-wM0kv4n-HjaPLv4I)
+* [Jbat1Jumper : Eryhrina Indie 2D Game for Godot Engine and a series of tutorials of how I'm making it](https://github.com/Jbat1Jumper/erythrina)
+* [Kestrel Moon : Creature Godot Engine 3 Real-time Morph Targets](https://www.youtube.com/watch?v=87jPiCNLyiE)
+* [Mang : Quatree on Godot](https://www.youtube.com/watch?v=ik3kAcqByos)
+* [mclelun : Various démos](https://www.youtube.com/user/mclelun/search?query=godot)
+* [Rod Zilla](https://www.youtube.com/user/MoineFarceur/)
+  * [godot-openstreetmap](https://www.youtube.com/playlist?list=PLbGdRK9O7mWqbGzJlZYCr-tM9VmRkug0O)
+  * [godot-platform2d](https://www.youtube.com/playlist?list=PLbGdRK9O7mWqFbTpESTc1cPUPKSW4ycPI)
+* [Sparckman](https://www.youtube.com/user/amazingsparckman/search?query=godot)
+* [TheAgent4125 : Xonix inspired game in progress using godot engine](https://www.youtube.com/user/TheAgent4125)
+* [Uzimonkey : Mega Man recreated in Godot as a learning exercise](https://www.youtube.com/watch?v=lVBqsQAQGS8)
+* [Whyat1872 : Slimedom Homeward-bound](https://www.youtube.com/watch?v=WfJa7T3kiBo)
 
 ## Experiments
 
-* [Procedural Generation in Godot 3](https://www.youtube.com/user/jwurmz/videos)
-* [Rara Project - Godot Experiments](https://www.youtube.com/watch?v=5IOWdEwg03w&list=PLxiDw7IvgbdoI5MpBH5ulDL0MoB_FvV0b)
-* [RandomMomentania : Various stuffs](https://www.youtube.com/channel/UCYGKT9XOmuL45aEP2bWBGYw/videos)
-* [Shipoopi Didoria N : Various stuffs](https://www.youtube.com/channel/UCOvDjA4qqTxHYAWkhFWP5EA)
+* [Azteca Sensei: Multiple experiments](https://www.youtube.com/channel/UCgqse0HOFHEhqISrM_snnPA)
+* [Em Alexander : Dialogue Tree Plugin](https://github.com/EmAlexander/DialogueTreePlugin)
 * [Godot 3 Windows issues](https://www.youtube.com/channel/UC1zMh5_cGW6tpMwKf13YSOQ)
+* [Godot Engine Q&A : Omni Directional Touch Pad](https://godotengine.org/qa/360/omni-directional-touch-pad?show=375#a375)
+* [Linkans : Godot engine experiments playlist](https://www.youtube.com/playlist?list=PLTUoLxm6vZ9bCbWKT7dbpnc6Mg3kWYQOj)
+* [Michael Bridges : How To Get 3D Models From Blender into Godot](https://www.youtube.com/watch?v=hRjmgNRR77Y)
+* [Migrations notes Godot 2 => Godot 3](https://github.com/dploeger/godot-migrationnotes)
+* [OWs Tetra : Godot 3 Lens Flare](https://www.youtube.com/watch?v=lCZ5Evy5oBQ)
+* [Procedural Generation in Godot 3](https://www.youtube.com/user/jwurmz/videos)
+* [RandomMomentania : Various stuffs](https://www.youtube.com/channel/UCYGKT9XOmuL45aEP2bWBGYw/videos)
+* [Ranking Important Source Files in Godot Engine (3.0.2-stable)](https://vermillionazure.com/2018/03/30/ranking-important-source-files-in-godot-engine-3-0-2-stable/)
+* [Rara Project - Godot Experiments](https://www.youtube.com/watch?v=5IOWdEwg03w&list=PLxiDw7IvgbdoI5MpBH5ulDL0MoB_FvV0b)
+* [Securas](https://www.youtube.com/user/rluis/videos)
+* [Shipoopi Didoria N : Various stuffs](https://www.youtube.com/channel/UCOvDjA4qqTxHYAWkhFWP5EA)
+* [sp33dy : Tutorial (Godot Engine v3 - GDScript) - RigidBody Chain !](https://steemit.com/utopian-io/@sp33dy/tutorial-godot-engine-v3-gdscript-rigidbody-chain) (Text)
+* [Stacked Boxes : Trying out GDNative](https://stackedboxes.org/2017/08/20/trying-out-gdnative/)
+* [Supatier : Magic square Godot](https://github.com/Supatier/magic-square-godot)
+* [Tulsa Game Developers : Making a game with Godot in less than an hour](https://www.youtube.com/watch?v=xQIaRSXh4ic)
 * [Youk54 : Godot 3 - Procedural Generated World](https://www.youtube.com/watch?v=uu2NI3Fmx4M)
 * [Zylann Productions : Cubic voxels in Godot 2 with physics](https://www.youtube.com/watch?v=0HLKJK1ex64)
-* [Linkans : Godot engine experiments playlist](https://www.youtube.com/playlist?list=PLTUoLxm6vZ9bCbWKT7dbpnc6Mg3kWYQOj)
-* [sp33dy : Tutorial (Godot Engine v3 - GDScript) - RigidBody Chain !](https://steemit.com/utopian-io/@sp33dy/tutorial-godot-engine-v3-gdscript-rigidbody-chain) (Text)
-* [Ranking Important Source Files in Godot Engine (3.0.2-stable)](https://vermillionazure.com/2018/03/30/ranking-important-source-files-in-godot-engine-3-0-2-stable/)
-* [Migrations notes Godot 2 => Godot 3](https://github.com/dploeger/godot-migrationnotes)
-* [Stacked Boxes : Trying out GDNative](https://stackedboxes.org/2017/08/20/trying-out-gdnative/)
-* [Godot Engine Q&A : Omni Directional Touch Pad](https://godotengine.org/qa/360/omni-directional-touch-pad?show=375#a375)
-* [Em Alexander : Dialogue Tree Plugin](https://github.com/EmAlexander/DialogueTreePlugin)
-* [Supatier : Magic square Godot](https://github.com/Supatier/magic-square-godot)
 
 ## Games
 
@@ -75,10 +91,12 @@ List of stuffs about the Godot Engine
 * [Pepper & Carrot Tactical JRPG with Child of light / Grandia like combat system](https://www.reddit.com/comments/63ktsb)
 * [CowThing game list](https://cowthing.itch.io/)
 * [Castlevania like The Diasporic Crypt](https://beelzy.itch.io/the-diasporic-crypt)
+* [Little Red Dog Games : Early Look into the game Precipice](https://www.youtube.com/watch?v=f3cBQouCGbs)
 * [Little Shadows project](https://littleshadowsgame.blogspot.com/)
 * [Pong game](http://www.video-games.io/pong/)
 * [Hangman](http://www.video-games.io/hangman/)
 * [Tic Tac Toe](http://www.video-games.io/tic-tac-toe/)
+* [Ask Gamedev : Top 9 favorite Godot Games 2018](https://www.youtube.com/watch?v=JF60CfSLjew)
 
 ## Initiation
 
@@ -90,12 +108,30 @@ List of stuffs about the Godot Engine
 * [Unirest in GDScript: Simplified, lightweight HTTP client library.](https://github.com/godot-addons/godot-unirest)
 * [Godot Steam API](https://github.com/Gramps/GodotSteam/tree/godot3)
 
+## Talks
+
+* [GameDev.tv : Why The School For Games Switched From Unity To Godot](https://www.youtube.com/watch?v=5XunD-X3LO4)
+
 ## Tutorial
 
 * [Using C++ and GDNative in Godot](https://gamedevadventures.posthaven.com/using-c-plus-plus-and-gdnative-in-godot-part-1)
 * [Godot Engine Doc](https://godot.readthedocs.io/) (Text)
   * [Your First Game](https://godot.readthedocs.io/en/3.0/getting_started/step_by_step/your_first_game.html)
   * [Math for Games](https://godot.readthedocs.io/en/latest/tutorials/math/index.html)
+
+### [جودو بالعربي](https://www.youtube.com/channel/UCwdtMK3akOxAooeUVSQ3UUw)
+
+* [تعلم أساسيات محرك الألعاب جودو ثري دي - الدرس الأول](https://www.youtube.com/watch?v=ukNeJDVg2vk)
+* [تعلم أساسيات محرك الألعاب جودو ثري دي - الدرس الثاني - Godot 3D](https://www.youtube.com/watch?v=4e9RFhfpID0)
+
+### [Adderly Céspedes](https://www.youtube.com/user/adderly2dd)
+
+* [Godot Engine 3 - Como crear Juegos Tutoriales en Español playlist](https://www.youtube.com/playlist?list=PL5K_XeigIfdJeaJ3-_YgnzD711StmJkZh)
+
+### [Aigioa Games](https://www.youtube.com/channel/UCA_JlKlXG8828MERDFBMUew) (Italian with English or Korean subitles)
+
+* [Reversi tutorial](https://www.youtube.com/playlist?list=PLonvYRuivCXf7oPS0N880JVb7CeXHmEXF)
+* [Scripting tutorial](https://www.youtube.com/playlist?list=PLonvYRuivCXeQRMF1hc6GWC0NBBf4OACf)
 
 ### [Airvikar](https://www.youtube.com/channel/UCxqHea4sma1ZPwOWykbh5Lw)
 
@@ -134,6 +170,15 @@ List of stuffs about the Godot Engine
 
 * [Pixel perfection in godot](https://alvarber.gitlab.io/pixel-perfection-in-godot.html) (Text)
 
+### [Ariel Gimenez](https://www.youtube.com/channel/UCQidxODFrNzabdDCa89WdTQ)
+
+* [Godot Engine 3D tutoriales y muestras](https://www.youtube.com/playlist?list=PLqsK8f12rhT9XBbjBcqFaITug2ODS9fJ5)
+* [Reporte BUG Godot engine y Blender3D](https://www.youtube.com/playlist?list=PLqsK8f12rhT_l1kphG2Jsa54yE2LMXMiZ)
+
+### [Ashshaosh daa](https://www.youtube.com/channel/UCQwZ7JmxU4eTix9DUbYXwhQ)
+
+* [Godot](https://www.youtube.com/playlist?list=PLMSwqV1whdAbW6lkJCFmBx-ZoOXPINvLV)
+
 ### [Axen Lader](https://godot3tutorials.wordpress.com/) (Text)
 
 ### [BackendCoder](https://www.youtube.com/channel/UCMeGhrTAryky9QFRTN6IWqQ/)
@@ -143,11 +188,17 @@ List of stuffs about the Godot Engine
 * [Godot project development update with signals](https://www.youtube.com/watch?v=tzyn7pjWU6Q)
 * [Godot GDSCript Reactive Audio](https://www.youtube.com/watch?v=JcE4MF897bo)
 
+### [Banduck](https://www.youtube.com/channel/UCfBt15W6Y0aPNTd5XxYEDyw)
+
 ### [Bastiaan Olij](https://www.youtube.com/channel/UCrbLJYzJjDf2p-vJC011lYw)
 
 * [Godot Desktop VR Tutorials Playlist](https://www.youtube.com/watch?v=07euJhZbeSc&list=PLe63S5Eft1KYGqgkx9I70vfWmvvOZ7apF)
 * [Godot Playlist](https://www.youtube.com/watch?v=kD1gMLE5XEg&list=PLe63S5Eft1KZWYPund35Bw7bNqIa8bQ7y)
 * [Godot Vehicle Tutorial](https://www.youtube.com/watch?v=Yvy8vQ-5O_w&list=PLe63S5Eft1KapdW0-o824gCbG8LPvzxSA)
+
+### [Bauxite](https://www.youtube.com/channel/UCJ4jQM0IuayS_eOuGEFNb2Q)
+
+### [Blazeowsky](https://www.youtube.com/channel/UCW6HicaATADWZpdU__aXjgg) (Polish)
 
 ### [BrainDeadBZH](https://www.braindead.bzh/)
 
@@ -176,6 +227,10 @@ List of stuffs about the Godot Engine
 
 ### [César León](https://www.youtube.com/channel/UCgGzdCAHB0R5KbSHZKUcaRA)
 
+### [Cryptic Coding](https://www.youtube.com/channel/UCLtcXpEuZo-Px7Hzm_tflGQ)
+
+* [Godot 3 : Platformer](https://www.youtube.com/playlist?list=PLkYL6Bpp_5mzs6Pr75uEgCk4Ycq0J_x8J)
+
 ### [Code Tuto](http://codetuto.com)
 
 * [All godot](http://codetuto.com/tag/godot) (Text)
@@ -188,6 +243,12 @@ List of stuffs about the Godot Engine
 ### [Crystal Bit](https://www.youtube.com/channel/UCFVgUrvckqp0i_pbCj3wjfA)
 
 * [Godot Engine 3.0 - Tutorial per principianti](https://www.youtube.com/watch?v=AY1zuH2mHQ0&list=PLaCq3HqKQR6rlPpf2GAOXp52ddt0V71Yl) (ITA)
+* [Stuff about godot](https://davcri.github.io/) (ENG - Text)
+
+### [Deybis Melendez](https://www.youtube.com/channel/UCSxqszCdHyojStKsZw-76Aw) (SPA?)
+
+* [SPEED CODING CHALLENGE #1 / Timelapse GODOT 3](https://www.youtube.com/playlist?list=PLoXNpYRpQVcCseygUFXBBVjZgGvqfcogv)
+* [Respondiendo preguntas sobre GODOT 3](https://www.youtube.com/watch?v=9FBzSZCczjE)
 
 ### [Diseñando Videojuegos con CR](https://www.youtube.com/channel/UC22JyoEBWm6qWJlCY2rSzIQ/videos)
 
@@ -195,6 +256,10 @@ List of stuffs about the Godot Engine
 * [[ENG] 001- Theoric Introduction - Godot 3](https://www.youtube.com/watch?v=q0tlQ7kFKFQ)
 * [[ENG] 002 - Knowing Godot 3.0 Editor](https://www.youtube.com/watch?v=NjIXeKXXWKo)
 * [[ENG] 003 - Scenes & Nodes - Godot 3.0](https://www.youtube.com/watch?v=SCkxyaH6v-Q)
+
+### [Endrit Special Productions](https://www.youtube.com/user/ShabaniBros)
+
+* [Fast help playlist](https://www.youtube.com/playlist?list=PLyYtNQrxz-dgrWU3Ae6PMi2dyiOVUYAfV)
 
 ### [Escuela de Juegos](https://www.youtube.com/channel/UCgJBHUEJEi7RkjCQx7xR4Wg) (Español)
 
@@ -220,6 +285,10 @@ List of stuffs about the Godot Engine
 * [Using C++ and GDNative in Godot - Part 1](https://gamedevadventures.posthaven.com/using-c-plus-plus-and-gdnative-in-godot-part-1)
 
 ### [Game Endeavor](https://www.youtube.com/channel/UCLweX1UtQjRjj7rs_0XQ2Eg)
+
+* [Godot Tips and Tricks That Will Make Your Games Better](https://www.youtube.com/playlist?list=PL4QJmtZWf50mZGcg4JoPs7VYz6xY7WQEP)
+* [How to Give Feedback to the Player in Your Games](https://www.youtube.com/playlist?list=PL4QJmtZWf50lQmU0IYxbFClCIUBqWa-Iz)
+* [How to Make a Platformer in Godot 3.0](https://www.youtube.com/playlist?list=PL4QJmtZWf50l94kf-WItXOsgBkPMGiJgg)
 
 #### Godot 3.0
 
@@ -270,6 +339,11 @@ List of stuffs about the Godot Engine
 
 * [Godot 3](https://www.youtube.com/watch?v=whlslfxZRIc&list=PLFc9LMxWODH_FYYYKFdKQt_D4-Milr6DW)
 
+### [Javier Barroso](https://www.youtube.com/channel/UCy2v0GxlTuRtkR74A9hEMHw) (Spanish)
+
+* [Godot engine tutorials](https://www.youtube.com/playlist?list=PLF8Gd2jnK8iO5SctMpmZFJ5qE2xdHbqo_)
+* [Godot engine games](https://www.youtube.com/playlist?list=PLF8Gd2jnK8iPCc7bZvJrjru0mZWpaOfcV)
+
 ### [Jayanam](https://www.youtube.com/user/jayanamgames)
 
 #### Godot Engine 2 2D Tutorials
@@ -300,6 +374,11 @@ List of stuffs about the Godot Engine
 * February 20 2018 [Thirdperson Character Rotation](https://www.youtube.com/watch?v=CeNXDSkv5v8)
 * February 25 2018 [Camera Follow Player](https://www.youtube.com/watch?v=kc-zJnRvPUY)
 * June 26 2018 [Android Export Tutorial](https://www.youtube.com/watch?v=QPI8JsKF2j4)
+
+[Jeremi360](https://www.youtube.com/channel/UCMGyApWbhZCBnsEn2SI4ovA) (Polish)
+
+* [Menu 2D](https://www.youtube.com/playlist?list=PLSKjrHqliRovF-vFbTUFIBwbg-La6xUYK)
+* [GodotTuts PL - Platfromówka 2D](https://www.youtube.com/playlist?list=PLSKjrHqliRosLA1HrP2vD6SIsGxmnvYeM)
 
 ### [Jeremy Bullock](https://www.youtube.com/channel/UCwJw2-V5S1TkBjLQ3_Ws54g)
 
@@ -352,7 +431,7 @@ List of stuffs about the Godot Engine
 * [Godot 3.0 Tutorials Playlist](https://www.youtube.com/watch?v=xsAyx2r1bQU&list=PLsk-HSGFjnaH-kptk70dHaX-tbJaRrFiQ)
 * [Godot 3.0: Top-down Tank Battle Playlist](https://www.youtube.com/watch?v=sQ1FpD0DYF8&list=PLsk-HSGFjnaFC8kEv6MaLXnnDcevGpSWf)
 
-### Krystian Erber(https://www.youtube.com/channel/UCW3yR2lm1csU_UEkeLknCmw)
+### [Krystian Erber](https://www.youtube.com/channel/UCW3yR2lm1csU_UEkeLknCmw)
 
 * [How to create Ribbon Particle System in Godot 3.0 with Line2D](https://www.youtube.com/watch?v=8LJsRKRR_7w)
 * [How to create 2D trails in Godot 3.0 with Line2D](https://www.youtube.com/watch?v=s5DwZZ0fZDg)
@@ -373,21 +452,57 @@ List of stuffs about the Godot Engine
 
 * [FlappyBird Tutorial - Godot](https://www.youtube.com/watch?v=csKL8xQq-p0&list=PLfhw26jMNbCrGGUVfF-z5pw7CheEWCnyf) (Spanish? Italian?)
 
+### [L Leedoriden](https://www.youtube.com/channel/UCGDzWqPDXREUdPKRaP_x17w)
+
+* [Tutorials](https://www.youtube.com/playlist?list=PLukHeEkGhURtS_TvORngtXrhlF93alxR5)
+
+### [Lendrigan Games](https://www.youtube.com/channel/UCvmygDa9a5ro46k0iSdw6cQ)
+
+* [How To Recreate Unity's Animation Window In Godot](https://www.youtube.com/watch?v=n7q5sT7Wdmw)
+
+### [Make Your Game - Event Orizon Studio]
+
+* [Godot Engine 3 Tutorials](https://www.youtube.com/playlist?list=PLi-VYObBzzKN8MWcAVo7y2JPcct1WOyXd) (French)
+
 ### [Mariano Suligoy](https://www.youtube.com/channel/UCoteoMv9mJGbSGOVOIFdBwA)
 
 * [Pokemon con Godot Engine (Godot 2)](https://www.youtube.com/watch?v=snG4kfVN1X8&list=PLdxpqdgprAY0bLAtdcWi8M1TZjSjIdDHn) (Portugal?)
+
+### [Martin Senges](https://www.youtube.com/user/LaresGames)
+
+* [Godot Inventory System Tutorial](https://www.youtube.com/playlist?list=PLWuZWGwSIQHZi1318Lh6SyLP3ZWLhMCpB)
+* [Godot Tutorials and Game Development](https://www.youtube.com/playlist?list=PLWuZWGwSIQHZhMJyRvjPMZfu0MCQrNdez)
 
 ### [Master-Info Turiais](https://www.youtube.com/channel/UC8HJPSAFPf6136h3FDXLnaA/about)
 
 * [Lógica de programação com Godot 3](https://www.youtube.com/watch?v=vo-AgfrchNc&list=PLee7C2V6LKR54nduoV_63y07AGJvhTtx_) [Brezilian?]
 
-### [Michas game dev](https://michagamedev.wordpress.com/)
+### [Maujoe's Medley](https://www.youtube.com/channel/UCKvRBStkGjVqWtmnSzo8ByQ)
 
-* [Autotiling in Godot 3.0](https://michagamedev.wordpress.com/2018/02/24/181/) (Text)
+* [Godot Game Engine](https://www.youtube.com/playlist?list=PLcnTIfbDcsnVOjZesN3q665xwLB8GEds9)
 
 ### [Meletou1](https://www.youtube.com/user/Meletou1) [FR]
 
 * [Godot 3](https://www.youtube.com/watch?v=qlvKhlOdLbQ&list=PLPkyJleaM9WwVuCx8mJY1Q5SSN3God1DS)
+
+### [Melvyn Drag](https://www.youtube.com/channel/UCrYyngwfV6BTtfIeKkyma0A)
+
+* [Godot Bluetooth Coding](https://www.youtube.com/watch?v=V9WzbxwIpmU)
+* [Godot Bluetooth Success! Part1](https://www.youtube.com/watch?v=V867CoIYpv4)
+
+### [Michas game dev](https://michagamedev.wordpress.com/)
+
+* [Autotiling in Godot 3.0](https://michagamedev.wordpress.com/2018/02/24/181/) (Text)
+
+### [Mister Taft Creates](https://www.youtube.com/channel/UCZczqDvepgNqy80gTMGnUXw)
+
+* [Make a Match 3 game like Candy Crush using Godot](https://www.youtube.com/playlist?list=PL4vbr3u7UKWqwQlvwvgNcgDL1p_3hcNn2)
+
+### [Miziziziz](https://www.youtube.com/channel/UCaoqVlqPTH78_xjTjTOMcmQ)
+
+* [Shader stylized waterfall](https://www.youtube.com/watch?v=PLCGL3RW548)
+* [Stream](https://www.youtube.com/watch?v=xTiqLdjnc2c&list=PLmugv6_kd0qMYqJbRPgx5XqazYcMNLELl)
+* [Tutorials](https://www.youtube.com/watch?v=f2n_VRa-00g&list=PLmugv6_kd0qN6AyjG245_Pdak4MXKUx88)
 
 ### [Mr Jed](https://www.youtube.com/channel/UCMD7n8eNAbaRjYIOQar4pHw)
 
@@ -406,6 +521,14 @@ List of stuffs about the Godot Engine
 
 [Tutorials](https://www.youtube.com/playlist?list=PLhZ4HC__ica795Y05VGAnDV8u_4BjoCgV)
 
+### [OdooClass.com](https://www.youtube.com/channel/UCn95lB97bOQb8OuK441zF7Q)
+
+* [Build a Pirate Trading Game (Taipan like) in Godot EP 1](https://www.youtube.com/watch?v=FwC95fcmlX4) [& EP2](https://www.youtube.com/watch?v=4AbU7-p5vYg)
+
+### [Open Source Games](https://www.youtube.com/user/GamesOpenSource)
+
+* [Godot Playlist](https://www.youtube.com/playlist?list=PLz8BV_VUaS9RhiV2qjal8yRkKGZfYHTHK)
+
 ### [Página Pessoal de Shin-NiL](https://shinnil.blogspot.com/) (Text)
 
 ### [Papai Game Maker](https://www.youtube.com/channel/UC9leBtpltYJIqyvPLDabGwg)
@@ -420,11 +543,29 @@ List of stuffs about the Godot Engine
 
 * [Godot Engine](https://www.youtube.com/playlist?list=PLHhWYUQDoR0gTMJ-E--WbuJYEJ0i5ZMq2)
 
+### [Programmieren Starten](https://www.youtube.com/channel/UCVdfgrCLfJQfO5EgPlzaYAQ) (Dutch)
+
+* [Godot Crashkurs](https://www.youtube.com/playlist?list=PL_pqkvxZ6ho0nVXxQCdND2cbWSVAX2nhs)
+* [Weitere Godot Tutorials](https://www.youtube.com/playlist?list=PL_pqkvxZ6ho1_CIrlxIRvLsSWaaJ_qScF)
+
+### [Rainware](https://www.youtube.com/channel/UCYSsVFCsjBSA1t9GsqBv9iQ)
+
+* [Godot Vlog 1-15 Create an RTS game playlist](https://www.youtube.com/playlist?list=PLV9wlVwi2Pgohszu88tmgcYHdjMsMcCd3)
+* Vlog 16-* are not in the playlist
+
 ### [Roman Fetsch](https://www.youtube.com/channel/UChuD3nWmhp9xgTAPjcO_DqQ)
 
 * [Rocketschmeers - Godot Multiplayer Network Tutorial](https://www.youtube.com/watch?v=LIK5tRzGAHw)
 * [Rocketschmeers - Godot Multiplayer Network Tutorial Part 2](https://www.youtube.com/watch?v=2CgzdEuU03k)
 * [Planet Jumper Physics Tutorial](https://www.youtube.com/watch?v=L1LZi0ePQ7Y)
+
+### [Sad Pixel](https://www.youtube.com/channel/UCtjoe_Bd6igN7XiYBYYyACw)
+
+* [FUS RO DAH](https://www.youtube.com/watch?v=ThWrSH9Vjw4)
+* [Tutorials](https://www.youtube.com/watch?v=XFL_eiAQVC8&list=PLvwddS1AvlE0jk_Ty1hRd1w_i4-wYagVF)
+* [VFX Godot engine](https://www.youtube.com/watch?v=RZiLFdUXI2c&list=PLvwddS1AvlE2Gu4dGGMmGDGr2IC7WjMCH)
+
+### [Schuster Art](https://www.youtube.com/channel/UC5dntCvbfu5_gdYBHo3JzoQ)
 
 ### [Sebastián Diéguez](https://www.youtube.com/channel/UCZkjxZtCcowzCPky_pXa-NA)
 
@@ -433,6 +574,19 @@ List of stuffs about the Godot Engine
 * [Godot 3: Primeros pasos en el 2D](https://www.youtube.com/watch?v=A4xee54qDp8) (Spanish)
 
 ### [Securas](https://www.youtube.com/user/rluis)
+
+### [SkanerSoft](https://www.youtube.com/channel/UCOTSosw_E-Cr88QkAb1Mdsg) (RUS)
+
+* [GDScript Book - изучение GDScript, уроки](https://www.youtube.com/playlist?list=PLf0k8CBUad-vQIVwBkgxogtV3VCicXQbs)
+* [Godot Engine уроки на русском. Уроки разработки игр на Godot 3](https://www.youtube.com/playlist?list=PLf0k8CBUad-v_J1Xq5XW7FEUHokxSuYnF)
+
+### [Stern Flowers](https://www.youtube.com/channel/UCi_43GEvIKhByIvjFlVStgQ)
+
+* [Godot Wild Jam #2](https://www.youtube.com/watch?v=oYaWWK4OGwU) & [#3](https://www.youtube.com/watch?v=C_ZfGCreI9A)
+
+### [Solo CodeNet](https://www.youtube.com/channel/UC2Kl-Y9g3CJST4U8kAyYxHw)
+
+* [Godot platformer 2D](https://www.youtube.com/playlist?list=PLxRGZlMeAiCK9Tgsv-M9q5cW8YZWM4gJ8) (French)
 
 ### [Stein Codes](https://www.youtube.com/channel/UCpljFlcQVNj1nUYs8v02IAQ)
 
@@ -456,6 +610,12 @@ List of stuffs about the Godot Engine
 
 ### [Solar Lune](https://www.youtube.com/user/SolarLuneTube/videos) Many videos
 
+### [Thanh Nguyen](https://www.youtube.com/channel/UCG6W1zGGWqLvymaWr8eLPyQ)
+
+* [ANDROID ADMOB EXPORT TEMPLATE FOR GODOT 2.1.5 (TESTED!)](https://www.youtube.com/watch?v=30d0cYgVFGk)
+* [GODOT 3D GAME TUTORIAL FOR BEGINER!](https://www.youtube.com/watch?v=F_1keSkfJlo)
+* [Godot high level networking tutorial for beginer (part 1)](https://www.youtube.com/watch?v=vu8bx88bTHY)
+
 ### [Tech Valley Game Space](https://www.youtube.com/user/TechValleyGameSpace)
 
 * [Intro to Godot 3](https://www.youtube.com/watch?v=TFZDeYs_gEI)
@@ -464,6 +624,10 @@ List of stuffs about the Godot Engine
 
 * [Godot Engine Review](https://www.youtube.com/watch?v=y2RVAl3H-EY)
 * [Godot Engine Tutorial: The Basics of Branching Dialogue and Dynamic Events](https://www.youtube.com/watch?v=aVutIoCGAfE)
+
+### [Tiger J](https://www.youtube.com/channel/UC3kuqM4hpXXrVDWNst0uDng)
+
+* [Get Played | GODOT JAM JUNE 20th 2018 Part 1](https://www.youtube.com/watch?v=v-lsrp-PQzg)
 
 ### [Tim Mendenhall](https://gamedeved.io) (Text)
 
@@ -492,6 +656,14 @@ List of stuffs about the Godot Engine
 ### [UmaiPixel](https://www.youtube.com/channel/UCla6BhPwo5zGal6vR5le4YA)
 
 * [Godot 3 - Platformer Tutorial](https://www.youtube.com/watch?v=MMsMtPVUtUE)
+
+### [Utopia Machines](https://www.youtube.com/channel/UCx7eHYigSLnNXpBFUrAJYrw)
+
+* [Godot 3 2D Platformer](https://www.youtube.com/watch?v=afPMSlTMyZg)
+
+### [Vanson Leung](https://www.youtube.com/channel/UCf_D8BYu0t4CKXOQseJhTdg)
+
+* [Godot 3.1 Tutorial 1 - Basic Player Movement with typed GDScript](https://www.youtube.com/watch?v=4JX3IeH9wYM)
 
 ### [Vunnysher](https://www.youtube.com/channel/UCMmsuWnT0NAM0yA4ZJPz7tg)
 
