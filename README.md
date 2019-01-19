@@ -26,8 +26,10 @@ List of stuffs about the Godot Engine
 * [GD-Com TCP/UDP Godot - Nodejs](https://www.npmjs.com/package/gd-com)
 * [Godot Enet Better](https://github.com/Faless/godot-enet-better)
 * [Godot-Voxel-Game-MineCraftClone](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone)
+* [voxelgame: Voxel Game Prototype](https://github.com/Zylann/voxelgame) 
 * [MMORPG Godot engine test](https://github.com/leotada/solid-memory)
 * [Mr Minimal : Water Shader](https://gitlab.com/MrMinimal/GodotWater)
+* [Mr Minimal : Godot dedicated server tutorial](https://mrminimal.gitlab.io/2018/07/26/godot-dedicated-server-tutorial.html?fbclid=IwAR14Jqq17VMHS2-fEBvtCtgdY-o5Dvn2RxEONXmADgDOZM6Uh4Xgb7PnmIM)
 * [Godot OpenStreetMap (godot 2)](https://github.com/RodZill4/godot-openstreetmap)
 * [Rafael Arreaola: Page fold mobile](https://www.youtube.com/watch?v=zjYLVV2rVEo)
 * [Tavurth : Simple FPS Camera](https://github.com/tavurth/godot-simple-fps-camera)
@@ -62,6 +64,7 @@ List of stuffs about the Godot Engine
 ## Experiments
 
 * [Azteca Sensei: Multiple experiments](https://www.youtube.com/channel/UCgqse0HOFHEhqISrM_snnPA)
+* [Dwana games : Godot 3.1 Character Setup 1 - Texture Painting in Blender 2.8](https://www.youtube.com/watch?v=fMic306LN3o)
 * [Em Alexander : Dialogue Tree Plugin](https://github.com/EmAlexander/DialogueTreePlugin)
 * [Godot 3 Windows issues](https://www.youtube.com/channel/UC1zMh5_cGW6tpMwKf13YSOQ)
 * [Godot Engine Q&A : Omni Directional Touch Pad](https://godotengine.org/qa/360/omni-directional-touch-pad?show=375#a375)
@@ -100,8 +103,12 @@ List of stuffs about the Godot Engine
 
 ## Initiation
 
-* [Godot Game Engine : initiation](https://fr.flossmanuals.net/godot-game-engine-initiation/a-propos-de-ce-livre/) (French)
-* [Présentation et installation de Godot Engine 3.0 C#](https://makeyourgame.fun/presentation-installation-de-godot-engine-3-0/) (French)
+* [Godot Game Engine : initiation](https://fr.flossmanuals.net/godot-game-engine-initiation/a-propos-de-ce-livre/) (FR)
+* [Présentation et installation de Godot Engine 3.0 C#](https://makeyourgame.fun/presentation-installation-de-godot-engine-3-0/) (FR)
+
+## IDE
+
+* [Graphical Brainfuck IDE](https://github.com/wmww/BrainfuckIDE)
 
 ## Libraries
 
@@ -225,7 +232,11 @@ List of stuffs about the Godot Engine
 * [Godot 3 - Tutorial - Tree Node and how to send signals to other GUI windows](https://www.youtube.com/watch?v=luqzBdHmd64)
 * [Godot 3 - GUI window drag fix and increasing functionallity](https://www.youtube.com/watch?v=4Ju7VnWaO3I)
 
-### [César León](https://www.youtube.com/channel/UCgGzdCAHB0R5KbSHZKUcaRA)
+### [César León](https://www.youtube.com/channel/UCgGzdCAHB0R5KbSHZKUcaRA) (SPA)
+
+### [Christian Baune](https://www.youtube.com/channel/UCTdN11-WljvN6XDRdlWwSow)
+
+* [Tutoriel Godot: Jeu de vaisseau](https://www.youtube.com/watch?v=FuMgAo4y9qs) (FR)
 
 ### [Cryptic Coding](https://www.youtube.com/channel/UCLtcXpEuZo-Px7Hzm_tflGQ)
 
@@ -318,7 +329,7 @@ List of stuffs about the Godot Engine
 * [Godot Power Pitch How to use translations and contribute new languages](https://www.youtube.com/watch?v=txCSyNgzvzw)
 * [Godot tutorial: Learn the Godot Engine and Create a Platform Game](https://www.youtube.com/watch?v=txCSyNgzvzw)
 
-### [Greaby](https://www.youtube.com/user/greabyMinecraft) (French)
+### [Greaby](https://www.youtube.com/user/greabyMinecraft) (FR)
 
 ### [Gus Game Dev](https://www.youtube.com/channel/UCoxRNjIDKlzxxl8OOJub6CA/playlists)
 
@@ -463,7 +474,7 @@ List of stuffs about the Godot Engine
 
 ### [Make Your Game - Event Orizon Studio]
 
-* [Godot Engine 3 Tutorials](https://www.youtube.com/playlist?list=PLi-VYObBzzKN8MWcAVo7y2JPcct1WOyXd) (French)
+* [Godot Engine 3 Tutorials](https://www.youtube.com/playlist?list=PLi-VYObBzzKN8MWcAVo7y2JPcct1WOyXd) (FR)
 
 ### [Mariano Suligoy](https://www.youtube.com/channel/UCoteoMv9mJGbSGOVOIFdBwA)
 
@@ -587,7 +598,7 @@ List of stuffs about the Godot Engine
 
 ### [Solo CodeNet](https://www.youtube.com/channel/UC2Kl-Y9g3CJST4U8kAyYxHw)
 
-* [Godot platformer 2D](https://www.youtube.com/playlist?list=PLxRGZlMeAiCK9Tgsv-M9q5cW8YZWM4gJ8) (French)
+* [Godot platformer 2D](https://www.youtube.com/playlist?list=PLxRGZlMeAiCK9Tgsv-M9q5cW8YZWM4gJ8) (FR)
 
 ### [Stein Codes](https://www.youtube.com/channel/UCpljFlcQVNj1nUYs8v02IAQ)
 
