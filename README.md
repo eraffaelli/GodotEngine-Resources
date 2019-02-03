@@ -263,7 +263,8 @@ List of stuffs about the Godot Engine
 
 ### [Diseñando Videojuegos con CR](https://www.youtube.com/channel/UC22JyoEBWm6qWJlCY2rSzIQ/videos)
 
-* [Curso de Godot 3.0 [Game Engine] en Español](https://www.youtube.com/watch?v=RpajSAcRBE8&list=PL-LVzUIW9jywpWGmcCDsHZ0WsprFibZD0)
+* [[S1]Curso de Godot 3 - Paso a Paso [Season1]](https://www.youtube.com/playlist?list=PL-LVzUIW9jywpWGmcCDsHZ0WsprFibZD0)
+* [[S2]Curso de Godot 3 - Scripting [Season2] - (En desarrollo)](https://www.youtube.com/playlist?list=PL-LVzUIW9jywcrlGyBqUSMWfPH-zXsHuE)
 * [[ENG] 001- Theoric Introduction - Godot 3](https://www.youtube.com/watch?v=q0tlQ7kFKFQ)
 * [[ENG] 002 - Knowing Godot 3.0 Editor](https://www.youtube.com/watch?v=NjIXeKXXWKo)
 * [[ENG] 003 - Scenes & Nodes - Godot 3.0](https://www.youtube.com/watch?v=SCkxyaH6v-Q)
@@ -668,6 +669,7 @@ List of stuffs about the Godot Engine
 ### [UmaiPixel](https://www.youtube.com/channel/UCla6BhPwo5zGal6vR5le4YA)
 
 * [Godot 3 - Platformer Tutorial](https://www.youtube.com/watch?v=MMsMtPVUtUE)
+* [Make Your Character Double Jump](https://www.youtube.com/watch?v=9lwI-dGvxk8)
 
 ### [Utopia Machines](https://www.youtube.com/channel/UCx7eHYigSLnNXpBFUrAJYrw)
 
