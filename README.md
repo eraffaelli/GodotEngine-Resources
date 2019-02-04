@@ -69,6 +69,7 @@ List of stuffs about the Godot Engine
 * [Godot 3 Windows issues](https://www.youtube.com/channel/UC1zMh5_cGW6tpMwKf13YSOQ)
 * [Godot Engine Q&A : Omni Directional Touch Pad](https://godotengine.org/qa/360/omni-directional-touch-pad?show=375#a375)
 * [Linkans : Godot engine experiments playlist](https://www.youtube.com/playlist?list=PLTUoLxm6vZ9bCbWKT7dbpnc6Mg3kWYQOj)
+* [lawnjelly : Godot water physics test 3](https://www.youtube.com/watch?v=aZRBgmNey_U)
 * [Michael Bridges : How To Get 3D Models From Blender into Godot](https://www.youtube.com/watch?v=hRjmgNRR77Y)
 * [Migrations notes Godot 2 => Godot 3](https://github.com/dploeger/godot-migrationnotes)
 * [OWs Tetra : Godot 3 Lens Flare](https://www.youtube.com/watch?v=lCZ5Evy5oBQ)
@@ -130,6 +131,10 @@ List of stuffs about the Godot Engine
 
 * [تعلم أساسيات محرك الألعاب جودو ثري دي - الدرس الأول](https://www.youtube.com/watch?v=ukNeJDVg2vk)
 * [تعلم أساسيات محرك الألعاب جودو ثري دي - الدرس الثاني - Godot 3D](https://www.youtube.com/watch?v=4e9RFhfpID0)
+
+### [大鳥寶盒](https://www.youtube.com/channel/UC1SiOQU87st6JiaBhHXEtew)
+
+* [Godot Engine Walk-Through: Godot Engine | 實作responsive UI](https://www.youtube.com/playlist?list=PLTDQWu5_P3_Xy3hCWWjePE0PD8y7MSM7I)
 
 ### [Adderly Céspedes](https://www.youtube.com/user/adderly2dd)
 
@@ -234,6 +239,11 @@ List of stuffs about the Godot Engine
 
 ### [César León](https://www.youtube.com/channel/UCgGzdCAHB0R5KbSHZKUcaRA) (SPA)
 
+* [BDD -¡Recuerdo estas Plataformas!-](https://www.youtube.com/playlist?list=PLNWQ-CFReOiIDtMmqJVFetPUKTUwAii5I)
+* [Juego RTS en Godot](https://www.youtube.com/playlist?list=PLNWQ-CFReOiLLd8qurareulDKebqaZuZz)
+* [Tappy Plane en Godot](https://www.youtube.com/playlist?list=PLNWQ-CFReOiLTrSdACtMOFHR66EnFfMdo)
+* [Tutoriales para Godot](https://www.youtube.com/playlist?list=PLNWQ-CFReOiJZp9kN_uh7Q29fjLQHVAHy)
+
 ### [Christian Baune](https://www.youtube.com/channel/UCTdN11-WljvN6XDRdlWwSow)
 
 * [Tutoriel Godot: Jeu de vaisseau](https://www.youtube.com/watch?v=FuMgAo4y9qs) (FR)
@@ -261,6 +271,12 @@ List of stuffs about the Godot Engine
 * [SPEED CODING CHALLENGE #1 / Timelapse GODOT 3](https://www.youtube.com/playlist?list=PLoXNpYRpQVcCseygUFXBBVjZgGvqfcogv)
 * [Respondiendo preguntas sobre GODOT 3](https://www.youtube.com/watch?v=9FBzSZCczjE)
 
+### [Digital Student](https://www.youtube.com/channel/UClFXngLulgo90MiSxPoVTYQ)
+
+* [Basic App Development Project 101](https://www.youtube.com/playlist?list=PLX_nApYMuy6Wgb6f-6mdaCeWTCwrhGXGQ)
+* [Creating Tic Tack Toe in Godot](https://www.youtube.com/playlist?list=PLX_nApYMuy6UuIjt6wbCi_4SQ28-QoSVW)
+* [Using Godot to create a mobile app](https://www.youtube.com/playlist?list=PLX_nApYMuy6Wc1ThvjU9ZfkDfHrb6DVkK)
+
 ### [Diseñando Videojuegos con CR](https://www.youtube.com/channel/UC22JyoEBWm6qWJlCY2rSzIQ/videos)
 
 * [[S1]Curso de Godot 3 - Paso a Paso [Season1]](https://www.youtube.com/playlist?list=PL-LVzUIW9jywpWGmcCDsHZ0WsprFibZD0)
@@ -285,6 +301,10 @@ List of stuffs about the Godot Engine
 
 * [Godot Zelda-like Tutorial Playlist](https://www.youtube.com/watch?v=4CLvL05Av6g&list=PLv0bAfkzWSiY4d_FJlQTlFOZh34nrlJZY) [Text versions !](https://fornclake.com/category/tutorials/godotzelda) (TEXT)
 * [Godot 3.1 Asteroids Tutorial Playlist](https://www.youtube.com/playlist?list=PLv0bAfkzWSiYn3BV5jWJUWZbr-9osyRae) [Text version !](https://fornclake.com/category/tutorials/asteroids) (TEXT)
+
+### [Fratm](https://www.youtube.com/user/fratm)
+
+* [Shooty McShootSpace - Best Game Ever! A Godot Project by Your's truly.](https://www.youtube.com/watch?v=y_MxSfM6-34) [Github](https://github.com/Fratm/mcspaceshooter)
 
 ### [FrogsSquare](https://frogsquare.com/) (Text)
 
@@ -340,6 +360,10 @@ List of stuffs about the Godot Engine
 
 * [Godot Engine 2 Tutorials](https://www.youtube.com/watch?v=ntYjl_obUDo&list=PL9FzW-m48fn1iR6WL4mjXtGi8P4TaPIAp)
 * [Godot 3 - Platform Game Tutorial](https://www.youtube.com/watch?v=wETY5_9kFtA&list=PL9FzW-m48fn2jlBu_0DRh7PvAt-GULEmd)
+
+### [Intera Games](https://www.youtube.com/channel/UCGg38Rf3ExttCi2B7-axoPg)(Portuguese)
+
+* [Godot Engine #1 - Iniciando o projeto, um pouco sobre a ferramenta e o curso](https://www.youtube.com/watch?v=Or0-YzYsbD0)
 
 ### [Ivan Skodje](https://www.youtube.com/channel/UCBHuFCVtZ9vVPkL2VxVHU8A) Have a weird voice through :/
 
@@ -449,6 +473,12 @@ List of stuffs about the Godot Engine
 * [How to create Ribbon Particle System in Godot 3.0 with Line2D](https://www.youtube.com/watch?v=8LJsRKRR_7w)
 * [How to create 2D trails in Godot 3.0 with Line2D](https://www.youtube.com/watch?v=s5DwZZ0fZDg)
 
+### [Kyle Szklenski](https://www.youtube.com/user/WolfgangSenff)
+
+* [Godot - Navigator2D plugin demo](https://www.youtube.com/watch?v=RnQSdOYMS2g)
+* [Godot: Touch-move in a 3D Environment](https://www.youtube.com/watch?v=O4hwzS__yv8)
+* [Godot 3.0.5: Exporting for Android](https://www.youtube.com/watch?v=sB7S4OrXPfM)
+
 ### [Lars Bergqvist](https://thingsmatic.com)
 
 * [Making a 2D platform game with Godot 3.0](https://thingsmatic.com/2018/02/17/making-a-2d-platform-game-with-godot-3-0/) (Text)
@@ -483,6 +513,7 @@ List of stuffs about the Godot Engine
 
 ### [Martin Senges](https://www.youtube.com/user/LaresGames)
 
+* [Converting your games from 2D to 3D](https://www.youtube.com/watch?v=aFbYCy8UEZM)
 * [Godot Inventory System Tutorial](https://www.youtube.com/playlist?list=PLWuZWGwSIQHZi1318Lh6SyLP3ZWLhMCpB)
 * [Godot Tutorials and Game Development](https://www.youtube.com/playlist?list=PLWuZWGwSIQHZhMJyRvjPMZfu0MCQrNdez)
 
@@ -633,6 +664,10 @@ List of stuffs about the Godot Engine
 
 * [Intro to Godot 3](https://www.youtube.com/watch?v=TFZDeYs_gEI)
 
+### [TheBaldChick](https://www.youtube.com/channel/UC-gmHBbLvUKM9VzA9otCLPA)
+
+* [Godot 3.0: Complete Patformer Tutorial](https://www.youtube.com/playlist?list=PL3ELWPsiplh4WheZA-l6o7tbP0Xt38MFZ)
+
 ### [TheHappieCat](https://www.youtube.com/channel/UCBsuOBu-dxj5bx1KMgmar5g)
 
 * [Godot Engine Review](https://www.youtube.com/watch?v=y2RVAl3H-EY)
@@ -678,6 +713,10 @@ List of stuffs about the Godot Engine
 ### [Vanson Leung](https://www.youtube.com/channel/UCf_D8BYu0t4CKXOQseJhTdg)
 
 * [Godot 3.1 Tutorial 1 - Basic Player Movement with typed GDScript](https://www.youtube.com/watch?v=4JX3IeH9wYM)
+
+### [Виктор Никитин](https://www.youtube.com/channel/UCwBDPu_dpq2N4scUa6LEf6Q)
+
+* [Godot Playlist](https://www.youtube.com/playlist?list=PL5yZxS3aQ5ASutDRw-n8VRCVqqaDe2O2b)
 
 ### [Vunnysher](https://www.youtube.com/channel/UCMmsuWnT0NAM0yA4ZJPz7tg)
 
