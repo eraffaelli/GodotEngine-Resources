@@ -106,6 +106,7 @@ List of stuffs about the Godot Engine
 
 * [Godot Game Engine : initiation](https://fr.flossmanuals.net/godot-game-engine-initiation/a-propos-de-ce-livre/) (FR)
 * [Présentation et installation de Godot Engine 3.0 C#](https://makeyourgame.fun/presentation-installation-de-godot-engine-3-0/) (FR)
+* [Godot Training](https://github.com/xsellier/godot-training) (FR)
 
 ## IDE
 
@@ -113,6 +114,7 @@ List of stuffs about the Godot Engine
 
 ## Libraries
 
+* [Animated charts for Godot Engine](https://github.com/binogure-studio/chart-gd)
 * [Unirest in GDScript: Simplified, lightweight HTTP client library.](https://github.com/godot-addons/godot-unirest)
 * [Godot Steam API](https://github.com/Gramps/GodotSteam/tree/godot3)
 
@@ -336,6 +338,7 @@ List of stuffs about the Godot Engine
   * [2D Physics -- Godot 3 Tutorial Series](https://www.youtube.com/watch?v=vY4I5VeQbBk)
 * [Bowling With Godot -- A Complete 3D Game Using The Godot Game Engine](https://www.youtube.com/watch?v=-NtqTzevB-0)
 * [GDSCript Programming 101 - Godot 3 Tutorial Series](https://www.youtube.com/watch?v=ybz5CfIPYq0)
+* [Getting Started With Godot — Step By Step Game Development Tutorial Series](https://devga.me/tutorials/godot2d/) (TEXT)
 
 ### [Gary's Blog](https://meshist.wordpress.com/)
 
