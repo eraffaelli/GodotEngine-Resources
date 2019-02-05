@@ -508,6 +508,10 @@ List of stuffs about the Godot Engine
 
 * [How To Recreate Unity's Animation Window In Godot](https://www.youtube.com/watch?v=n7q5sT7Wdmw)
 
+### [Let's Make Games](https://www.youtube.com/channel/UCGdlxwurRhrvVudICoTT-Pg)
+
+* [Menu Template](https://www.youtube.com/playlist?list=PLI95OAGEsXs8_5_OrBpZylMFp4xuEVleL)
+
 ### [Make Your Game - Event Orizon Studio]
 
 * [Godot Engine 3 Tutorials](https://www.youtube.com/playlist?list=PLi-VYObBzzKN8MWcAVo7y2JPcct1WOyXd) (FR)
