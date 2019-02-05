@@ -352,6 +352,8 @@ List of stuffs about the Godot Engine
 * [Godot 3 UI Tutorials Playlist](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KGXNbfsUHJbb5-s2Tujtjt4)
 * [Godot Power Pitch How to use translations and contribute new languages](https://www.youtube.com/watch?v=txCSyNgzvzw)
 * [Godot tutorial: Learn the Godot Engine and Create a Platform Game](https://www.youtube.com/watch?v=txCSyNgzvzw)
+* [Godot 3.1 3D tutorial playlist](https://www.youtube.com/watch?v=FD5999mgbSo&list=PLhqJJNjsQ7KHGd_Zuf_Yx6XQ6BazFyoLh)
+* [Intro to Shaders in Godot 2D and 3D water tutorials](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KHqNMYmTwtsYTeTrqrRP_fP)
 
 ### [Greaby](https://www.youtube.com/user/greabyMinecraft) (FR)
 
