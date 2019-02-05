@@ -22,11 +22,15 @@ List of stuffs about the Godot Engine
 
 ## Code/Examples
 
+* [2D Day & Night Cycle](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle)
+* [Mishapsi: 3D Voxels to Pixel Art with viewports](https://www.reddit.com/r/godot/comments/9497gz/how_to_3d_voxels_to_pixel_art_with_viewports/)
+* [Icelus : Blend cutout and traditional animation in Godot](https://odysseygames.blogspot.com/2018/05/how-to-blend-cutout-and-traditional.html)
 * [Decay Battle Royal](https://github.com/Gonkee/decay-br/)
 * [GD-Com TCP/UDP Godot - Nodejs](https://www.npmjs.com/package/gd-com)
 * [Godot Enet Better](https://github.com/Faless/godot-enet-better)
 * [Godot-Voxel-Game-MineCraftClone](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone)
-* [voxelgame: Voxel Game Prototype](https://github.com/Zylann/voxelgame) 
+* [Jarl Owrey: 2D Normal Mapping in Godot with Sprite Illuminator](https://jarlowrey.com/blog/2d-normal-godot.html)
+* [Johnny Wycliffe : Civilization tile movement](https://github.com/johnnywycliffe/Civ-DungeonTileMovement)
 * [MMORPG Godot engine test](https://github.com/leotada/solid-memory)
 * [Mr Minimal : Water Shader](https://gitlab.com/MrMinimal/GodotWater)
 * [Mr Minimal : Godot dedicated server tutorial](https://mrminimal.gitlab.io/2018/07/26/godot-dedicated-server-tutorial.html?fbclid=IwAR14Jqq17VMHS2-fEBvtCtgdY-o5Dvn2RxEONXmADgDOZM6Uh4Xgb7PnmIM)
@@ -34,7 +38,10 @@ List of stuffs about the Godot Engine
 * [Rafael Arreaola: Page fold mobile](https://www.youtube.com/watch?v=zjYLVV2rVEo)
 * [Tavurth : Simple FPS Camera](https://github.com/tavurth/godot-simple-fps-camera)
 * [Tom Kemna ! Connect and disconnect Godot Engine Dedicated Server](https://www.youtube.com/watch?v=O8X7RATgMwA)
+* [Tom Langwaldt : Godot mod and patch support](https://mrminimal.gitlab.io/2018/10/28/mod-support-in-godot.html)
 * [Top-Down MMO robots war](https://github.com/HassanHeydariNasab/sola) (Spanish)
+* [SinisterNathan : Viewport Raycast in a certain area](https://www.reddit.com/r/godot/comments/9uj3hd/viewport_raycast_in_a_certain_area/)
+* [voxelgame: Voxel Game Prototype](https://github.com/Zylann/voxelgame)
 
 ## Debug
 
@@ -63,7 +70,7 @@ List of stuffs about the Godot Engine
 
 ## Experiments
 
-* [ANSiTURE: POC ANSi rendering in Godot Engine (Godot 2.1)](https://github.com/w84death/ansiture)
+* [ANSiTURE: POC ANSI rendering in Godot Engine (Godot 2.1)](https://github.com/w84death/ansiture)
 * [Azteca Sensei: Multiple experiments](https://www.youtube.com/channel/UCgqse0HOFHEhqISrM_snnPA)
 * [Dwana games : Godot 3.1 Character Setup 1 - Texture Painting in Blender 2.8](https://www.youtube.com/watch?v=fMic306LN3o)
 * [Em Alexander : Dialogue Tree Plugin](https://github.com/EmAlexander/DialogueTreePlugin)
@@ -108,6 +115,7 @@ List of stuffs about the Godot Engine
 * [Godot Game Engine : initiation](https://fr.flossmanuals.net/godot-game-engine-initiation/a-propos-de-ce-livre/) (FR)
 * [Présentation et installation de Godot Engine 3.0 C#](https://makeyourgame.fun/presentation-installation-de-godot-engine-3-0/) (FR)
 * [Godot Training](https://github.com/xsellier/godot-training) (FR)
+* [Godot Beginners Guide](https://github.com/br-n518/Godot-Beginners-Guide/blob/master/godot_guide.md)
 
 ## IDE
 
@@ -116,8 +124,13 @@ List of stuffs about the Godot Engine
 ## Libraries
 
 * [Animated charts for Godot Engine](https://github.com/binogure-studio/chart-gd)
+* [Simple logger](https://github.com/binogure-studio/godot-simple-logger)
+* [Steam API](https://github.com/Gramps/GodotSteam/tree/godot3)
 * [Unirest in GDScript: Simplified, lightweight HTTP client library.](https://github.com/godot-addons/godot-unirest)
-* [Godot Steam API](https://github.com/Gramps/GodotSteam/tree/godot3)
+
+## Not Godot Specific
+
+* [Render sprites with normal maps in Blender](https://games.kodera.pl/dev/render-sprites-with-normal-maps-in-blender/)
 
 ## Talks
 
@@ -176,6 +189,7 @@ List of stuffs about the Godot Engine
 
 ### [Alex Horatio](https://www.youtube.com/channel/UCW9PWY-I3wMaxr7U4qzg6PA) [Website](https://www.alexhoratio.co.uk)
 
+* [10 Tips for Using the godot engine](https://www.youtube.com/watch?v=iVRJsQqLzNU)
 * [A Complete Guide To Control Nodes - Popups](https://www.youtube.com/watch?v=L0anvhjwdU8)
 * [Gitting Gud At Godot 2 Text](https://www.alexhoratio.co.uk/2017/05/gitting-gud-at-godot-part-1.html)
 * [Gitting Gud At Godot 2 Playlist](https://www.youtube.com/watch?v=VQeVKAOnJ10&list=PLnF-Gn3Mr308k2smKtkZaZb6Gwtnt4Wa3)
@@ -288,6 +302,11 @@ List of stuffs about the Godot Engine
 * [[ENG] 002 - Knowing Godot 3.0 Editor](https://www.youtube.com/watch?v=NjIXeKXXWKo)
 * [[ENG] 003 - Scenes & Nodes - Godot 3.0](https://www.youtube.com/watch?v=SCkxyaH6v-Q)
 
+### [Emilio](https://www.youtube.com/channel/UC9DR22-qohBDtZ74R3FxOZg)
+
+* [From GM:S to Godot](https://www.youtube.com/playlist?list=PLQsiR7DILTcxma-doUnpoALIX001NvcP_)
+* [Making Programs With Godot playlist](https://www.youtube.com/playlist?list=PLQsiR7DILTczMLsN8qmMym7pYfJXynzK0)
+
 ### [Endrit Special Productions](https://www.youtube.com/user/ShabaniBros)
 
 * [Fast help playlist](https://www.youtube.com/playlist?list=PLyYtNQrxz-dgrWU3Ae6PMi2dyiOVUYAfV)
@@ -355,6 +374,17 @@ List of stuffs about the Godot Engine
 * [Godot tutorial: Learn the Godot Engine and Create a Platform Game](https://www.youtube.com/watch?v=txCSyNgzvzw)
 * [Godot 3.1 3D tutorial playlist](https://www.youtube.com/watch?v=FD5999mgbSo&list=PLhqJJNjsQ7KHGd_Zuf_Yx6XQ6BazFyoLh)
 * [Intro to Shaders in Godot 2D and 3D water tutorials](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KHqNMYmTwtsYTeTrqrRP_fP)
+
+### [Gonkee](https://www.youtube.com/channel/UCJqCPFHdbc6443G3Sz6VYDw)
+
+* [Godot 3: How to Make Cutscenes with Video Files](https://www.youtube.com/watch?v=2RecAxcsNt4)
+* [Godot 3: How to Make a Platformer AI that Follows You Around](https://www.youtube.com/watch?v=WXC8eBCEbho)
+
+#### Shaders
+
+* [How to Make Animated 2D Fog (Procedural)](https://www.youtube.com/watch?v=QEaTsz_0o44)
+* [How to Make 2D Fire (Procedural)](https://www.youtube.com/watch?v=CI3JZ-3cabg)
+* [How to Make Procedural 2D Water](https://www.youtube.com/watch?v=uhMAHpV_cDg)
 
 ### [Greaby](https://www.youtube.com/user/greabyMinecraft) (FR)
 
