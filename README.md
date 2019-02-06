@@ -692,6 +692,10 @@ List of stuffs about the Godot Engine
 * [THE SIMPLEST BLUR SHADER GODOT 3.0](https://steincodes.tumblr.com/post/171202672519/the-simplest-blur-shader-godot-30)
 * [Understanding Maths For Game Development GODOT 3.0](https://steincodes.tumblr.com/post/173318558974/understanding-maths-for-game-development-godot-30)
 
+### [Space Shark Studios](https://www.youtube.com/channel/UCSKKyAmSnhOjy0KaIOBThzg)
+
+* [Space Shark Teaches Godot playlist](https://www.youtube.com/playlist?list=PLxw4Pmjew9pwyqCPIRiL2B2pTx9012ZJy)
+
 ### [Solar Lune](https://www.youtube.com/user/SolarLuneTube/videos) Many videos
 
 ### [Thanh Nguyen](https://www.youtube.com/channel/UCG6W1zGGWqLvymaWr8eLPyQ)
