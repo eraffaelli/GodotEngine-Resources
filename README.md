@@ -375,6 +375,10 @@ List of stuffs about the Godot Engine
 * [Godot 3.1 3D tutorial playlist](https://www.youtube.com/watch?v=FD5999mgbSo&list=PLhqJJNjsQ7KHGd_Zuf_Yx6XQ6BazFyoLh)
 * [Intro to Shaders in Godot 2D and 3D water tutorials](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KHqNMYmTwtsYTeTrqrRP_fP)
 
+### [GeTech](https://www.youtube.com/channel/UCrn5Co5BpG99sgZaMYn0jbw)
+
+* [Godot Engine playlist](https://www.youtube.com/playlist?list=PL90JqKQoAVsYKy7jLQbE02aRU-ho3MtTB)
+
 ### [Gonkee](https://www.youtube.com/channel/UCJqCPFHdbc6443G3Sz6VYDw)
 
 * [Godot 3: How to Make Cutscenes with Video Files](https://www.youtube.com/watch?v=2RecAxcsNt4)
@@ -468,6 +472,17 @@ List of stuffs about the Godot Engine
 * [Godot Engine: Meeting the Nodes](https://www.youtube.com/watch?v=ioMZ5-j_PD0&list=PLBgwKMnonTew0Z0xRA8rJch1aB3-Qnm1T)
 * [Godot 3: Global Illumination Quick Set-Up on Existing Scene](https://www.youtube.com/watch?v=jG1f3Cxopvc)
 
+### [KemoJallow](https://www.youtube.com/channel/UCvqdRkXwYQfx_2QWe2nFJXA)
+
+* [Godot Engine Mobile Game Tutorials](https://www.youtube.com/watch?v=TAPO7y1EYnY&list=PLm_vxcRCNKYyO7iMrKQAyp-P1otM1Z4U9)
+* [Godot C# game development](https://www.youtube.com/watch?v=uHcKEIbM-5Q&list=PLm_vxcRCNKYzIyUjHtlWAk_mM7-QUD5kw)
+* [Make a 3D Endless Runner Game with Godot C#](https://www.youtube.com/watch?v=6jUWEKFk9oI&list=PLm_vxcRCNKYzV-8F-Ybz56LtE8-fsKjVi)
+* [Godot Tips 01 : Smooth Camera Shaking](https://www.youtube.com/watch?v=Omh7U7mTP1k)
+
+### [Kenneth Stewart](https://www.youtube.com/channel/UCupNkYJIHz3YXvrCWGxkZGg)
+
+* [Welcome To Godot! Let's Make A Platformer!](https://www.youtube.com/watch?v=FGF1WMWqq0c)
+
 ### [Khairul Hidayat](https://www.youtube.com/channel/UCGzQFkSnOG-wEA8janAsJ_g)
 
 * [Godot Engine Tutorial Series (Godot 2)](https://www.youtube.com/watch?v=HXhiuDdzCPc&list=PL_jnteSmze_oS1ebnWnrb9jEQs3gNV8m9)
@@ -482,17 +497,6 @@ List of stuffs about the Godot Engine
 * [Multiplayer Thirdperson Shooter v1.1](https://www.youtube.com/watch?v=i13A9M8zfjU)
 * [Simple Day/Night Cycle](https://www.youtube.com/watch?v=iTkLEP3Kwko)
 
-### [KemoJallow](https://www.youtube.com/channel/UCvqdRkXwYQfx_2QWe2nFJXA)
-
-* [Godot Engine Mobile Game Tutorials](https://www.youtube.com/watch?v=TAPO7y1EYnY&list=PLm_vxcRCNKYyO7iMrKQAyp-P1otM1Z4U9)
-* [Godot C# game development](https://www.youtube.com/watch?v=uHcKEIbM-5Q&list=PLm_vxcRCNKYzIyUjHtlWAk_mM7-QUD5kw)
-* [Make a 3D Endless Runner Game with Godot C#](https://www.youtube.com/watch?v=6jUWEKFk9oI&list=PLm_vxcRCNKYzV-8F-Ybz56LtE8-fsKjVi)
-* [Godot Tips 01 : Smooth Camera Shaking](https://www.youtube.com/watch?v=Omh7U7mTP1k)
-
-### [Kenneth Stewart](https://www.youtube.com/channel/UCupNkYJIHz3YXvrCWGxkZGg)
-
-* [Welcome To Godot! Let's Make A Platformer!](https://www.youtube.com/watch?v=FGF1WMWqq0c)
-
 ### [KidsCanCode](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg)
 
 * [Text version of multiples tutorials](http://kidscancode.org/blog/tags/godot/)
@@ -503,6 +507,12 @@ List of stuffs about the Godot Engine
 * [Godot Game Engine - "Know Your Nodes" Playlist](https://www.youtube.com/watch?v=awBfTnmgn7k&list=PLsk-HSGFjnaE4k-X3l6dZAPIoB2QB4eYg)
 * [Godot 3.0 Tutorials Playlist](https://www.youtube.com/watch?v=xsAyx2r1bQU&list=PLsk-HSGFjnaH-kptk70dHaX-tbJaRrFiQ)
 * [Godot 3.0: Top-down Tank Battle Playlist](https://www.youtube.com/watch?v=sQ1FpD0DYF8&list=PLsk-HSGFjnaFC8kEv6MaLXnnDcevGpSWf)
+
+### [KinematicBody](https://www.youtube.com/channel/UCQ7E5E5J8g0b-lxVVxl_2kg) (DE & EN)
+
+* [AssetLib playlist](https://www.youtube.com/playlist?list=PLfPZ6KG5o79RAPMq3dutwIwVdgaN_UEy-)
+* [Komplette Spiele erstellen](https://www.youtube.com/playlist?list=PLfPZ6KG5o79RhZZCJs9qko0eSIspkXkl7)
+* [Tutorials / Anleitungen](https://www.youtube.com/playlist?list=PLfPZ6KG5o79RGHFkkNu9DGkKvdVfkuMQe)
 
 ### [Krystian Erber](https://www.youtube.com/channel/UCW3yR2lm1csU_UEkeLknCmw)
 
