@@ -451,6 +451,7 @@ List of stuffs about the Godot Engine
 * February 20 2018 [Thirdperson Character Rotation](https://www.youtube.com/watch?v=CeNXDSkv5v8)
 * February 25 2018 [Camera Follow Player](https://www.youtube.com/watch?v=kc-zJnRvPUY)
 * June 26 2018 [Android Export Tutorial](https://www.youtube.com/watch?v=QPI8JsKF2j4)
+* Jan 19 2019 [Blender 2.8 & Godot 3 : Export/Import 3D Colliders](https://www.youtube.com/watch?v=hzPuWgkn6bE&t=1s)
 
 [Jeremi360](https://www.youtube.com/channel/UCMGyApWbhZCBnsEn2SI4ovA) (Polish)
 
