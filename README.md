@@ -183,9 +183,9 @@ List of stuffs about the Godot Engine
 * [Make a Space Shooting Game in Godot](https://www.youtube.com/playlist?list=PLv3l-oZCXaqkUEqrLsKJIAhAxK_Im6Qew)
 * [Godot Engine Tutorial - Flappy Bird](https://www.youtube.com/watch?v=k_ghOyPX820&list=PLv3l-oZCXaql20IlPe7gfBEzomnPSLekY)
 
-### [Allah aak Hai](https://www.youtube.com/channel/UCi__tcLY19bWYtSjF1JDM_w)
+### ~~[Allah aak Hai](https://www.youtube.com/channel/UCi__tcLY19bWYtSjF1JDM_w)~~ (Seems to be deleted see [#1](https://github.com/eraffaelli/GodotEngine-Resources/issues/1))
 
-* [Godot 3 Complete Developer Course - 2D and 3D](https://www.youtube.com/channel/UCi__tcLY19bWYtSjF1JDM_w/videos)
+* ~~[Godot 3 Complete Developer Course - 2D and 3D](https://www.youtube.com/channel/UCi__tcLY19bWYtSjF1JDM_w/videos)~~
 
 ### [Alex Horatio](https://www.youtube.com/channel/UCW9PWY-I3wMaxr7U4qzg6PA) [Website](https://www.alexhoratio.co.uk)
 
