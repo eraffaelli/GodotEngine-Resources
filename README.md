@@ -608,6 +608,10 @@ List of stuffs about the Godot Engine
 
 * [Godot Steam Integration](https://www.youtube.com/watch?v=JaKH5jJQYYs)
 
+### [MrTravoltino](https://www.youtube.com/channel/UCkTDv8uRX41jOzDPrEUixRw)
+
+* [Godot videos](https://www.youtube.com/playlist?list=PLCSLvKQGpB2KjXrBbHZLIGP0mfV4n7yUS)
+
 ### [Narwal](http://www.narwalengineering.com/)
 
 * [Simple Chat Room using Multiplayer API](http://www.narwalengineering.com/2018/07/01/godot-tutorial-simple-chat-room-using-multiplayer-api/)
@@ -662,6 +666,7 @@ List of stuffs about the Godot Engine
 ### [Sad Pixel](https://www.youtube.com/channel/UCtjoe_Bd6igN7XiYBYYyACw)
 
 * [FUS RO DAH](https://www.youtube.com/watch?v=ThWrSH9Vjw4)
+* [My games development in Godot engine](https://www.youtube.com/playlist?list=PLvwddS1AvlE0OVMvHhmriZWZ04_73iv5R)
 * [Tutorials](https://www.youtube.com/watch?v=XFL_eiAQVC8&list=PLvwddS1AvlE0jk_Ty1hRd1w_i4-wYagVF)
 * [VFX Godot engine](https://www.youtube.com/watch?v=RZiLFdUXI2c&list=PLvwddS1AvlE2Gu4dGGMmGDGr2IC7WjMCH)
 
@@ -776,6 +781,11 @@ List of stuffs about the Godot Engine
 ### [Vanson Leung](https://www.youtube.com/channel/UCf_D8BYu0t4CKXOQseJhTdg)
 
 * [Godot 3.1 Tutorial 1 - Basic Player Movement with typed GDScript](https://www.youtube.com/watch?v=4JX3IeH9wYM)
+
+### [VGDCuci](https://www.youtube.com/channel/UC-hJiN_zxqrO9VoL9E6d1ZQ)
+
+* [Godot Workshop: Prefabs, TileSets, and Animations](https://www.youtube.com/watch?v=1VNItJoiOOU)
+* Other handfull game design videos
 
 ### [Виктор Никитин](https://www.youtube.com/channel/UCwBDPu_dpq2N4scUa6LEf6Q)
 
