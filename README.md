@@ -669,10 +669,13 @@ List of stuffs about the Godot Engine
 
 ### [Securas](https://www.youtube.com/user/rluis)
 
+### [Skaner](https://www.youtube.com/channel/UCvjFGC_ADaBZpbKGJrH4JlQ) (RUS)
+
 ### [SkanerSoft](https://www.youtube.com/channel/UCOTSosw_E-Cr88QkAb1Mdsg) (RUS)
 
 * [GDScript Book - изучение GDScript, уроки](https://www.youtube.com/playlist?list=PLf0k8CBUad-vQIVwBkgxogtV3VCicXQbs)
 * [Godot Engine уроки на русском. Уроки разработки игр на Godot 3](https://www.youtube.com/playlist?list=PLf0k8CBUad-v_J1Xq5XW7FEUHokxSuYnF)
+* [Godot Engine Создание 3D игры](https://www.youtube.com/playlist?list=PLf0k8CBUad-uBels10n74EIGQ45natifs)
 
 ### [Stern Flowers](https://www.youtube.com/channel/UCi_43GEvIKhByIvjFlVStgQ)
 
