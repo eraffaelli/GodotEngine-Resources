@@ -527,6 +527,7 @@ List of stuffs about the Godot Engine
 
 ### [Kyle Szklenski](https://www.youtube.com/user/WolfgangSenff)
 
+* [GodotFirebase](https://github.com/WolfgangSenff/GodotFirebase)
 * [Godot - Navigator2D plugin demo](https://www.youtube.com/watch?v=RnQSdOYMS2g)
 * [Godot: Touch-move in a 3D Environment](https://www.youtube.com/watch?v=O4hwzS__yv8)
 * [Godot 3.0.5: Exporting for Android](https://www.youtube.com/watch?v=sB7S4OrXPfM)
