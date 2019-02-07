@@ -129,6 +129,8 @@ List of stuffs about the Godot Engine
 ## Libraries
 
 * [Animated charts for Godot Engine](https://github.com/binogure-studio/chart-gd)
+* [WolfgangSenff : GodotFirebase](https://github.com/WolfgangSenff/GodotFirebase)
+* [Grevius5 : Godot Resolution Changer](https://github.com/grevius5/godot-ResolutionChanger)
 * [Simple logger](https://github.com/binogure-studio/godot-simple-logger)
 * [Steam API](https://github.com/Gramps/GodotSteam/tree/godot3)
 * [Unirest in GDScript: Simplified, lightweight HTTP client library.](https://github.com/godot-addons/godot-unirest)
@@ -527,7 +529,6 @@ List of stuffs about the Godot Engine
 
 ### [Kyle Szklenski](https://www.youtube.com/user/WolfgangSenff)
 
-* [GodotFirebase](https://github.com/WolfgangSenff/GodotFirebase)
 * [Godot - Navigator2D plugin demo](https://www.youtube.com/watch?v=RnQSdOYMS2g)
 * [Godot: Touch-move in a 3D Environment](https://www.youtube.com/watch?v=O4hwzS__yv8)
 * [Godot 3.0.5: Exporting for Android](https://www.youtube.com/watch?v=sB7S4OrXPfM)
