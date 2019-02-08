@@ -22,6 +22,7 @@ List of stuffs about the Godot Engine
 
 ## Code/Examples
 
+* [arrnz: Godot - Trauma Screenshake Code](https://www.reddit.com/r/godot/comments/aoa1a2/godot_trauma_screenshake_code/)
 * [2D Day & Night Cycle](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle)
 * [Mishapsi: 3D Voxels to Pixel Art with viewports](https://www.reddit.com/r/godot/comments/9497gz/how_to_3d_voxels_to_pixel_art_with_viewports/)
 * [Icelus : Blend cutout and traditional animation in Godot](https://odysseygames.blogspot.com/2018/05/how-to-blend-cutout-and-traditional.html)
