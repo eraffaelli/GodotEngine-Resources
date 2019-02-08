@@ -389,6 +389,7 @@ List of stuffs about the Godot Engine
 * [Godot tutorial: Learn the Godot Engine and Create a Platform Game](https://www.youtube.com/watch?v=txCSyNgzvzw)
 * [Godot 3.1 3D tutorial playlist](https://www.youtube.com/watch?v=FD5999mgbSo&list=PLhqJJNjsQ7KHGd_Zuf_Yx6XQ6BazFyoLh)
 * [Intro to Shaders in Godot 2D and 3D water tutorials](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KHqNMYmTwtsYTeTrqrRP_fP)
+* [Learn 2d and 3d Game Creation with Godot: 2019 Kickstarter Tutorials](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KEHh1pfBLVnLftf0of-tHQu)
 
 ### [GeTech](https://www.youtube.com/channel/UCrn5Co5BpG99sgZaMYn0jbw)
 
