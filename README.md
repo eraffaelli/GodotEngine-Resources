@@ -652,6 +652,14 @@ List of stuffs about the Godot Engine
 
 * Too much to link
 
+### [Pixel Coin](https://www.youtube.com/channel/UCwD2ONNOxAQ825IiuCagQXg)
+
+* Corso Godot 3.0
+  * [Lezione 0 - Introduzione](https://www.youtube.com/watch?v=MZnxOnTOoyg)
+  * [Lezione 1 - Creazione del player e movimento](https://www.youtube.com/watch?v=39Zvkzllq0M)
+  * [Lezione 2 - Creare un sistema di shooting](https://www.youtube.com/watch?v=aDh0x9LDKW4)
+  * [Lezione 3 - Creazione del nemico e spawn casuali](https://www.youtube.com/watch?v=RgoU5ojJKVM)
+
 ### [Prestidigitator](https://www.youtube.com/channel/UC5C24RIrjvsn7ddwsuUtJOQ)
 
 * [Godot Engine](https://www.youtube.com/playlist?list=PLHhWYUQDoR0gTMJ-E--WbuJYEJ0i5ZMq2)
