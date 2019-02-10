@@ -2,6 +2,8 @@
 
 List of stuffs about the Godot Engine
 
+Playlist where I put [Godot show off, experiments or not tutorial videos](https://www.youtube.com/playlist?list=PLN4pcu0ZHq6IZj0KQ2UmmMcQoJbarh0M1) found on youtube
+
 ## Resources
 
 * [Awesome Godot](https://github.com/Calinou/awesome-godot)
@@ -104,6 +106,7 @@ List of stuffs about the Godot Engine
 * [Supatier : Magic square Godot](https://github.com/Supatier/magic-square-godot)
 * [Tulsa Game Developers : Making a game with Godot in less than an hour](https://www.youtube.com/watch?v=xQIaRSXh4ic)
 * [Youk54 : Godot 3 - Procedural Generated World](https://www.youtube.com/watch?v=uu2NI3Fmx4M)
+* [ZAME Example Game for the ZeroFrame Godot Engine addon ](https://github.com/lentsius-bark/zame-zeroframe-godot)
 * [Zylann Productions : Cubic voxels in Godot 2 with physics](https://www.youtube.com/watch?v=0HLKJK1ex64)
 
 ## Games
@@ -143,6 +146,7 @@ List of stuffs about the Godot Engine
 * [Simple logger](https://github.com/binogure-studio/godot-simple-logger)
 * [Steam API](https://github.com/Gramps/GodotSteam/tree/godot3)
 * [Unirest in GDScript: Simplified, lightweight HTTP client library.](https://github.com/godot-addons/godot-unirest)
+* [ZeroFrame : interacting with the ZeroNet network](https://github.com/anoadragon453/godot-zeroframe-plugin)
 
 ## Not Godot Specific
 
@@ -180,6 +184,10 @@ List of stuffs about the Godot Engine
 ### [Airvikar](https://www.youtube.com/channel/UCxqHea4sma1ZPwOWykbh5Lw)
 
 * [Godot Engine - Oops !](https://www.youtube.com/playlist?list=PLg1TFdNWC4y_pDV4PQcGWZ8UWYe8gOz_f)
+
+### [Alejandro Ochoa](https://www.youtube.com/channel/UCE0ISb50eAKb6hQpSympfjA)
+
+* [Importing Mixamo animations into Godot](https://www.youtube.com/watch?v=BsTpyu5ZfeE)
 
 ### [Andreas Loew](https://www.youtube.com/channel/UCaJl3KPFM5UzA7dsEGl_Xow)
 
@@ -384,6 +392,11 @@ List of stuffs about the Godot Engine
 
 * [Getting Started Gotchas in Godot Engine](https://meshist.wordpress.com/2015/01/10/getting-started-gotchas-in-godot-engine/)
 
+### [Газинур Галимзянов](https://www.youtube.com/channel/UCDEoT0o72UWERsA00mLtQPw) (RU)
+
+* [Godot Engine Tutorial #1](https://www.youtube.com/watch?v=_lhzYzoZKkc)
+* [Godot Engine Tutorial #2](https://www.youtube.com/watch?v=z6dwTFUZICM)
+
 ### [GDQuest](https://www.youtube.com/c/gdquest)
 
 * [30 Days of Godot 2 tutorials](http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/)
@@ -577,7 +590,7 @@ List of stuffs about the Godot Engine
 
 ### [Make Your Game - Event Orizon Studio]
 
-* [Godot Engine 3 Tutorials](https://www.youtube.com/playlist?list=PLi-VYObBzzKN8MWcAVo7y2JPcct1WOyXd) (FR)
+* [Godot Engine 3 Tutorials / Angry Birds clone](https://www.youtube.com/playlist?list=PLi-VYObBzzKN8MWcAVo7y2JPcct1WOyXd) (FR)
 
 ### [Mariano Suligoy](https://www.youtube.com/channel/UCoteoMv9mJGbSGOVOIFdBwA)
 
@@ -631,6 +644,13 @@ List of stuffs about the Godot Engine
 ### [Narwal](http://www.narwalengineering.com/)
 
 * [Simple Chat Room using Multiplayer API](http://www.narwalengineering.com/2018/07/01/godot-tutorial-simple-chat-room-using-multiplayer-api/)
+
+### [Nerd Everyday](https://www.youtube.com/channel/UCQB7q6_Pc0LRHEjhyP4XVCw)
+
+* [3D Particles](https://www.youtube.com/watch?v=dDNJ2rdJNwQ)
+* [Handling Bullet Particles - Godot 3.1](https://www.youtube.com/watch?v=CekeUH3tg38)
+* [How to make custom objects](https://www.youtube.com/watch?v=BjBtcD99rgc)
+* [State Machine (Animation Tree)](https://www.youtube.com/watch?v=CPDlaKWnQPM)
 
 ### [NerdOfTheMontain Marcos Bitetti](https://www.youtube.com/channel/UCQQMA2C2FLVsFGgps5xvlag)
 
@@ -704,9 +724,9 @@ List of stuffs about the Godot Engine
 
 ### [Securas](https://www.youtube.com/user/rluis)
 
-### [Skaner](https://www.youtube.com/channel/UCvjFGC_ADaBZpbKGJrH4JlQ) (RUS)
+### [Skaner](https://www.youtube.com/channel/UCvjFGC_ADaBZpbKGJrH4JlQ) (RU)
 
-### [SkanerSoft](https://www.youtube.com/channel/UCOTSosw_E-Cr88QkAb1Mdsg) (RUS)
+### [SkanerSoft](https://www.youtube.com/channel/UCOTSosw_E-Cr88QkAb1Mdsg) (RU)
 
 * [GDScript Book - изучение GDScript, уроки](https://www.youtube.com/playlist?list=PLf0k8CBUad-vQIVwBkgxogtV3VCicXQbs)
 * [Godot Engine уроки на русском. Уроки разработки игр на Godot 3](https://www.youtube.com/playlist?list=PLf0k8CBUad-v_J1Xq5XW7FEUHokxSuYnF)
@@ -716,9 +736,11 @@ List of stuffs about the Godot Engine
 
 * [Godot Wild Jam #2](https://www.youtube.com/watch?v=oYaWWK4OGwU) & [#3](https://www.youtube.com/watch?v=C_ZfGCreI9A)
 
-### [Solo CodeNet](https://www.youtube.com/channel/UC2Kl-Y9g3CJST4U8kAyYxHw)
+### [Solo CodeNet](https://www.youtube.com/channel/UC2Kl-Y9g3CJST4U8kAyYxHw) (FR)
 
-* [Godot platformer 2D](https://www.youtube.com/playlist?list=PLxRGZlMeAiCK9Tgsv-M9q5cW8YZWM4gJ8) (FR)
+* [Débutant GDScript les bases](https://www.youtube.com/playlist?list=PLxRGZlMeAiCI__NmchVBOQm6y4VIP7EHR)
+* [Platformer 2D](https://www.youtube.com/playlist?list=PLxRGZlMeAiCK9Tgsv-M9q5cW8YZWM4gJ8)
+* [Simple match3 - Candy course](https://www.youtube.com/playlist?list=PLxRGZlMeAiCJBWRG5uFwTe_BsD2RSjB94)
 
 ### [Stein Codes](https://www.youtube.com/channel/UCpljFlcQVNj1nUYs8v02IAQ)
 
@@ -744,6 +766,10 @@ List of stuffs about the Godot Engine
 
 * [Space Shark Teaches Godot playlist](https://www.youtube.com/playlist?list=PLxw4Pmjew9pwyqCPIRiL2B2pTx9012ZJy)
 
+### [Spritesheet](https://www.youtube.com/channel/UCXeFrXpowTMGnaupcyvFd4Q)
+
+* [تعلم أساسيات Godot لتصميم الألعاب](https://www.youtube.com/playlist?list=PLXUEZFpQn01Hp06m0MxlMzj8x5Y2n9Dek)
+
 ### [Solar Lune](https://www.youtube.com/user/SolarLuneTube/videos) Many videos
 
 ### [Thanh Nguyen](https://www.youtube.com/channel/UCG6W1zGGWqLvymaWr8eLPyQ)
@@ -759,6 +785,10 @@ List of stuffs about the Godot Engine
 ### [TheBaldChick](https://www.youtube.com/channel/UC-gmHBbLvUKM9VzA9otCLPA)
 
 * [Godot 3.0: Complete Patformer Tutorial](https://www.youtube.com/playlist?list=PL3ELWPsiplh4WheZA-l6o7tbP0Xt38MFZ)
+
+### [The Game Dev](https://www.youtube.com/channel/UCMugleC3oiOzmMGwEN4Gkig)
+
+* [Godot top down movement tutorial](https://www.youtube.com/watch?v=cFxpi6JZ6c0)
 
 ### [TheHappieCat](https://www.youtube.com/channel/UCBsuOBu-dxj5bx1KMgmar5g)
 
@@ -845,3 +875,8 @@ List of stuffs about the Godot Engine
 
 * [(Godot 3) Creating a Scripting Language Playlist](https://www.youtube.com/watch?v=xCdxUC0Gs1A&list=PLKCbXu2bxxqZ8BEOi33Am5M_9FWfvD2sC)
 * [Multiplayer playlist](https://www.youtube.com/watch?v=TGIWD24QIvY&list=PLKCbXu2bxxqa2PtT2rYNb4t5QUsotrTlP)
+
+### [ZZZ Assault](https://www.youtube.com/channel/UCI1HvctiHk-38bnWnFcfaSQ)
+
+* [Light2d + CanvasModulate vs. Normal Map || Godot Engine v3.0.6](https://www.youtube.com/watch?v=Nx9d2lHoMvc)
+* [Flame of ZaZuaZ dev log playlist](https://www.youtube.com/playlist?list=PLUvWJlUX-19_YVIMY32HszdGXd5o174Qa)
