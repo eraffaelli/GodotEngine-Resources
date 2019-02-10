@@ -270,6 +270,10 @@ List of stuffs about the Godot Engine
 * [Godot 3 - Tutorial - Tree Node and how to send signals to other GUI windows](https://www.youtube.com/watch?v=luqzBdHmd64)
 * [Godot 3 - GUI window drag fix and increasing functionallity](https://www.youtube.com/watch?v=4Ju7VnWaO3I)
 
+### [Cart](https://www.youtube.com/channel/UCIBhGCX5UeSkcpLHe8OFRlA)
+
+* [Making a sword slash in Godot](https://www.youtube.com/watch?v=qF7EOzwJoO4)
+
 ### [César León](https://www.youtube.com/channel/UCgGzdCAHB0R5KbSHZKUcaRA) (SPA)
 
 * [BDD -¡Recuerdo estas Plataformas!-](https://www.youtube.com/playlist?list=PLNWQ-CFReOiIDtMmqJVFetPUKTUwAii5I)
