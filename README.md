@@ -641,6 +641,10 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 * [Godot videos](https://www.youtube.com/playlist?list=PLCSLvKQGpB2KjXrBbHZLIGP0mfV4n7yUS)
 
+### [Mướp Mèo](https://www.youtube.com/channel/UCObNSXlS4brB28d9rH7DIZQ)
+
+* [Multiple shaders tutorials](https://www.youtube.com/playlist?list=PL6B8isCzQMCetXiduM9CuP4-K6Y8yhraZ)
+
 ### [Narwal](http://www.narwalengineering.com/)
 
 * [Simple Chat Room using Multiplayer API](http://www.narwalengineering.com/2018/07/01/godot-tutorial-simple-chat-room-using-multiplayer-api/)
