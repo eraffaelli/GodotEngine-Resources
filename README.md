@@ -673,6 +673,10 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 * [Godot Playlist](https://www.youtube.com/playlist?list=PLz8BV_VUaS9RhiV2qjal8yRkKGZfYHTHK)
 
+### [Open Source Tutor](https://www.youtube.com/channel/UCHBc6AIjNg1YapFd6Rer_kA)
+
+* [Beginners Project - Basketball](https://www.youtube.com/playlist?list=PLNy9jTodydSSOehjGDBxYBZqY2Yd3StK3)
+
 ### [Página Pessoal de Shin-NiL](https://shinnil.blogspot.com/) (Text)
 
 ### [Papai Game Maker](https://www.youtube.com/channel/UC9leBtpltYJIqyvPLDabGwg)
