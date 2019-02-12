@@ -189,11 +189,15 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 * [Importing Mixamo animations into Godot](https://www.youtube.com/watch?v=BsTpyu5ZfeE)
 
+### [Andreas Esau](https://www.youtube.com/channel/UCckpus81gNin1aV8WSffRKw)
+
+* [Godot Engine - Tutorial Series](https://www.youtube.com/playlist?list=PLPI26-KXCXpBtZGRJizz0cvU88nXB-G14)
+
+### [Andrea Catania](https://www.youtube.com/channel/UCm4RuvYtgpgFDTCgaEUT5uQ)
+
 ### [Andreas Loew](https://www.youtube.com/channel/UCaJl3KPFM5UzA7dsEGl_Xow)
 
 * [Godot](https://www.youtube.com/watch?v=5G0uruVj_Gs&list=PLlFiW1yNHWbWdfkAmppswakbefNkIx-Q_)
-
-### [Andrea Catania](https://www.youtube.com/channel/UCm4RuvYtgpgFDTCgaEUT5uQ)
 
 ### [AngelCrew Studios](https://www.youtube.com/channel/UCgM6-TipPC9k8jVt7m3hqmA)
 
