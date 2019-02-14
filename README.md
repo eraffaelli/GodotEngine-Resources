@@ -141,6 +141,12 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 ## Libraries
 
 * [Animated charts for Godot Engine](https://github.com/binogure-studio/chart-gd)
+* [FrogSquare](https://github.com/FrogSquare)
+    * [Godot Ads](https://github.com/FrogSquare/GodotAds)    
+    * [GDFacebook](https://github.com/FrogSquare/GDFacebook)
+    * [Godot Firebase](https://github.com/FrogSquare/GodotFireBase)
+    * [Google Service : Gplay integration](https://github.com/FrogSquare/GodotGoogleService)
+    * [Godot SQL for Android](https://github.com/FrogSquare/GodotSQL)
 * [WolfgangSenff : GodotFirebase](https://github.com/WolfgangSenff/GodotFirebase)
 * [Grevius5 : Godot Resolution Changer](https://github.com/grevius5/godot-ResolutionChanger)
 * [Simple logger](https://github.com/binogure-studio/godot-simple-logger)
@@ -244,6 +250,7 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 * [Godot Vertex Shader Tutorial](https://www.youtube.com/watch?v=UGzGY7Us5ws)
 * [Godot project development update with signals](https://www.youtube.com/watch?v=tzyn7pjWU6Q)
 * [Godot GDSCript Reactive Audio](https://www.youtube.com/watch?v=JcE4MF897bo)
+* [All videos / search list](https://www.youtube.com/channel/UCMeGhrTAryky9QFRTN6IWqQ/search?query=godot)
 
 ### [Banduck](https://www.youtube.com/channel/UCfBt15W6Y0aPNTd5XxYEDyw)
 
@@ -588,6 +595,10 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 * [How To Recreate Unity's Animation Window In Godot](https://www.youtube.com/watch?v=n7q5sT7Wdmw)
 
+### [Let'sGameDev](https://www.youtube.com/user/Tomzalat)
+
+* [Godot search list](https://www.youtube.com/user/Tomzalat/search?query=godot)
+
 ### [Let's Make Games](https://www.youtube.com/channel/UCGdlxwurRhrvVudICoTT-Pg)
 
 * [Menu Template](https://www.youtube.com/playlist?list=PLI95OAGEsXs8_5_OrBpZylMFp4xuEVleL)
@@ -685,7 +696,11 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 ### [Papai Game Maker](https://www.youtube.com/channel/UC9leBtpltYJIqyvPLDabGwg)
 
-* [Tutorial Godot - Jogos de plataforma](https://www.youtube.com/playlist?list=PLQzIfDE4WrykZYdgJedkgH-f4BVVdVVr6)
+* [3D](https://www.youtube.com/playlist?list=PLQzIfDE4WrylKSNLJQjd8S1hLDpexzJ2h)
+* [Aileron Roll (Avião gira com movimento)](https://www.youtube.com/playlist?list=PLQzIfDE4WrykYZUOEO6sUIly1B7SVNntH)
+* [Criando o bumerangue do Batman NES](https://www.youtube.com/playlist?list=PLQzIfDE4WrymMQ-3gGQBMrGsnQsnABn2r)
+* [Engine Grátis para jogos 2D e 3D](https://www.youtube.com/playlist?list=PLQzIfDE4WrykgQb3fMwBR2j-kc0eIW-Qn)
+* [Jogos de plataforma](https://www.youtube.com/playlist?list=PLQzIfDE4WrykZYdgJedkgH-f4BVVdVVr6)
 
 ### [Pigdev](https://www.youtube.com/channel/UCFK9ZoVDqDgY6KGMcHEloFw)
 
@@ -830,6 +845,11 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 ### [Toffe](https://www.youtube.com/channel/UC59u1s7pNB3yJW9tngNyh0g)
 
 * [Godot Engine 2 Tutorial - Player Inventory](https://www.youtube.com/playlist?list=PLFMb_QHFlIs10kbjBi1Rxs4tfvjp1j7FX)  [Godot 3 port](https://github.com/toffesource/GodotPlayerInventory)
+
+### [Toufou Master](https://www.youtube.com/channel/UCMVLloeU_BhxVT8Uai6sX5w) (FR)
+
+* [Godot Engine Tuto #1 Creer un personnage](https://www.youtube.com/watch?v=ZmdJCdPijlg)
+* [Godot Engine Tuto #2 Créer un Menu](https://www.youtube.com/watch?v=_-ByjRqZL5Y)
 
 ### [Tutorial Geeks](https://www.youtube.com/watch?v=D8LnTRXnVF8&list=PLSoiAaD2GJL6BeIExjy0lNhMQ9psiU4A0)
 
