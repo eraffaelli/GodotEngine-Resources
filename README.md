@@ -321,6 +321,7 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 * [Godot Engine 3.0 - Tutorial per principianti](https://www.youtube.com/watch?v=AY1zuH2mHQ0&list=PLaCq3HqKQR6rlPpf2GAOXp52ddt0V71Yl) (ITA)
 * [Stuff about godot](https://davcri.github.io/) (ENG - Text)
+* [Other videos](https://www.youtube.com/channel/UCFVgUrvckqp0i_pbCj3wjfA/videos)
 
 ### [Deybis Melendez](https://www.youtube.com/channel/UCSxqszCdHyojStKsZw-76Aw) (SPA?)
 
