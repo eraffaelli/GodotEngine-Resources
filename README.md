@@ -742,6 +742,11 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 * [Tutorials](https://www.youtube.com/watch?v=XFL_eiAQVC8&list=PLvwddS1AvlE0jk_Ty1hRd1w_i4-wYagVF)
 * [VFX Godot engine](https://www.youtube.com/watch?v=RZiLFdUXI2c&list=PLvwddS1AvlE2Gu4dGGMmGDGr2IC7WjMCH)
 
+### [Salahzar Stenvaag](https://www.youtube.com/user/salahzarstenvaag)
+
+* [Basic 3D game](https://www.youtube.com/playlist?list=PLXTK688RnbsFZR2EwanXp1RanBxgkyyil)
+* [Animazione Batterio Blender/Godot](https://www.youtube.com/playlist?list=PLXTK688RnbsG5DtS3QasXLoM0f39RvTcY)
+
 ### [Schuster Art](https://www.youtube.com/channel/UC5dntCvbfu5_gdYBHo3JzoQ)
 
 ### [Sebastián Diéguez](https://www.youtube.com/channel/UCZkjxZtCcowzCPky_pXa-NA)
