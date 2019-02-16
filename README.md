@@ -822,6 +822,10 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 * [Godot Engine Review](https://www.youtube.com/watch?v=y2RVAl3H-EY)
 * [Godot Engine Tutorial: The Basics of Branching Dialogue and Dynamic Events](https://www.youtube.com/watch?v=aVutIoCGAfE)
 
+### [Thoughtquake](https://www.youtube.com/user/Thoughtquake)
+
+* [Game Dev VLOG](https://www.youtube.com/playlist?list=PLaF_vG4BDk0ZKRJfPg0Cz4TD8ypIjUIzJ)
+
 ### [Tiger J](https://www.youtube.com/channel/UC3kuqM4hpXXrVDWNst0uDng)
 
 * [Get Played | GODOT JAM JUNE 20th 2018 Part 1](https://www.youtube.com/watch?v=v-lsrp-PQzg)
