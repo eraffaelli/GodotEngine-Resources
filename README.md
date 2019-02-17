@@ -736,6 +736,10 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 * [Rocketschmeers - Godot Multiplayer Network Tutorial Part 2](https://www.youtube.com/watch?v=2CgzdEuU03k)
 * [Planet Jumper Physics Tutorial](https://www.youtube.com/watch?v=L1LZi0ePQ7Y)
 
+### [ROSNARANJA](https://www.youtube.com/user/ROSNARANJA)
+
+* [Godot](https://www.youtube.com/playlist?list=PLFPqIkzz3zpOfNI34Q6yKWOeHecLyurkS)
+
 ### [Sad Pixel](https://www.youtube.com/channel/UCtjoe_Bd6igN7XiYBYYyACw)
 
 * [FUS RO DAH](https://www.youtube.com/watch?v=ThWrSH9Vjw4)
