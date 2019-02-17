@@ -661,6 +661,11 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 * [Simple Chat Room using Multiplayer API](http://www.narwalengineering.com/2018/07/01/godot-tutorial-simple-chat-room-using-multiplayer-api/)
 
+### [Nel Games](https://www.youtube.com/channel/UCQfmCwHA9eNlko0P68VcGnQ)
+
+* [Godot 3.1 tutorial Basics- 2D Player - Movement and Rotation](https://www.youtube.com/watch?v=CpR9M_hMmV4)
+* [Godot 3.1 tutorial Basics-Setup 3D Scene - Movement and Rotation](https://www.youtube.com/watch?v=cuv3ttbx320)
+
 ### [Nerd Everyday](https://www.youtube.com/channel/UCQB7q6_Pc0LRHEjhyP4XVCw)
 
 * [3D Particles](https://www.youtube.com/watch?v=dDNJ2rdJNwQ)
