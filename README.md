@@ -445,7 +445,7 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 ### [Intera Games](https://www.youtube.com/channel/UCGg38Rf3ExttCi2B7-axoPg)(Portuguese)
 
-* [Godot Engine #1 - Iniciando o projeto, um pouco sobre a ferramenta e o curso](https://www.youtube.com/watch?v=Or0-YzYsbD0)
+* [Devlog Game: Dry Bones Valley]([https://www.youtube.com/watch?v=Or0-YzYsbD0](https://www.youtube.com/playlist?list=PL_dJ-s3wYKUHx-PqFrBm2jAu5SgE_NBgK))
 
 ### [Ivan Skodje](https://www.youtube.com/channel/UCBHuFCVtZ9vVPkL2VxVHU8A) Have a weird voice through :/
 
