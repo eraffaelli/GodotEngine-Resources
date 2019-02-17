@@ -600,7 +600,7 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 * [Menu Template](https://www.youtube.com/playlist?list=PLI95OAGEsXs8_5_OrBpZylMFp4xuEVleL)
 
-### [Make Your Game - Event Orizon Studio]
+### [Make Your Game - Event Orizon Studio](https://www.youtube.com/channel/UCjRDU5fwe4eaEuI666nM2Zg)
 
 * [Godot Engine 3 Tutorials / Angry Birds clone](https://www.youtube.com/playlist?list=PLi-VYObBzzKN8MWcAVo7y2JPcct1WOyXd) (FR)
 
