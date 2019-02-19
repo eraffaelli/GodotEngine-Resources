@@ -127,6 +127,11 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 * [Tic Tac Toe](http://www.video-games.io/tic-tac-toe/)
 * [Ask Gamedev : Top 9 favorite Godot Games 2018](https://www.youtube.com/watch?v=JF60CfSLjew)
 
+## Games ported to Godot
+
+* [The Battle for Wesnoth](https://github.com/wesnoth/haldric)
+* [Unknown Horizon](https://github.com/unknown-horizons/godot-port)
+
 ## Initiation
 
 * [Godot Game Engine : initiation](https://fr.flossmanuals.net/godot-game-engine-initiation/a-propos-de-ce-livre/) (FR)
