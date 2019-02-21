@@ -154,6 +154,7 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
     * [Godot SQL for Android](https://github.com/FrogSquare/GodotSQL)
 * [WolfgangSenff : GodotFirebase](https://github.com/WolfgangSenff/GodotFirebase)
 * [Grevius5 : Godot Resolution Changer](https://github.com/grevius5/godot-ResolutionChanger)
+* [Ringtech Solutions : Hydrodyamics module for Godot](https://gitlab.com/ringtechsolutions/godot-tools/hydro/hydro)
 * [Simple logger](https://github.com/binogure-studio/godot-simple-logger)
 * [Steam API](https://github.com/Gramps/GodotSteam/tree/godot3)
 * [Unirest in GDScript: Simplified, lightweight HTTP client library.](https://github.com/godot-addons/godot-unirest)
