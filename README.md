@@ -147,7 +147,7 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 * [Animated charts for Godot Engine](https://github.com/binogure-studio/chart-gd)
 * [FrogSquare](https://github.com/FrogSquare)
-    * [Godot Ads](https://github.com/FrogSquare/GodotAds)    
+    * [Godot Ads](https://github.com/FrogSquare/GodotAds)
     * [GDFacebook](https://github.com/FrogSquare/GDFacebook)
     * [Godot Firebase](https://github.com/FrogSquare/GodotFireBase)
     * [Google Service : Gplay integration](https://github.com/FrogSquare/GodotGoogleService)
@@ -170,6 +170,7 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 ## Tutorial
 
+* [Using F# in Godot 3](http://www.lkokemohr.de/fsharp_godot.html)
 * [Using C++ and GDNative in Godot](https://gamedevadventures.posthaven.com/using-c-plus-plus-and-gdnative-in-godot-part-1)
 * [Godot Engine Doc](https://godot.readthedocs.io/) (Text)
   * [Your First Game](https://godot.readthedocs.io/en/3.0/getting_started/step_by_step/your_first_game.html)
