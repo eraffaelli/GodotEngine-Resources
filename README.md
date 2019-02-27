@@ -97,6 +97,7 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 * [PerduGames : GDScript function set generating noise](https://github.com/perdugames/SoftNoise-GDScript-)
 * [Procedural Generation in Godot 3](https://www.youtube.com/user/jwurmz/videos)
 * [RandomMomentania : Various stuffs](https://www.youtube.com/channel/UCYGKT9XOmuL45aEP2bWBGYw/videos)
+* [Marmitoth : PSX Shader](https://github.com/marmitoTH/godot-psx-shaders)
 * [Ranking Important Source Files in Godot Engine (3.0.2-stable)](https://vermillionazure.com/2018/03/30/ranking-important-source-files-in-godot-engine-3-0-2-stable/)
 * [Rara Project - Godot Experiments](https://www.youtube.com/watch?v=5IOWdEwg03w&list=PLxiDw7IvgbdoI5MpBH5ulDL0MoB_FvV0b)
 * [Securas](https://www.youtube.com/user/rluis/videos)
