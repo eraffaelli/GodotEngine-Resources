@@ -764,7 +764,7 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 * [Godot Engine](https://www.youtube.com/playlist?list=PLHhWYUQDoR0gTMJ-E--WbuJYEJ0i5ZMq2)
 
-### [Programmieren Starten](https://www.youtube.com/channel/UCVdfgrCLfJQfO5EgPlzaYAQ) (Dutch)
+### [Programmieren Starten](https://www.youtube.com/channel/UCVdfgrCLfJQfO5EgPlzaYAQ) (German)
 
 * [Godot Crashkurs](https://www.youtube.com/playlist?list=PL_pqkvxZ6ho0nVXxQCdND2cbWSVAX2nhs)
 * [Weitere Godot Tutorials](https://www.youtube.com/playlist?list=PL_pqkvxZ6ho1_CIrlxIRvLsSWaaJ_qScF)
