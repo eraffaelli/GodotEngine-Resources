@@ -550,6 +550,11 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 * [Godot 3](https://www.youtube.com/playlist?list=PLX8H1qIvxRFUoWCJrvUUZXn5SCU_HDLGa)
 
+### [Jose Antonio Molinero Reina]()
+
+* [3D](https://www.youtube.com/playlist?list=PLKFbfWqR5znM4rVbquUHUu-QZI8NWR4ts)
+* [3.1](https://www.youtube.com/playlist?list=PLKFbfWqR5znMeqbGUQ7YFr4KIP7jOpqJI)
+
 ### [Juan Linietsky](https://www.youtube.com/channel/UCpays4QrGaZ4_ZpX0P6aM1w)
 
 * [Godot Engine: Meeting the Nodes](https://www.youtube.com/watch?v=ioMZ5-j_PD0&list=PLBgwKMnonTew0Z0xRA8rJch1aB3-Qnm1T)
@@ -600,6 +605,10 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 * [AssetLib playlist](https://www.youtube.com/playlist?list=PLfPZ6KG5o79RAPMq3dutwIwVdgaN_UEy-)
 * [Komplette Spiele erstellen](https://www.youtube.com/playlist?list=PLfPZ6KG5o79RhZZCJs9qko0eSIspkXkl7)
 * [Tutorials / Anleitungen](https://www.youtube.com/playlist?list=PLfPZ6KG5o79RGHFkkNu9DGkKvdVfkuMQe)
+
+### [K0il Inside](https://www.youtube.com/user/k0ilinside)
+
+* [Android Game](https://www.youtube.com/playlist?list=PLyA-iVE2pIRDctJ0D6ZjD73gRRoQ301v0)
 
 ### [Krystian Erber](https://www.youtube.com/channel/UCW3yR2lm1csU_UEkeLknCmw)
 
@@ -738,6 +747,10 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 * [Beginners Project - Basketball](https://www.youtube.com/playlist?list=PLNy9jTodydSSOehjGDBxYBZqY2Yd3StK3)
 
+### [Pablo Sosa](https://www.youtube.com/channel/UCKPKhWnV2_LRU2y487-OhMw)
+
+* [Top Down Shooter](https://www.youtube.com/channel/UCKPKhWnV2_LRU2y487-OhMw/videos)
+
 ### [Página Pessoal de Shin-NiL](https://shinnil.blogspot.com/) (Text)
 
 ### [Papai Game Maker](https://www.youtube.com/channel/UC9leBtpltYJIqyvPLDabGwg)
@@ -774,6 +787,11 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 * [Godot Vlog 1-15 Create an RTS game playlist](https://www.youtube.com/playlist?list=PLV9wlVwi2Pgohszu88tmgcYHdjMsMcCd3)
 * Vlog 16-* are not in the playlist
 
+### [Recursor](https://www.youtube.com/user/8safe)
+
+* [Adventure Game](https://www.youtube.com/playlist?list=PLZVNxI_lsRW0k77EH-tDlKsImSyiv9GiP)
+* [Platform tutorial](https://www.youtube.com/playlist?list=PLZVNxI_lsRW0F35BsPJ71lUvYj2qN0X6w)
+
 ### [Roman Fetsch](https://www.youtube.com/channel/UChuD3nWmhp9xgTAPjcO_DqQ)
 
 * [Rocketschmeers - Godot Multiplayer Network Tutorial](https://www.youtube.com/watch?v=LIK5tRzGAHw)
@@ -796,6 +814,10 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 * [Basic 3D game](https://www.youtube.com/playlist?list=PLXTK688RnbsFZR2EwanXp1RanBxgkyyil)
 * [Animazione Batterio Blender/Godot](https://www.youtube.com/playlist?list=PLXTK688RnbsG5DtS3QasXLoM0f39RvTcY)
 
+### [School of Net](https://www.youtube.com/user/wesleywillians/) (Portuguese)
+
+* [Iniciando com Godot](https://www.youtube.com/user/wesleywillians/search?query=godot)
+
 ### [Schuster Art](https://www.youtube.com/channel/UC5dntCvbfu5_gdYBHo3JzoQ)
 
 ### [Sebastián Diéguez](https://www.youtube.com/channel/UCZkjxZtCcowzCPky_pXa-NA)
@@ -805,6 +827,10 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 * [Godot 3: Primeros pasos en el 2D](https://www.youtube.com/watch?v=A4xee54qDp8) (Spanish)
 
 ### [Securas](https://www.youtube.com/user/rluis)
+
+### [Sergio kirienko](https://www.youtube.com/user/GogetaX1)
+
+* [My RPG Progress](https://www.youtube.com/playlist?list=PLxg2Y82qXWmFSeAc7uMpIK9cMrjW9_OQ0) [list 2](https://www.youtube.com/playlist?list=PLxg2Y82qXWmFSeAc7uMpIK9cMrjW9_OQ0)
 
 ### [Skaner](https://www.youtube.com/channel/UCvjFGC_ADaBZpbKGJrH4JlQ) (RU)
 
@@ -817,6 +843,8 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 ### [Stern Flowers](https://www.youtube.com/channel/UCi_43GEvIKhByIvjFlVStgQ)
 
 * [Godot Wild Jam #2](https://www.youtube.com/watch?v=oYaWWK4OGwU) & [#3](https://www.youtube.com/watch?v=C_ZfGCreI9A)
+
+### [Solar Lune](https://www.youtube.com/user/SolarLuneTube/videos) Many videos
 
 ### [Solo CodeNet](https://www.youtube.com/channel/UC2Kl-Y9g3CJST4U8kAyYxHw) (FR)
 
@@ -851,8 +879,6 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 ### [Spritesheet](https://www.youtube.com/channel/UCXeFrXpowTMGnaupcyvFd4Q)
 
 * [تعلم أساسيات Godot لتصميم الألعاب](https://www.youtube.com/playlist?list=PLXUEZFpQn01Hp06m0MxlMzj8x5Y2n9Dek)
-
-### [Solar Lune](https://www.youtube.com/user/SolarLuneTube/videos) Many videos
 
 ### [Thanh Nguyen](https://www.youtube.com/channel/UCG6W1zGGWqLvymaWr8eLPyQ)
 
@@ -968,6 +994,10 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 ### [XAND](https://www.youtube.com/channel/UC7vsIJl_Hb7QNeioDPM5kSg)
 
 * [Godot Pokemon Tutorial](https://www.youtube.com/watch?v=tPF_khHiPAM&list=PLZ5ZbsJ9KUCFtAdZRwAYT-Y_c-_PfDQDx)
+
+### [Zebus 3D](https://www.youtube.com/channel/UCqx_pye-m1kJ48gpOQtttZQ)
+
+* [AprendiendoGodot](https://www.youtube.com/playlist?list=PLdkbuM4iFi4fhkPxwUM3DBv1-zoFa8NHN)
 
 ### [Zerosploit](https://www.youtube.com/channel/UCqLl5Limi4AZZpMXqF1LHtA)
 
