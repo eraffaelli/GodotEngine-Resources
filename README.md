@@ -82,7 +82,7 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 * [Chaosus](https://github.com/Chaosus)
   * [Fractal Shaders](https://github.com/Chaosus/GDFractals)
   * [GDSkybox](https://github.com/Chaosus/GDSimpleSkybox)
-  * [Planet simulation demo ](https://github.com/Chaosus/GDPlanet)
+  * [Planet simulation demo](https://github.com/Chaosus/GDPlanet)
   * [WAD level loader-script(from DOOM-alike games) for Godot](https://github.com/Chaosus/GDWADLevelLoader)
 * [Dwana games : Godot 3.1 Character Setup 1 - Texture Painting in Blender 2.8](https://www.youtube.com/watch?v=fMic306LN3o)
 * [Em Alexander : Dialogue Tree Plugin](https://github.com/EmAlexander/DialogueTreePlugin)
@@ -108,7 +108,7 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 * [Supatier : Magic square Godot](https://github.com/Supatier/magic-square-godot)
 * [Tulsa Game Developers : Making a game with Godot in less than an hour](https://www.youtube.com/watch?v=xQIaRSXh4ic)
 * [Youk54 : Godot 3 - Procedural Generated World](https://www.youtube.com/watch?v=uu2NI3Fmx4M)
-* [ZAME Example Game for the ZeroFrame Godot Engine addon ](https://github.com/lentsius-bark/zame-zeroframe-godot)
+* [ZAME Example Game for the ZeroFrame Godot Engine addon](https://github.com/lentsius-bark/zame-zeroframe-godot)
 * [Zylann Productions : Cubic voxels in Godot 2 with physics](https://www.youtube.com/watch?v=0HLKJK1ex64)
 
 ## Games
@@ -151,11 +151,11 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 * [Animated charts for Godot Engine](https://github.com/binogure-studio/chart-gd)
 * [Calinou: Godot Date](https://github.com/Calinou/godot-date)
 * [FrogSquare](https://github.com/FrogSquare)
-    * [Godot Ads](https://github.com/FrogSquare/GodotAds)
-    * [GDFacebook](https://github.com/FrogSquare/GDFacebook)
-    * [Godot Firebase](https://github.com/FrogSquare/GodotFireBase)
-    * [Google Service : Gplay integration](https://github.com/FrogSquare/GodotGoogleService)
-    * [Godot SQL for Android](https://github.com/FrogSquare/GodotSQL)
+  * [Godot Ads](https://github.com/FrogSquare/GodotAds)
+  * [GDFacebook](https://github.com/FrogSquare/GDFacebook)
+  * [Godot Firebase](https://github.com/FrogSquare/GodotFireBase)
+  * [Google Service : Gplay integration](https://github.com/FrogSquare/GodotGoogleService)
+  * [Godot SQL for Android](https://github.com/FrogSquare/GodotSQL)
 * [Godot Engine : Escoria Point & click adventure game framework for Godot Engine](https://github.com/godotengine/escoria)
 * [WolfgangSenff : GodotFirebase](https://github.com/WolfgangSenff/GodotFirebase)
 * [Grevius5 : Godot Resolution Changer](https://github.com/grevius5/godot-ResolutionChanger)
@@ -267,6 +267,8 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 ### [Banduck](https://www.youtube.com/channel/UCfBt15W6Y0aPNTd5XxYEDyw)
 
+### [BaraA GD](https://www.youtube.com/channel/UC_XkcNUmEo6-oZGlYRnCFYA)
+
 ### [Bastiaan Olij](https://www.youtube.com/channel/UCrbLJYzJjDf2p-vJC011lYw)
 
 * [Godot Desktop VR Tutorials Playlist](https://www.youtube.com/watch?v=07euJhZbeSc&list=PLe63S5Eft1KYGqgkx9I70vfWmvvOZ7apF)
@@ -279,7 +281,7 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 ### [BrainDeadBZH](https://www.braindead.bzh/)
 
-#### Godot 2
+Godot 2 :
 
 * [Creating a game with Godot Engine - Ep.1 - Introduction](https://www.braindead.bzh/entry/creating-a-game-with-godot-engine-introduction) (Text)
 * [Godot Quick Tip #2 - Getting the mouse cursor position in your 2D fragment shader](https://www.braindead.bzh/entry/godot-quick-tip-getting-the-mouse-cursor-position-in-your-fragment-shader) (Text)
@@ -325,18 +327,24 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 * [Tutoriel Godot: Jeu de vaisseau](https://www.youtube.com/watch?v=FuMgAo4y9qs) (FR)
 
-### [Cryptic Coding](https://www.youtube.com/channel/UCLtcXpEuZo-Px7Hzm_tflGQ)
+### [Code Otaku](https://www.youtube.com/channel/UCZ7il9AWfJ78UwUuD3daKvg)
 
-* [Godot 3 : Platformer](https://www.youtube.com/playlist?list=PLkYL6Bpp_5mzs6Pr75uEgCk4Ycq0J_x8J)
+* [Lean Godot 3.1](https://www.youtube.com/playlist?list=PLlKj-4rp1Gz2Lu2AQ0zNovjQqOqHu9Vbu)
+* [Godot 3.0 Arabic](https://www.youtube.com/playlist?list=PLlKj-4rp1Gz2oHQmJ8aEkEvo2INfw5lu6)
+* [Godot 3.1 Arabic](https://www.youtube.com/playlist?list=PLlKj-4rp1Gz19dTrFWNF1bNcidaNzt21k)
 
 ### [Code Tuto](http://codetuto.com)
 
 * [All godot](http://codetuto.com/tag/godot) (Text)
 
-#### Godot 2
+Godot 2 :
 
 * [How to save and load game](http://codetuto.com/2017/08/save-load-game-godot-engine/)
 * [Game tutorial for beginners – Create a 2D Racing Game 1](http://codetuto.com/2016/12/godot-engine-game-tutorial-beginners-create-2d-racing-game-1/) (Text)
+
+### [Cryptic Coding](https://www.youtube.com/channel/UCLtcXpEuZo-Px7Hzm_tflGQ)
+
+* [Godot 3 : Platformer](https://www.youtube.com/playlist?list=PLkYL6Bpp_5mzs6Pr75uEgCk4Ycq0J_x8J)
 
 ### [Crystal Bit](https://www.youtube.com/channel/UCFVgUrvckqp0i_pbCj3wjfA)
 
@@ -347,6 +355,10 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 ### [Daniel Hofmann](https://www.youtube.com/user/DocLovePeace)
 
 * [LIGHT on TILE MAPS](https://www.youtube.com/watch?v=QsCfx-jjS0U)
+
+### [Devquickie](https://www.youtube.com/channel/UCYN__gtyjw62SYAzVMXN5gg) (German)
+
+* [Godot playlist](https://www.youtube.com/playlist?list=PLHlPTbN2USokSvY8AW8SF4B1xPFKQS8DH)
 
 ### [Deybis Melendez](https://www.youtube.com/channel/UCSxqszCdHyojStKsZw-76Aw) (SPA?)
 
@@ -389,6 +401,8 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 * [Godot Zelda-like Tutorial Playlist](https://www.youtube.com/watch?v=4CLvL05Av6g&list=PLv0bAfkzWSiY4d_FJlQTlFOZh34nrlJZY) [Text versions !](https://fornclake.com/category/tutorials/godotzelda) (TEXT)
 * [Godot 3.1 Asteroids Tutorial Playlist](https://www.youtube.com/playlist?list=PLv0bAfkzWSiYn3BV5jWJUWZbr-9osyRae) [Text version !](https://fornclake.com/category/tutorials/asteroids) (TEXT)
+* [Online multiplayer mario clone](https://www.youtube.com/playlist?list=PLv0bAfkzWSibtBVzTlrkBdafrvjE-XNZ7)
+* [Zelda like Engine](https://www.youtube.com/playlist?list=PLv0bAfkzWSiYsDVuNtFoy5aNVdG_kscdL)
 
 ### [Fratm](https://www.youtube.com/user/fratm)
 
@@ -455,6 +469,11 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 * [Godot Engine playlist](https://www.youtube.com/playlist?list=PL90JqKQoAVsYKy7jLQbE02aRU-ho3MtTB)
 
+### [Ghost Cube 189](https://www.youtube.com/channel/UCfRFQJGLEmcxTdW038aTqJA)
+
+* [Godot 3.0.6 C++ Maze Tutorial Series](https://www.youtube.com/playlist?list=PLWc2hibTd7kqTk2wkYw7LsgE3V801AROL)
+* [Godot 3.1 C++ Maze Tutorial](https://www.youtube.com/playlist?list=PLWc2hibTd7kq_r0LYLCtMcWL9dd8jByRW)
+
 ### [Gonkee](https://www.youtube.com/channel/UCJqCPFHdbc6443G3Sz6VYDw)
 
 * [Godot 3: How to Make Cutscenes with Video Files](https://www.youtube.com/watch?v=2RecAxcsNt4)
@@ -480,6 +499,10 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 * [Godot Engine 2 Tutorials](https://www.youtube.com/watch?v=ntYjl_obUDo&list=PL9FzW-m48fn1iR6WL4mjXtGi8P4TaPIAp)
 * [Godot 3 - Platform Game Tutorial](https://www.youtube.com/watch?v=wETY5_9kFtA&list=PL9FzW-m48fn2jlBu_0DRh7PvAt-GULEmd)
+
+### [HugeGameArt GD](https://www.youtube.com/channel/UCp-jiB8OYSOOv1X5aM2LJ-A)
+
+* [Solus Stunts Car Racing Game](https://www.youtube.com/playlist?list=PLjGHla0Bjth-iP1scUU5MW_jRr_Ei2him)
 
 ### [Intera Games](https://www.youtube.com/channel/UCGg38Rf3ExttCi2B7-axoPg)(Portuguese)
 
@@ -550,7 +573,7 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 * [Godot 3](https://www.youtube.com/playlist?list=PLX8H1qIvxRFUoWCJrvUUZXn5SCU_HDLGa)
 
-### [Jose Antonio Molinero Reina]()
+### [Jose Antonio Molinero Reina](https://www.youtube.com/channel/UC9tt9O8Nf3v6ZPw6x1o66Jg)
 
 * [3D](https://www.youtube.com/playlist?list=PLKFbfWqR5znM4rVbquUHUu-QZI8NWR4ts)
 * [3.1](https://www.youtube.com/playlist?list=PLKFbfWqR5znMeqbGUQ7YFr4KIP7jOpqJI)
@@ -653,6 +676,11 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 * [Menu Template](https://www.youtube.com/playlist?list=PLI95OAGEsXs8_5_OrBpZylMFp4xuEVleL)
 
+### [Lucas González](https://www.youtube.com/user/XTheGameDevelopersX)
+
+* [From Unity to Godot Dev Diary](https://www.youtube.com/watch?v=ujqDpnJ-WUE) [2](https://www.youtube.com/watch?v=O5MBjG-KkjI)
+* [Android Game Transductor](https://www.youtube.com/watch?v=dJvv8A04NF4)
+
 ### [Make Your Game - Event Orizon Studio](https://www.youtube.com/channel/UCjRDU5fwe4eaEuI666nM2Zg)
 
 * [Godot Engine 3 Tutorials / Angry Birds clone](https://www.youtube.com/playlist?list=PLi-VYObBzzKN8MWcAVo7y2JPcct1WOyXd) (FR)
@@ -733,7 +761,12 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 ### [Nuno Donato](https://www.youtube.com/user/nunosdonato/playlists)
 
-[Tutorials](https://www.youtube.com/playlist?list=PLhZ4HC__ica795Y05VGAnDV8u_4BjoCgV)
+* [Tutorials](https://www.youtube.com/playlist?list=PLhZ4HC__ica795Y05VGAnDV8u_4BjoCgV)
+
+### [Ombarus](https://www.youtube.com/channel/UCscoqrVcMbZwv5jIpKVYpDg)
+
+* [Godot](https://www.youtube.com/playlist?list=PL43PN07AM4J91PGH1Lp_sefQiCpeQolLv)
+* [Solar Rogue : Godot RPG](https://www.youtube.com/playlist?list=PL43PN07AM4J_WKqqhd9dY6OVnOc1cKqbe)
 
 ### [OdooClass.com](https://www.youtube.com/channel/UCn95lB97bOQb8OuK441zF7Q)
 
@@ -894,6 +927,8 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 * [Godot 3.0: Complete Patformer Tutorial](https://www.youtube.com/playlist?list=PL3ELWPsiplh4WheZA-l6o7tbP0Xt38MFZ)
 
+### [TheBuffED](https://www.youtube.com/channel/UCUrmX3SvpPerq-KAfGBrgGQ)
+
 ### [The Game Dev](https://www.youtube.com/channel/UCMugleC3oiOzmMGwEN4Gkig)
 
 * [Godot top down movement tutorial](https://www.youtube.com/watch?v=cFxpi6JZ6c0)
@@ -974,6 +1009,10 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 * [Godot Engine Tutorials](https://www.youtube.com/watch?v=W47-ozym9-c&list=PLEeuOz8n-w2OWQm7T4Ppbo-fLI1k81ZJd)
 * [Godot Engine Showcase](https://www.youtube.com/watch?v=pFvH4qXoD6A&list=PLEeuOz8n-w2PLKLFNwYKFMmyr3C6Sf_iD)
 
+### [WebGirl Kristina](https://www.youtube.com/channel/UCrRfSdwA7b2Ex0MB6q9hKEQ) (RUS)
+
+* [Godot playlist](https://www.youtube.com/playlist?list=PLSUAU8pldTeXQj7whkORMgHEnvPl2FiE6)
+
 ### [Wicardo Devs](https://www.youtube.com/channel/UCPV9ZzTcqK4cLFPBGdBtUNg) (Spanish?)
 
 * [Guia: Desde GameMaker a Godot Engine Parte 1](https://www.youtube.com/watch?v=88AUKog9uRA)
@@ -985,6 +1024,8 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 * [Godot’s Node System, Part 1: An OOP Overview](https://willnationsdev.wordpress.com/2018/04/05/godots-node-system-a-paradigm-overview/) (Text)
 * [Godot’s Node System, Part 2: Framework Concepts](https://willnationsdev.wordpress.com/2018/04/06/godots-node-system-part-2-framework-concepts/) (Text)
 * [Godot’s Node System, Part 3: Engine Comparisons](https://willnationsdev.wordpress.com/2018/04/07/godots-node-system-part-3-engine-comparisons/) (Text)
+
+* [Youtube](https://www.youtube.com/channel/UC7uU5XaPB9uYKlowYOhEHnA)
 
 ### [Wizardtroll Games](https://www.youtube.com/channel/UC5PgqSQHZr9HH8p-2VtjPAg)
 
