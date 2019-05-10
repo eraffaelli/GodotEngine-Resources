@@ -17,6 +17,7 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 * [Python x GDScript differences](https://www.reddit.com/r/godot/comments/5g3l6y/learning_python_and_godot_at_the_same_time_to/)
 * [Sebastián Diéguez : Godot Starter](https://www.youtube.com/watch?v=LUKzKMOc72M) [Github](https://github.com/SebaSOFT/GodotStarter)
 * [Kermer: Godot stuff](https://github.com/Kermer/Godot)
+* [Godot Engine Resources youtube channel](https://www.youtube.com/channel/UCSEFJg_cMyZDttm4e6LZYSw)
 
 ## Books
 
