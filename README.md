@@ -401,7 +401,7 @@ Godot 2 :
 ### [fornclake](https://www.youtube.com/channel/UCcvec1pEInJKoyoXAr8MgUw)
 
 * [Godot Zelda-like Tutorial Playlist](https://www.youtube.com/watch?v=4CLvL05Av6g&list=PLv0bAfkzWSiY4d_FJlQTlFOZh34nrlJZY) [Text versions !](https://fornclake.com/category/tutorials/godotzelda) (TEXT)
-* [Godot 3.1 Asteroids Tutorial Playlist](https://www.youtube.com/playlist?list=PLv0bAfkzWSiYn3BV5jWJUWZbr-9osyRae) [Text version !](https://fornclake.com/category/tutorials/asteroids) (TEXT)
+* [Godot 3.1 Asteroids](https://www.youtube.com/watch?v=mCLAmjqnyTA&t=2s) [Text version ! (long version)](https://fornclake.com/category/tutorials/asteroids) (TEXT)
 * [Online multiplayer mario clone](https://www.youtube.com/playlist?list=PLv0bAfkzWSibtBVzTlrkBdafrvjE-XNZ7)
 * [Zelda like Engine](https://www.youtube.com/playlist?list=PLv0bAfkzWSiYsDVuNtFoy5aNVdG_kscdL)
 
