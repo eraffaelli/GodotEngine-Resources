@@ -280,6 +280,10 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 ### [Blazeowsky](https://www.youtube.com/channel/UCW6HicaATADWZpdU__aXjgg) (Polish)
 
+### [BornCG](https://www.youtube.com/channel/UCdioEctcBLd2nw2aQkl8msw)
+
+* [Creating a Simple 3D Game](https://www.youtube.com/watch?v=VeCrE-ge8xM)
+
 ### [BrainDeadBZH](https://www.braindead.bzh/)
 
 Godot 2 :
