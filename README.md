@@ -150,6 +150,7 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 ## Libraries
 
 * [Animated charts for Godot Engine](https://github.com/binogure-studio/chart-gd)
+* [Alfredbaudisch : Godot Phoenix Channels Client](https://github.com/alfredbaudisch/GodotPhoenixChannels)
 * [Calinou: Godot Date](https://github.com/Calinou/godot-date)
 * [FrogSquare](https://github.com/FrogSquare)
   * [Godot Ads](https://github.com/FrogSquare/GodotAds)
