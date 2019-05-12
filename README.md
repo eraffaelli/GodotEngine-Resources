@@ -561,7 +561,7 @@ Godot 2 :
 * June 26 2018 [Android Export Tutorial](https://www.youtube.com/watch?v=QPI8JsKF2j4)
 * Jan 19 2019 [Blender 2.8 & Godot 3 : Export/Import 3D Colliders](https://www.youtube.com/watch?v=hzPuWgkn6bE&t=1s)
 
-[Jeremi360](https://www.youtube.com/channel/UCMGyApWbhZCBnsEn2SI4ovA) (Polish)
+### [Jebedaia/TheJeremi360](https://www.youtube.com/channel/UCMGyApWbhZCBnsEn2SI4ovA) (Polish)
 
 * [Menu 2D](https://www.youtube.com/playlist?list=PLSKjrHqliRovF-vFbTUFIBwbg-La6xUYK)
 * [GodotTuts PL - Platfromówka 2D](https://www.youtube.com/playlist?list=PLSKjrHqliRosLA1HrP2vD6SIsGxmnvYeM)
