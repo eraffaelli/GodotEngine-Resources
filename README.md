@@ -475,6 +475,8 @@ Godot 2 :
 * [Godot 3.0.6 C++ Maze Tutorial Series](https://www.youtube.com/playlist?list=PLWc2hibTd7kqTk2wkYw7LsgE3V801AROL)
 * [Godot 3.1 C++ Maze Tutorial](https://www.youtube.com/playlist?list=PLWc2hibTd7kq_r0LYLCtMcWL9dd8jByRW)
 
+### [Grevius Studio](https://www.youtube.com/channel/UC8G7xNJ9LbCpRPM81LXaxuw)
+
 ### [Gonkee](https://www.youtube.com/channel/UCJqCPFHdbc6443G3Sz6VYDw)
 
 * [Godot 3: How to Make Cutscenes with Video Files](https://www.youtube.com/watch?v=2RecAxcsNt4)
