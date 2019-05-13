@@ -139,6 +139,7 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 * [Godot Game Engine : initiation](https://fr.flossmanuals.net/godot-game-engine-initiation/a-propos-de-ce-livre/) (FR)
 * [Présentation et installation de Godot Engine 3.0 C#](https://makeyourgame.fun/presentation-installation-de-godot-engine-3-0/) (FR)
+* [Game Maker (GM:S) to Godot dictionary](https://github.com/coppolaemilio/gamemaker-godot-dictionary)
 * [Godot Training](https://github.com/xsellier/godot-training) (FR)
 * [Godot Beginners Guide](https://github.com/br-n518/Godot-Beginners-Guide/blob/master/godot_guide.md)
 * [Lean GDScript](https://www.gdscript.com)
