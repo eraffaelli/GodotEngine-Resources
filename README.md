@@ -144,6 +144,7 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 * [Godot Beginners Guide](https://github.com/br-n518/Godot-Beginners-Guide/blob/master/godot_guide.md)
 * [Lean GDScript](https://www.gdscript.com)
 * [Memo by flashjaysan](https://docs.google.com/document/d/1tW9vx3dyMTad4ljyDgF8xN0kI_HW1RpLoJdmH2qgzXw) (FR)
+* [Multiplayer Tutorial – Discovering the main concepts for Godot networking](https://godot3tutorials.wordpress.com/2018/03/02/part-3-multiplayer-tutorial-godot-main-multiplayer-concepts/) (This helped me to better understand the concept of master/slave in Godot which is a bit weird at first when you are used to deal with web server/client)
 
 ## IDE
 
