@@ -142,6 +142,7 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 * [Godot Training](https://github.com/xsellier/godot-training) (FR)
 * [Godot Beginners Guide](https://github.com/br-n518/Godot-Beginners-Guide/blob/master/godot_guide.md)
 * [Lean GDScript](https://www.gdscript.com)
+* [Memo by flashjaysan](https://docs.google.com/document/d/1tW9vx3dyMTad4ljyDgF8xN0kI_HW1RpLoJdmH2qgzXw) (FR)
 
 ## IDE
 
