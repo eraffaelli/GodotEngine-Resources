@@ -173,6 +173,7 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 * [Awesome Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking)
 * [Development and Deployment of Multiplayer Online Games](http://ithare.com/contents-of-development-and-deployment-of-massively-multiplayer-games-from-social-games-to-mmofps-with-stock-exchanges-in-between/)
+* [Glenn Fiedler Gaffer on games about multiplayer](https://gafferongames.com/tags/networking)
 * [Render sprites with normal maps in Blender](https://games.kodera.pl/dev/render-sprites-with-normal-maps-in-blender/)
 
 ## Talks
