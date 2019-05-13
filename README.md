@@ -409,6 +409,12 @@ Godot 2 :
 * [[Vivo] Creando Super Mario Bros en Godot 3 [Parte 1]](https://www.youtube.com/watch?v=XPNHfuxkLsk)
 * [[Vivo] Creando FlappyBirds en Godot 3 [Parte 1]](https://www.youtube.com/watch?v=nC7aakaQieU)
 
+### [Exts](https://github.com/exts)
+
+* [C# Bejeweled](https://github.com/exts/godot-godeweled)
+* [C# Breakout](https://github.com/exts/godot3-breakout)
+* [C# Version of Your First Game Tutorial](https://github.com/exts/godot-yourfirstgame)
+
 ### [fornclake](https://www.youtube.com/channel/UCcvec1pEInJKoyoXAr8MgUw)
 
 * [Godot Zelda-like Tutorial Playlist](https://www.youtube.com/watch?v=4CLvL05Av6g&list=PLv0bAfkzWSiY4d_FJlQTlFOZh34nrlJZY) [Text versions !](https://fornclake.com/category/tutorials/godotzelda) (TEXT)
