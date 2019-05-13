@@ -165,6 +165,7 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 * [Simple logger](https://github.com/binogure-studio/godot-simple-logger)
 * [Steam API](https://github.com/Gramps/GodotSteam/tree/godot3)
 * [Unirest in GDScript: Simplified, lightweight HTTP client library.](https://github.com/godot-addons/godot-unirest)
+* [Willnationdev : Godot Node Extensions](https://github.com/willnationsdev/godot-next)
 * [ZeroFrame : interacting with the ZeroNet network](https://github.com/anoadragon453/godot-zeroframe-plugin)
 
 ## Not Godot Specific
