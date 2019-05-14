@@ -165,6 +165,7 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
   * [Godot SQL for Android](https://github.com/FrogSquare/GodotSQL)
 * [Godot Engine : Escoria Point & click adventure game framework for Godot Engine](https://github.com/godotengine/escoria)
 * [Godot Extended Libraries : Tensorflow](https://github.com/godot-extended-libraries/godot-tensorflow-workspace)
+* [Jebedaia: Rakugo Ren'py inspired framework](https://github.com/jebedaia360/Rakugo)
 * [WolfgangSenff : GodotFirebase](https://github.com/WolfgangSenff/GodotFirebase)
 * [Grevius5 : Godot Resolution Changer](https://github.com/grevius5/godot-ResolutionChanger)
 * [Ringtech Solutions : Hydrodyamics module for Godot](https://gitlab.com/ringtechsolutions/godot-tools/hydro/hydro)
