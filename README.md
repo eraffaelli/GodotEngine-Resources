@@ -955,6 +955,8 @@ Godot 2 :
 
 ### [TheBuffED](https://www.youtube.com/channel/UCUrmX3SvpPerq-KAfGBrgGQ)
 
+### [The Darkness](https://www.youtube.com/channel/UCX1UBqswkZk91skCEFqbNyg)
+
 ### [The Game Dev](https://www.youtube.com/channel/UCMugleC3oiOzmMGwEN4Gkig)
 
 * [Godot top down movement tutorial](https://www.youtube.com/watch?v=cFxpi6JZ6c0)
