@@ -358,6 +358,8 @@ Godot 2 :
 * [How to save and load game](http://codetuto.com/2017/08/save-load-game-godot-engine/)
 * [Game tutorial for beginners – Create a 2D Racing Game 1](http://codetuto.com/2016/12/godot-engine-game-tutorial-beginners-create-2d-racing-game-1/) (Text)
 
+### [Coding with dom](https://www.youtube.com/channel/UC1bvBZB7iL2goVOxSALVbCg)
+
 ### [Cryptic Coding](https://www.youtube.com/channel/UCLtcXpEuZo-Px7Hzm_tflGQ)
 
 * [Godot 3 : Platformer](https://www.youtube.com/playlist?list=PLkYL6Bpp_5mzs6Pr75uEgCk4Ycq0J_x8J)
