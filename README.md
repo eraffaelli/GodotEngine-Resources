@@ -1077,6 +1077,10 @@ Godot 2 :
 
 * [Godot Pokemon Tutorial](https://www.youtube.com/watch?v=tPF_khHiPAM&list=PLZ5ZbsJ9KUCFtAdZRwAYT-Y_c-_PfDQDx)
 
+### [Zabava i Programiranje](https://www.youtube.com/channel/UCPfgOXNMkRklmHIusK94IqQ) (Bosnian)
+
+* [Godot tutorijali](https://www.youtube.com/watch?v=HR_r96AVSFs&list=PLsUfvNfy_iR2KETjNydYuNayBbalhGovp)
+
 ### [Zebus 3D](https://www.youtube.com/channel/UCqx_pye-m1kJ48gpOQtttZQ)
 
 * [AprendiendoGodot](https://www.youtube.com/playlist?list=PLdkbuM4iFi4fhkPxwUM3DBv1-zoFa8NHN)
