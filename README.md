@@ -866,6 +866,10 @@ Godot 2 :
 
 * [Godot](https://www.youtube.com/playlist?list=PLFPqIkzz3zpOfNI34Q6yKWOeHecLyurkS)
 
+### [Ruby's Gamedev Journey](https://www.youtube.com/channel/UCQgqX_9m89QCPfsqtX-XsjA)
+
+* [Learning Godot In One Week](https://www.youtube.com/playlist?list=PLUJGCWYyPdg4SrXWGUR-DL56AU3GiVEf1)
+
 ### [Sad Pixel](https://www.youtube.com/channel/UCtjoe_Bd6igN7XiYBYYyACw)
 
 * [FUS RO DAH](https://www.youtube.com/watch?v=ThWrSH9Vjw4)
