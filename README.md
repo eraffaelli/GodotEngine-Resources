@@ -610,6 +610,10 @@ Godot 2 :
 * [Godot Engine: Meeting the Nodes](https://www.youtube.com/watch?v=ioMZ5-j_PD0&list=PLBgwKMnonTew0Z0xRA8rJch1aB3-Qnm1T)
 * [Godot 3: Global Illumination Quick Set-Up on Existing Scene](https://www.youtube.com/watch?v=jG1f3Cxopvc)
 
+### [Just a Gamedev channel](https://www.youtube.com/channel/UCEalt0mssQeOGj7jyukP8_g)
+
+* [Godot tutorials](https://www.youtube.com/watch?v=y1pxCxM36pM&list=PLyiWlyQwglB1siNq32BFOsbqd3323DRqc)
+
 ### [KemoJallow](https://www.youtube.com/channel/UCvqdRkXwYQfx_2QWe2nFJXA)
 
 * [Godot Engine Mobile Game Tutorials](https://www.youtube.com/watch?v=TAPO7y1EYnY&list=PLm_vxcRCNKYyO7iMrKQAyp-P1otM1Z4U9)
