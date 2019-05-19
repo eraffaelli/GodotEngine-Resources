@@ -1032,6 +1032,10 @@ Godot 2 :
 
 * [Godot 3.1 Tutorial 1 - Basic Player Movement with typed GDScript](https://www.youtube.com/watch?v=4JX3IeH9wYM)
 
+### [vctr uniq](https://www.youtube.com/channel/UCtlqLYgwyZVoqdB0PyfxKXw)
+
+* [Godot Engine Tutorials](https://www.youtube.com/playlist?list=PLFfOQnFRDk-wl6DtdWCA-cTQlK7SM_sqZ)
+
 ### [VGDCuci](https://www.youtube.com/channel/UC-hJiN_zxqrO9VoL9E6d1ZQ)
 
 * [Godot Workshop: Prefabs, TileSets, and Animations](https://www.youtube.com/watch?v=1VNItJoiOOU)
