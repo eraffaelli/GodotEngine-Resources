@@ -30,7 +30,7 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 * [Mishapsi: 3D Voxels to Pixel Art with viewports](https://www.reddit.com/r/godot/comments/9497gz/how_to_3d_voxels_to_pixel_art_with_viewports/)
 * [Icelus : Blend cutout and traditional animation in Godot](https://odysseygames.blogspot.com/2018/05/how-to-blend-cutout-and-traditional.html)
 * [Decay Battle Royal](https://github.com/Gonkee/decay-br/)
-* [GD-Com TCP/UDP Godot - Nodejs](https://www.npmjs.com/package/gd-com)
+* [GD-Com TCP/UDP Godot - Nodejs](https://www.npmjs.com/package/@gd-com/utils) / [Github](https://github.com/gd-com)
 * [Godot Enet Better](https://github.com/Faless/godot-enet-better)
 * [Godot-Voxel-Game-MineCraftClone](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone)
 * [Jarl Owrey: 2D Normal Mapping in Godot with Sprite Illuminator](https://jarlowrey.com/blog/2d-normal-godot.html)
