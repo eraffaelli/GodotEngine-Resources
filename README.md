@@ -565,6 +565,7 @@ Godot 2 :
 * [Godot Engine 2 Tutorials](https://www.youtube.com/watch?v=ntYjl_obUDo&list=PL9FzW-m48fn1iR6WL4mjXtGi8P4TaPIAp)
 * [Godot Engine 3 Mobile RPG](https://www.youtube.com/playlist?list=PL9FzW-m48fn1JgK_mavg7ym6nvchF9Yjb)
 * [Godot 3 - Platform Game Tutorial](https://www.youtube.com/watch?v=wETY5_9kFtA&list=PL9FzW-m48fn2jlBu_0DRh7PvAt-GULEmd)
+* [Make an Action RPG in Godot 3.2](https://www.youtube.com/playlist?list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a)
 * [Scriptable Objects in Godot](https://www.youtube.com/playlist?list=PL9FzW-m48fn22pwEJA4vSLoYjmN5Q2tvJ)
 * Many others...
 
