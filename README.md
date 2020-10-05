@@ -408,6 +408,10 @@ Godot 2 :
 
 * [Godot playlist](https://www.youtube.com/playlist?list=PLHlPTbN2USokSvY8AW8SF4B1xPFKQS8DH)
 
+### [David Pesce](https://www.davidepesce.com)
+
+* [2D top-down RPG](https://www.davidepesce.com/2019/10/18/godot-tutorial-7-using-tile-maps-to-create-game-map/) (text)
+
 ### [Deybis Melendez](https://www.youtube.com/channel/UCSxqszCdHyojStKsZw-76Aw) (SPA?)
 
 * [SPEED CODING CHALLENGE #1 / Timelapse GODOT 3](https://www.youtube.com/playlist?list=PLoXNpYRpQVcCseygUFXBBVjZgGvqfcogv)
