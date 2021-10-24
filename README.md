@@ -274,6 +274,12 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 * [Godot Engine 3D tutoriales y muestras](https://www.youtube.com/playlist?list=PLqsK8f12rhT9XBbjBcqFaITug2ODS9fJ5)
 * [Reporte BUG Godot engine y Blender3D](https://www.youtube.com/playlist?list=PLqsK8f12rhT_l1kphG2Jsa54yE2LMXMiZ)
 
+#### [Arkeve](https://www.youtube.com/channel/UC_CC9isZsKofGK8gMy8uhPQ)
+
+* [Godot Inventory System](https://www.youtube.com/playlist?list=PLY1jY0hbmKxBvcEHa0k5Aw8_MKoB6jrRU)
+* [Make Pokemon in Godot](https://www.youtube.com/playlist?list=PLY1jY0hbmKxAya3z6YBuQ3gGNB6Sg137r)
+* [Godot Tutorials](https://www.youtube.com/playlist?list=PLY1jY0hbmKxB83GsdTgHuggyaHdpY8kuu)
+
 ### [Ashshaosh daa](https://www.youtube.com/channel/UCQwZ7JmxU4eTix9DUbYXwhQ)
 
 * [Godot](https://www.youtube.com/playlist?list=PLMSwqV1whdAbW6lkJCFmBx-ZoOXPINvLV)
