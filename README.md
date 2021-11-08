@@ -516,6 +516,10 @@ Godot 2 :
 
 * [Make A 2D Game Without Coding](https://www.youtube.com/watch?v=-ZGBhUjU_eo)
 
+### [Garbaj](https://www.youtube.com/channel/UCPUe9uOcp1UMpVi6Vll60Jw)
+
+* [3D Multiplayer For Beginners (Godot Online Networking Tutorial)](https://www.youtube.com/watch?v=K0luHLZxjBA)
+
 ### [Gary's Blog](https://meshist.wordpress.com/)
 
 * [Getting Started Gotchas in Godot Engine](https://meshist.wordpress.com/2015/01/10/getting-started-gotchas-in-godot-engine/)
