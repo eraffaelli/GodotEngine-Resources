@@ -401,13 +401,21 @@ Godot 2 :
 
 ### [Cryptic Coding](https://www.youtube.com/channel/UCLtcXpEuZo-Px7Hzm_tflGQ)
 
-* [Godot 3 : Platformer](https://www.youtube.com/playlist?list=PLkYL6Bpp_5mzs6Pr75uEgCk4Ycq0J_x8J)
+* [Endless Runner Game](https://www.youtube.com/playlist?list=PLkYL6Bpp_5mzxiaqbcH_qLDp-zN50iZ0R)
+* [Platformer](https://www.youtube.com/playlist?list=PLkYL6Bpp_5mzs6Pr75uEgCk4Ycq0J_x8J)
+* [RPG Game Tutorial Series](https://www.youtube.com/playlist?list=PLkYL6Bpp_5mx9jrWQrFR_91LSB1sc7_AF)
 
 ### [Crystal Bit](https://www.youtube.com/channel/UCFVgUrvckqp0i_pbCj3wjfA)
 
 * [Godot Engine 3.0 - Tutorial per principianti](https://www.youtube.com/watch?v=AY1zuH2mHQ0&list=PLaCq3HqKQR6rlPpf2GAOXp52ddt0V71Yl) (ITA)
 * [Stuff about godot](https://davcri.github.io/) (ENG - Text)
 * [Other videos](https://www.youtube.com/channel/UCFVgUrvckqp0i_pbCj3wjfA/videos)
+
+### [Daniel Buckley](https://godottutorials.pro/author/danielbuckley/)
+
+* [Create an Action RPG in Godot](https://godottutorials.pro/action-rpg-godot-tutorial/)
+* [How to Create an RPG in Godot](https://godottutorials.pro/rpg-godot-tutorial/)
+* [How to Make a Strategy Game in Godot](https://godottutorials.pro/godot-strategy-game-tutorial/)
 
 ### [Daniel Hofmann](https://www.youtube.com/user/DocLovePeace)
 
