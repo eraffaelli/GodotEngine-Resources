@@ -18,6 +18,7 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 * [Sebastián Diéguez : Godot Starter](https://www.youtube.com/watch?v=LUKzKMOc72M) [Github](https://github.com/SebaSOFT/GodotStarter)
 * [Kermer: Godot stuff](https://github.com/Kermer/Godot)
 * [Godot Engine Resources youtube channel](https://www.youtube.com/channel/UCSEFJg_cMyZDttm4e6LZYSw)
+* [Godot docs tutorial list](https://docs.godotengine.org/en/stable/community/tutorials.html)
 
 ## Books
 
@@ -387,6 +388,13 @@ Godot 2 :
 * [How to save and load game](http://codetuto.com/2017/08/save-load-game-godot-engine/)
 * [Game tutorial for beginners – Create a 2D Racing Game 1](http://codetuto.com/2016/12/godot-engine-game-tutorial-beginners-create-2d-racing-game-1/) (Text)
 
+### [Code with Tom](https://www.youtube.com/channel/UCdU9e4eNsJif0rBrBiYRb5g)
+
+* [GDScript for Begineers in Godot 3.2](https://www.youtube.com/playlist?list=PLiUQR4U_J9ee0W_7oLf9w3KsPnzP-Csp_)
+* [Godot Quick Tips](https://www.youtube.com/playlist?list=PLiUQR4U_J9ectCZ6rXJJAtn2NSv2NhBhT)
+* [Third Person in Godot](https://www.youtube.com/playlist?list=PLiUQR4U_J9eeApbWA-hWvMYcKCc9skxj9)
+
+
 ### [CodingDumbest](https://www.youtube.com/channel/UCl-iYRURdX35BNx4hjuCS1w)
 
 ### [Coding with dom](https://www.youtube.com/channel/UC1bvBZB7iL2goVOxSALVbCg)
@@ -502,7 +510,7 @@ Godot 2 :
   * [2D Physics -- Godot 3 Tutorial Series](https://www.youtube.com/watch?v=vY4I5VeQbBk)
 * [Bowling With Godot -- A Complete 3D Game Using The Godot Game Engine](https://www.youtube.com/watch?v=-NtqTzevB-0)
 * [GDSCript Programming 101 - Godot 3 Tutorial Series](https://www.youtube.com/watch?v=ybz5CfIPYq0)
-* [Getting Started With Godot — Step By Step Game Development Tutorial Series](https://devga.me/tutorials/godot2d/) (TEXT)
+* [Getting Started With Godot — Step By Step Game Development Tutorial Series](https://devga.me/tutorials/godot2d/) (TEXT) - [Rust version by paytonrules](https://github.com/paytonrules/AirCombat)
 
 ### [Gamer Haveli](https://www.youtube.com/channel/UCsu10B3tTGbaK8B3bciekzA)
 
@@ -575,7 +583,7 @@ Godot 2 :
 * [Godot Engine 2 Tutorials](https://www.youtube.com/watch?v=ntYjl_obUDo&list=PL9FzW-m48fn1iR6WL4mjXtGi8P4TaPIAp)
 * [Godot Engine 3 Mobile RPG](https://www.youtube.com/playlist?list=PL9FzW-m48fn1JgK_mavg7ym6nvchF9Yjb)
 * [Godot 3 - Platform Game Tutorial](https://www.youtube.com/watch?v=wETY5_9kFtA&list=PL9FzW-m48fn2jlBu_0DRh7PvAt-GULEmd)
-* [Make an Action RPG in Godot 3.2](https://www.youtube.com/playlist?list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a)
+* [Make an Action RPG in Godot 3.2](https://www.youtube.com/playlist?list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a) - [Rust version by MacKarp](https://github.com/MacKarp/Rust_Action_RPG_Tutorial)
 * [Scriptable Objects in Godot](https://www.youtube.com/playlist?list=PL9FzW-m48fn22pwEJA4vSLoYjmN5Q2tvJ)
 * Many others...
 
@@ -973,6 +981,8 @@ Godot 2 :
 * [Simple match3 - Candy course](https://www.youtube.com/playlist?list=PLxRGZlMeAiCJBWRG5uFwTe_BsD2RSjB94)
 
 ### [Stein Codes](https://www.youtube.com/channel/UCpljFlcQVNj1nUYs8v02IAQ)
+
+
 
 #### Videos
 
