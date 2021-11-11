@@ -499,6 +499,22 @@ Godot 2 :
 
 * [Using C++ and GDNative in Godot - Part 1](https://gamedevadventures.posthaven.com/using-c-plus-plus-and-gdnative-in-godot-part-1)
 
+### [GameDevelopmentCenter](https://www.youtube.com/c/GameDevelopmentCenter)
+
+* [3d Particles](https://www.youtube.com/playlist?list=PLZ-54sd-DMAIJ8e92RgOgeXVIUqGEa1oY)
+* [Advanced Inventory System | Godot 3.1 Tutorial](https://www.youtube.com/playlist?list=PLZ-54sd-DMALtZNRpfuha5SeoUkG2arVv)
+* [Animations Series](https://www.youtube.com/playlist?list=PLZ-54sd-DMAKYB8BVcYxlqWpn2zbw7NYL)
+* [Dedicated Multiplayer](https://www.youtube.com/playlist?list=PLZ-54sd-DMAKU8Neo5KsVmq8KtoDkfi4s)
+* [Godot (Tile)Map Tutorials](https://www.youtube.com/playlist?list=PLZ-54sd-DMAKnV3CoOLFl87DP2piqLQLe)
+* [Godot (Player) Movement](https://www.youtube.com/playlist?list=PLZ-54sd-DMAJBDA8Lm3mTyTPZ-eRPACpE)
+* [Godot UI Series](https://www.youtube.com/playlist?list=PLZ-54sd-DMALjRZZp2g7X553m71-nQ8g9)
+* [Item Generation System](https://www.youtube.com/playlist?list=PLZ-54sd-DMAKLiQM_ouFBIHrlakRa98AC)
+* [Orbem Wars](https://www.youtube.com/playlist?list=PLZ-54sd-DMAJEzUAd7RQ9DUsxl_fyJEgn)
+* [Player Development Series](https://www.youtube.com/playlist?list=PLZ-54sd-DMALS7u-0x5UwbKl7VDWcabo2)
+* [The Godot Combat Series](https://www.youtube.com/playlist?list=PLZ-54sd-DMALOePYMiM9aOj49eM8tWxly)
+* [The Godot Enemy Logic Series](https://www.youtube.com/playlist?list=PLZ-54sd-DMAIayOOwIPXoL61mh3XDdaPk)
+* [Tower Defense in Godot](https://www.youtube.com/playlist?list=PLZ-54sd-DMAJltIzTtZ6ZhC-9hkqYXyp6)
+
 ### [Game Endeavor](https://www.youtube.com/channel/UCLweX1UtQjRjj7rs_0XQ2Eg)
 
 * [Godot Tips and Tricks That Will Make Your Games Better](https://www.youtube.com/playlist?list=PL4QJmtZWf50mZGcg4JoPs7VYz6xY7WQEP)
