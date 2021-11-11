@@ -6,7 +6,7 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 ## Resources
 
-* [Awesome Godot](https://github.com/Calinou/awesome-godot)
+* [Awesome Godot](https://github.com/godotengine/awesome-godot)
 * [Zeff list](https://godot-engine.zeef.com/andre.antonio.schmitz)
 * [Linkans Reddit Post](https://www.reddit.com/user/linkans/comments/8fiipa/godot_game_engine/)
 * [https://godotdevelopers.org/forum/discussion/15457/where-to-find-more-tutorials](https://godotdevelopers.org/forum/discussion/15457/where-to-find-more-tutorials)
