@@ -585,8 +585,11 @@ Godot 2 :
 
 ### [Gonkee](https://www.youtube.com/channel/UCJqCPFHdbc6443G3Sz6VYDw)
 
+* [FPS Character Controller](https://www.youtube.com/playlist?list=PLl29vQKblxBVRwG5hVoN_81ierohmNAXu)
 * [Godot 3: How to Make Cutscenes with Video Files](https://www.youtube.com/watch?v=2RecAxcsNt4)
 * [Godot 3: How to Make a Platformer AI that Follows You Around](https://www.youtube.com/watch?v=WXC8eBCEbho)
+* [Others](https://www.youtube.com/playlist?list=PLl29vQKblxBW8LOP-T4imEtYP0306DF60)
+* [Recreating Fortnite](https://www.youtube.com/playlist?list=PLl29vQKblxBUXmBTYbVdrnEVPGWe-c38T)
 
 #### Shaders
 
