@@ -246,6 +246,10 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 * [Godot](https://www.youtube.com/watch?v=5G0uruVj_Gs&list=PLlFiW1yNHWbWdfkAmppswakbefNkIx-Q_)
 
+[Andrew Hoffman](https://www.youtube.com/@and1hof)
+
+* [GODOT Tutorials](https://www.youtube.com/playlist?list=PLP6PvXLevG9JddCjycHv8Lt3nRerIV7Go)
+
 ### [AngelCrew Studios](https://www.youtube.com/channel/UCgM6-TipPC9k8jVt7m3hqmA)
 
 * [Godot 3 Tutorials : Snake2D Playlist](https://www.youtube.com/watch?v=-n0hXJJ3yUc&list=PLoRXs8YdHkhg2df5xuN5JAlNcJ0q5rXh3)
@@ -329,6 +333,12 @@ Godot 2 :
 ### [Brahim Ait Hamou](https://www.youtube.com/channel/UCAsPkfjE4T29CBgJRTIIpZw)
 
 * [Godot](https://www.youtube.com/playlist?list=PL-HnVGtUTd6SOQLC6B4UlBFeAFjk28DJn)
+
+### [Bramwell](https://www.youtube.com/c/BramwellWilliams)
+
+* [Godot 4 Alpha Guide](https://www.youtube.com/playlist?list=PLRAIqYcJ24D0K1zzqlwA_AdBTKs9tcb34)
+* [Godot Guide](https://www.youtube.com/playlist?list=PLRAIqYcJ24D1PfVcloBgdqcJB2tJgiOwU)
+* [Godot Lesson Pack](https://www.youtube.com/playlist?list=PLRAIqYcJ24D3Az1OtDlb3zuf5brnM9VV8)
 
 ### [BRANE Games](https://www.youtube.com/channel/UCNSGkoIfep1wnwYpBcsQSrg)
 
@@ -495,6 +505,13 @@ Godot 2 :
 * [Curso de Godot Engine (2?)](https://www.youtube.com/watch?v=Jtx0FEEQJJY&list=PLCCvCjJoQ5QXvRLlnGfEZZBRs2jmkcgIH)
 * [Curso Godot Engine 3](https://www.youtube.com/watch?v=VGM_gluENkg&list=PLCCvCjJoQ5QUf-oZPOy3DReqZLfkNhtxN)
 
+### [GameDev Journey](https://www.youtube.com/@GameDevJourney)
+
+* [Godot Answer Series](https://www.youtube.com/playlist?list=PLNPiMnTSlVCML5TZiq8rRcm4ys0q6fScn)
+* [Godot Tank Battle Tutorials](https://www.youtube.com/playlist?list=PLNPiMnTSlVCNPbVxv12CyaPlkPTNFjhMF)
+* [Learn GDScript the Hard Way](https://www.youtube.com/playlist?list=PLNPiMnTSlVCMrr13-sKhrVe296Mv1Pt7-)
+* [Made With Godot](https://www.youtube.com/playlist?list=PLNPiMnTSlVCN9o94KB2OeyYfYzDGPRITq)
+
 ### [Game Dev Adventures](https://gamedevadventures.posthaven.com/)
 
 * [Using C++ and GDNative in Godot - Part 1](https://gamedevadventures.posthaven.com/using-c-plus-plus-and-gdnative-in-godot-part-1)
@@ -614,7 +631,7 @@ Godot 2 :
 * [Godot Engine 2 Tutorials](https://www.youtube.com/watch?v=ntYjl_obUDo&list=PL9FzW-m48fn1iR6WL4mjXtGi8P4TaPIAp)
 * [Godot Engine 3 Mobile RPG](https://www.youtube.com/playlist?list=PL9FzW-m48fn1JgK_mavg7ym6nvchF9Yjb)
 * [Godot 3 - Platform Game Tutorial](https://www.youtube.com/watch?v=wETY5_9kFtA&list=PL9FzW-m48fn2jlBu_0DRh7PvAt-GULEmd)
-* [Make an Action RPG in Godot 3.2](https://www.youtube.com/playlist?list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a) - [Rust version by MacKarp](https://github.com/MacKarp/Rust_Action_RPG_Tutorial)
+* [Godot Action RPG Series](https://www.youtube.com/playlist?list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a) - [Rust version by MacKarp](https://github.com/MacKarp/Rust_Action_RPG_Tutorial)
 * [Scriptable Objects in Godot](https://www.youtube.com/playlist?list=PL9FzW-m48fn22pwEJA4vSLoYjmN5Q2tvJ)
 * Many others...
 
@@ -744,6 +761,9 @@ Godot 2 :
 * [Godot Game Engine - "Know Your Nodes" Playlist](https://www.youtube.com/watch?v=awBfTnmgn7k&list=PLsk-HSGFjnaE4k-X3l6dZAPIoB2QB4eYg)
 * [Godot 3.0 Tutorials Playlist](https://www.youtube.com/watch?v=xsAyx2r1bQU&list=PLsk-HSGFjnaH-kptk70dHaX-tbJaRrFiQ)
 * [Godot 3.0: Top-down Tank Battle Playlist](https://www.youtube.com/watch?v=sQ1FpD0DYF8&list=PLsk-HSGFjnaFC8kEv6MaLXnnDcevGpSWf)
+* Godot Recipes
+  * [3.X](http://kidscancode.org/godot_recipes/3.x/)
+  * [4.X](http://kidscancode.org/godot_recipes/4.x/)
 
 ### [KinematicBody](https://www.youtube.com/channel/UCQ7E5E5J8g0b-lxVVxl_2kg) (DE & EN)
 
@@ -902,6 +922,10 @@ Godot 2 :
 
 * [Beginners Project - Basketball](https://www.youtube.com/playlist?list=PLNy9jTodydSSOehjGDBxYBZqY2Yd3StK3)
 
+### [Origamol](https://www.youtube.com/channel/UCCUVW16DkFpT1uD1OiEIH-w)
+
+* [Godot Tutorials](https://www.youtube.com/playlist?list=PLVJaq_BremIcLtu3ZWroGQUyir4wV-1h8)
+
 ### [Pablo Sosa](https://www.youtube.com/channel/UCKPKhWnV2_LRU2y487-OhMw)
 
 * [Top Down Shooter](https://www.youtube.com/channel/UCKPKhWnV2_LRU2y487-OhMw/videos)
@@ -918,7 +942,7 @@ Godot 2 :
 
 ### [Pigdev](https://www.youtube.com/channel/UCFK9ZoVDqDgY6KGMcHEloFw)
 
-* Too much to link
+* Too many to link
 
 ### [Pixel Coin](https://www.youtube.com/channel/UCwD2ONNOxAQ825IiuCagQXg)
 
@@ -927,6 +951,15 @@ Godot 2 :
   * [Lezione 1 - Creazione del player e movimento](https://www.youtube.com/watch?v=39Zvkzllq0M)
   * [Lezione 2 - Creare un sistema di shooting](https://www.youtube.com/watch?v=aDh0x9LDKW4)
   * [Lezione 3 - Creazione del nemico e spawn casuali](https://www.youtube.com/watch?v=RgoU5ojJKVM)
+
+### [Pixiearl](https://www.youtube.com/@pixiearlDev)
+
+* [Godot 4 tutorials](https://www.youtube.com/playlist?list=PLRG1LUXP0LmfZibj1Eqb66U3O0B0LBkpj)
+
+### [Practical Game Design](https://www.youtube.com/channel/UCq8TOEf_w1q3J82ubtc41ag)
+
+* [Godot Tutorials](https://www.youtube.com/playlist?list=PLilLng_Pi9bXs8pABb_Bp8VeqX3SWhopW)
+* [Action RPG Tutorial Series](https://www.youtube.com/playlist?list=PLilLng_Pi9bVMop3VDHzRsjUeroQ0LciC)
 
 ### [Prestidigitator](https://www.youtube.com/channel/UC5C24RIrjvsn7ddwsuUtJOQ)
 
@@ -999,6 +1032,11 @@ Godot 2 :
 * [Godot Engine уроки на русском. Уроки разработки игр на Godot 3](https://www.youtube.com/playlist?list=PLf0k8CBUad-v_J1Xq5XW7FEUHokxSuYnF)
 * [Godot Engine Создание 3D игры](https://www.youtube.com/playlist?list=PLf0k8CBUad-uBels10n74EIGQ45natifs)
 
+### [Slick Games](https://www.youtube.com/@stingly)
+
+* [Game Jam Devlogs](https://www.youtube.com/playlist?list=PLZzuusmK29kcBWJCyFNheGGn88UkGA0NW)
+* [Tutorials](https://www.youtube.com/playlist?list=PLZzuusmK29kf6758_Bx9Qo_B5sos18qNx)
+
 ### [Stern Flowers](https://www.youtube.com/channel/UCi_43GEvIKhByIvjFlVStgQ)
 
 * [Godot Wild Jam #2](https://www.youtube.com/watch?v=oYaWWK4OGwU) & [#3](https://www.youtube.com/watch?v=C_ZfGCreI9A)
@@ -1067,6 +1105,10 @@ Godot 2 :
 
 * [Godot Engine Review](https://www.youtube.com/watch?v=y2RVAl3H-EY)
 * [Godot Engine Tutorial: The Basics of Branching Dialogue and Dynamic Events](https://www.youtube.com/watch?v=aVutIoCGAfE)
+
+### [The Shaggy Dev](https://www.youtube.com/c/TheShaggyDev)
+
+* [Godot tutorials](https://www.youtube.com/playlist?list=PLaiU9HSaKMWsNNSQp52hKyLqiBJuqkzPR)
 
 ### [Thoughtquake](https://www.youtube.com/user/Thoughtquake)
 
