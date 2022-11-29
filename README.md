@@ -19,6 +19,7 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 * [Kermer: Godot stuff](https://github.com/Kermer/Godot)
 * [Godot Engine Resources youtube channel](https://www.youtube.com/channel/UCSEFJg_cMyZDttm4e6LZYSw)
 * [Godot docs tutorial list](https://docs.godotengine.org/en/stable/community/tutorials.html)
+* [Godot Shaders library](https://godotshaders.com/)
 
 ## Books
 
@@ -92,6 +93,7 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 * [Em Alexander : Dialogue Tree Plugin](https://github.com/EmAlexander/DialogueTreePlugin)
 * [Godot 3 Windows issues](https://www.youtube.com/channel/UC1zMh5_cGW6tpMwKf13YSOQ)
 * [Godot Engine Q&A : Omni Directional Touch Pad](https://godotengine.org/qa/360/omni-directional-touch-pad?show=375#a375)
+* [nekotogd's Godot_2D_VTuber_Boobs](https://github.com/nekotogd/Godot_2D_VTuber_Boobs)
 * [jairo caro-accino viciana: Godot richer UI components](https://www.youtube.com/watch?v=FfX6iwvGipA)
 * [Johnathan Mueller: Godot 3 Game Previews](https://www.youtube.com/playlist?list=PL359DaN9yjMqp6T8V8snymRuGIPN6CicC)
 * [Kenoma : Tower Defense](https://www.youtube.com/watch?v=tCoD-vl12Vc)
@@ -274,12 +276,17 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 * [Pixel perfection in godot](https://alvarber.gitlab.io/pixel-perfection-in-godot.html) (Text)
 
+### [Apano](https://www.youtube.com/@ApanoA)
+
+* [Game Creation (multiple godot one)](https://www.youtube.com/playlist?list=PLeJDGeZe3by1almAOPBGk10NVGht3e1BT)
+* [Godot Platform Fighter Series (smash like)](https://www.youtube.com/playlist?list=PLeJDGeZe3by2tQIJmCZfaSRl95cot070t)
+
 ### [Ariel Gimenez](https://www.youtube.com/channel/UCQidxODFrNzabdDCa89WdTQ)
 
 * [Godot Engine 3D tutoriales y muestras](https://www.youtube.com/playlist?list=PLqsK8f12rhT9XBbjBcqFaITug2ODS9fJ5)
 * [Reporte BUG Godot engine y Blender3D](https://www.youtube.com/playlist?list=PLqsK8f12rhT_l1kphG2Jsa54yE2LMXMiZ)
 
-#### [Arkeve](https://www.youtube.com/channel/UC_CC9isZsKofGK8gMy8uhPQ)
+### [Arkeve](https://www.youtube.com/channel/UC_CC9isZsKofGK8gMy8uhPQ)
 
 * [Godot Inventory System](https://www.youtube.com/playlist?list=PLY1jY0hbmKxBvcEHa0k5Aw8_MKoB6jrRU)
 * [Make Pokemon in Godot](https://www.youtube.com/playlist?list=PLY1jY0hbmKxAya3z6YBuQ3gGNB6Sg137r)
@@ -288,6 +295,10 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 ### [Ashshaosh daa](https://www.youtube.com/channel/UCQwZ7JmxU4eTix9DUbYXwhQ)
 
 * [Godot](https://www.youtube.com/playlist?list=PLMSwqV1whdAbW6lkJCFmBx-ZoOXPINvLV)
+
+### [Axe Wizard](https://www.youtube.com/@axewizard)
+
+* [I make my own game (devlog)](https://www.youtube.com/playlist?list=PLXRBQMNKSlxJOV7h7CO_wZazbkmqVvJ0s)
 
 ### [Axen Lader](https://godot3tutorials.wordpress.com/) (Text)
 
@@ -504,6 +515,11 @@ Godot 2 :
 
 * [Curso de Godot Engine (2?)](https://www.youtube.com/watch?v=Jtx0FEEQJJY&list=PLCCvCjJoQ5QXvRLlnGfEZZBRs2jmkcgIH)
 * [Curso Godot Engine 3](https://www.youtube.com/watch?v=VGM_gluENkg&list=PLCCvCjJoQ5QUf-oZPOy3DReqZLfkNhtxN)
+
+### [GameDev Compass](https://www.youtube.com/@GameDevCompass)
+
+* [Advanced Movement Features – Godot 3.5 Tutorial](https://www.youtube.com/watch?v=OZgDuBDoAKs)
+* [Smooth Player Movement – Godot 3.5 Tutorial](https://www.youtube.com/watch?v=KugpjfQoDbI)
 
 ### [GameDev Journey](https://www.youtube.com/@GameDevJourney)
 
@@ -722,6 +738,14 @@ Godot 2 :
 
 * [Godot tutorials](https://www.youtube.com/watch?v=y1pxCxM36pM&list=PLyiWlyQwglB1siNq32BFOsbqd3323DRqc)
 
+### [Kmitt91](https://www.youtube.com/channel/UCbf7bKRX6aTr1Tix1nTJo1Q)
+
+* [Godot Engine](https://www.youtube.com/playlist?list=PLj3K0UERzFLj86pn4xHik7DXhqaXqx5OA)
+* [Godot Tutorials](https://www.youtube.com/playlist?list=PLj3K0UERzFLjO467SpxcuLHx8y6oKzGjF)
+* [Kingdom Heart prototy](https://github.com/Kmitt91/Kingdom_Hearts_Prototype_GD)
+* [Sandfire Soul-like game pre-Devlog](https://www.youtube.com/playlist?list=PLj3K0UERzFLhSAfcyETRrpRcMyYoJcaIZ)
+* [Sandfire Game Devlogs](https://www.youtube.com/playlist?list=PLj3K0UERzFLjcDEnf2_HeV1Vd4B_F86_u)
+
 ### [KemoJallow](https://www.youtube.com/channel/UCvqdRkXwYQfx_2QWe2nFJXA)
 
 * [Godot Engine Mobile Game Tutorials](https://www.youtube.com/watch?v=TAPO7y1EYnY&list=PLm_vxcRCNKYyO7iMrKQAyp-P1otM1Z4U9)
@@ -858,6 +882,11 @@ Godot 2 :
 
 * [Autotiling in Godot 3.0](https://michagamedev.wordpress.com/2018/02/24/181/) (Text)
 
+### [Mina Pêcheux](https://www.youtube.com/channel/UC8v8tDctOMlgP4sSVvT0lVA)
+
+* [Godot Tutorials](https://www.youtube.com/playlist?list=PLbEtFK5YvXKWzEoHKwEtXtnvJYiGZSAEJ)
+* [Godot Tutorials](https://www.youtube.com/playlist?list=PLbEtFK5YvXKV622OTNEczg9wl_MzwDULR) [FR]
+
 ### [Mister Taft Creates](https://www.youtube.com/channel/UCZczqDvepgNqy80gTMGnUXw)
 
 * [Make a Match 3 game like Candy Crush using Godot](https://www.youtube.com/playlist?list=PL4vbr3u7UKWqwQlvwvgNcgDL1p_3hcNn2)
@@ -956,6 +985,10 @@ Godot 2 :
 
 * [Godot 4 tutorials](https://www.youtube.com/playlist?list=PLRG1LUXP0LmfZibj1Eqb66U3O0B0LBkpj)
 
+### [Polywarden](https://www.youtube.com/@PlatinumGold86)
+
+* [Multiple Realistic shaders and all kind of effects, terrains, etc](https://www.youtube.com/@PlatinumGold86/search?query=godot)
+
 ### [Practical Game Design](https://www.youtube.com/channel/UCq8TOEf_w1q3J82ubtc41ag)
 
 * [Godot Tutorials](https://www.youtube.com/playlist?list=PLilLng_Pi9bXs8pABb_Bp8VeqX3SWhopW)
@@ -1011,6 +1044,10 @@ Godot 2 :
 * [Iniciando com Godot](https://www.youtube.com/user/wesleywillians/search?query=godot)
 
 ### [Schuster Art](https://www.youtube.com/channel/UC5dntCvbfu5_gdYBHo3JzoQ)
+
+### [scriptblocks](https://www.youtube.com/@scriptblocks)
+
+* [Godot: Pokédex and recreating Stardew Valley](https://www.youtube.com/watch?v=P7L3d7hUPgQ)
 
 ### [Sebastián Diéguez](https://www.youtube.com/channel/UCZkjxZtCcowzCPky_pXa-NA)
 
@@ -1142,6 +1179,10 @@ Godot 2 :
 
 * [Godot Engine Tuto #1 Creer un personnage](https://www.youtube.com/watch?v=ZmdJCdPijlg)
 * [Godot Engine Tuto #2 Créer un Menu](https://www.youtube.com/watch?v=_-ByjRqZL5Y)
+
+### [Tristan Batchler](https://www.youtube.com/@tristanbatchler4078)
+
+* [Godot Python MMO Course](https://www.youtube.com/playlist?list=PLA1tuaTAYPbHz8PvTWpFYGag0L6AdYgLH) - [Text version](https://tbat.me/2022/11/20/godot-python-mmo-part-1)
 
 ### [Tutorial Geeks](https://www.youtube.com/watch?v=D8LnTRXnVF8&list=PLSoiAaD2GJL6BeIExjy0lNhMQ9psiU4A0)
 
