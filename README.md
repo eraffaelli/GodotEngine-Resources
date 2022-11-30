@@ -354,6 +354,10 @@ Godot 2 :
 
 * [Converting Shadertoy shaders to Godot](https://www.youtube.com/watch?v=Kn49zhCwg-0)
 
+### [Branno](https://www.youtube.com/@branno8097)
+
+* [Make a Vampire Survivors Clone in Godot 4](https://www.youtube.com/playlist?list=PLtosjGHWDab682nfZ1f6JSQ1cjap7Ieeb)
+
 ### [Brass Harpooner](https://www.youtube.com/channel/UCUzEitsrWzd6MYDdZGUgk3Q)
 
 * [Making Cyberglads](https://www.youtube.com/playlist?list=PLbhqfhVLMhLEiqjrWWcOFfVrm8WjySWAM)
@@ -454,10 +458,20 @@ Godot 2 :
 
 * [2D top-down RPG](https://www.davidepesce.com/2019/10/18/godot-tutorial-7-using-tile-maps-to-create-game-map/) (text)
 
+### [Detective Code](https://www.youtube.com/@detectivecode3980)
+
+* [How to make simple platformer game in Godot Engine?](https://www.youtube.com/watch?v=0Uditc9DNIg)
+
 ### [Deybis Melendez](https://www.youtube.com/channel/UCSxqszCdHyojStKsZw-76Aw) (SPA?)
 
 * [SPEED CODING CHALLENGE #1 / Timelapse GODOT 3](https://www.youtube.com/playlist?list=PLoXNpYRpQVcCseygUFXBBVjZgGvqfcogv)
 * [Respondiendo preguntas sobre GODOT 3](https://www.youtube.com/watch?v=9FBzSZCczjE)
+
+### [Digital Nightmare e.U.](https://www.youtube.com/@DigitalN8m4r3)
+
+* [Godot VR/XR Avatar Turorials](https://www.youtube.com/playlist?list=PLBpYNPEE9RKhwvAbMVbTJvU7fMS2SLY90)
+* [Godot XR - Custom Hands](https://www.youtube.com/playlist?list=PLBpYNPEE9RKiB7Rnn1tDpMO5wQEG0WnUt)
+* [Godot XR Avatar Showcase](https://www.youtube.com/playlist?list=PLBpYNPEE9RKiKdwF2zLdsmCpIFMu4pjnh)
 
 ### [Digital Student](https://www.youtube.com/channel/UClFXngLulgo90MiSxPoVTYQ)
 
@@ -596,6 +610,10 @@ Godot 2 :
 * [Godot 3.1 3D tutorial playlist](https://www.youtube.com/watch?v=FD5999mgbSo&list=PLhqJJNjsQ7KHGd_Zuf_Yx6XQ6BazFyoLh)
 * [Intro to Shaders in Godot 2D and 3D water tutorials](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KHqNMYmTwtsYTeTrqrRP_fP)
 * [Learn 2d and 3d Game Creation with Godot: 2019 Kickstarter Tutorials](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KEHh1pfBLVnLftf0of-tHQu)
+
+### [GD Noob](https://www.youtube.com/@gdnoob5839)
+
+* [Fighting Game tutorial in Godot with Spine](https://www.youtube.com/playlist?list=PLxmY3t7LLnMGRC9Zu2C-ei0u3f_0XaShY)
 
 ### [Generalist Programmer](https://www.youtube.com/channel/UC1i4hf14VYxV14h6MsPX0Yw)
 
@@ -850,6 +868,20 @@ Godot 2 :
 
 * [Godot Engine 3 Tutorials / Angry Birds clone](https://www.youtube.com/playlist?list=PLi-VYObBzzKN8MWcAVo7y2JPcct1WOyXd) (FR)
 
+### [Marcial Lincoln](https://www.youtube.com/@MarcialLincoln) [Brazilian]
+
+* [Beat em Up](https://www.youtube.com/playlist?list=PLuQJapu7L84RRN2ewvovL_GgacI2KOQjX)
+* [Devlog](https://www.youtube.com/playlist?list=PLuQJapu7L84QyRdjyEnqEXx0tSYPsdpBX)
+* [Godot - AeroFighter](https://www.youtube.com/playlist?list=PLuQJapu7L84RET4nPD3NmTlKzlCFNw4mL)
+* [Godot Dicas](https://www.youtube.com/playlist?list=PLuQJapu7L84T8ZFYaKGl91MqlYriMPymO)
+* [Godot - QuizGame](https://www.youtube.com/playlist?list=PLuQJapu7L84S621tILRFhI90LQl0EeQZC)
+* [Godot - Sistema de Dialogo](https://www.youtube.com/playlist?list=PLuQJapu7L84S0oVWcYquEFLqSkNJBvd5Y)
+* [Godot - SlotMachine](https://www.youtube.com/playlist?list=PLuQJapu7L84Qu3uXDjPkiKwDx-SwCj0DD)
+* [Godot - TopDown Shooter](https://www.youtube.com/playlist?list=PLuQJapu7L84ReSM7kY2W3VUyatiGqUU3X)
+* [Shorts](https://www.youtube.com/playlist?list=PLuQJapu7L84SB35xd5mO4hf8zjGCgmxqB)
+* [StateMachine](https://www.youtube.com/playlist?list=PLuQJapu7L84Sc3XVJYIfNRuD5YX4N_ga8)
+* [TicTacToe](https://www.youtube.com/playlist?list=PLuQJapu7L84T2sIJf1b3ZHLJUrjne2Czj)
+
 ### [Mariano Suligoy](https://www.youtube.com/channel/UCoteoMv9mJGbSGOVOIFdBwA)
 
 * [Pokemon con Godot Engine (Godot 2)](https://www.youtube.com/watch?v=snG4kfVN1X8&list=PLdxpqdgprAY0bLAtdcWi8M1TZjSjIdDHn) (Portugal?)
@@ -860,9 +892,9 @@ Godot 2 :
 * [Godot Inventory System Tutorial](https://www.youtube.com/playlist?list=PLWuZWGwSIQHZi1318Lh6SyLP3ZWLhMCpB)
 * [Godot Tutorials and Game Development](https://www.youtube.com/playlist?list=PLWuZWGwSIQHZhMJyRvjPMZfu0MCQrNdez)
 
-### [Master-Info Turiais](https://www.youtube.com/channel/UC8HJPSAFPf6136h3FDXLnaA/about)
+### [Master-Info Turiais](https://www.youtube.com/channel/UC8HJPSAFPf6136h3FDXLnaA)
 
-* [Lógica de programação com Godot 3](https://www.youtube.com/watch?v=vo-AgfrchNc&list=PLee7C2V6LKR54nduoV_63y07AGJvhTtx_) [Brezilian?]
+* [Lógica de programação com Godot 3](https://www.youtube.com/watch?v=vo-AgfrchNc&list=PLee7C2V6LKR54nduoV_63y07AGJvhTtx_) [Brazilian?]
 
 ### [Maujoe's Medley](https://www.youtube.com/channel/UCKvRBStkGjVqWtmnSzo8ByQ)
 
@@ -1037,6 +1069,10 @@ Godot 2 :
 * [Basic 3D game](https://www.youtube.com/playlist?list=PLXTK688RnbsFZR2EwanXp1RanBxgkyyil)
 * [Animazione Batterio Blender/Godot](https://www.youtube.com/playlist?list=PLXTK688RnbsG5DtS3QasXLoM0f39RvTcY)
 
+### [Salty the Geek](https://www.youtube.com/@SaltyTheGeek)
+
+* [Game Development - Tutorial](https://www.youtube.com/playlist?list=PLUdastmI47OInDQ7ZRPTAxNYLzpS5rQDH)
+
 ### [School of Net](https://www.youtube.com/user/wesleywillians/) (Portuguese)
 
 * [Iniciando com Godot](https://www.youtube.com/user/wesleywillians/search?query=godot)
@@ -1109,6 +1145,11 @@ Godot 2 :
 ### [Space Shark Studios](https://www.youtube.com/channel/UCSKKyAmSnhOjy0KaIOBThzg)
 
 * [Space Shark Teaches Godot playlist](https://www.youtube.com/playlist?list=PLxw4Pmjew9pwyqCPIRiL2B2pTx9012ZJy)
+
+### [spimort](https://www.youtube.com/@spimortdev)
+
+* [DevLog](https://www.youtube.com/playlist?list=PLRZgDgoZ8T3JHDD2WJjeOuBm_PS_W1gBx)
+* [Tutorial](https://www.youtube.com/playlist?list=PLRZgDgoZ8T3KHg8El-PihKVcZFsgURjHF)
 
 ### [Spritesheet](https://www.youtube.com/channel/UCXeFrXpowTMGnaupcyvFd4Q)
 
