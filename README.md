@@ -17,7 +17,6 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 * [Python x GDScript differences](https://www.reddit.com/r/godot/comments/5g3l6y/learning_python_and_godot_at_the_same_time_to/)
 * [Sebastián Diéguez : Godot Starter](https://www.youtube.com/watch?v=LUKzKMOc72M) [Github](https://github.com/SebaSOFT/GodotStarter)
 * [Kermer: Godot stuff](https://github.com/Kermer/Godot)
-* [Godot Engine Resources youtube channel](https://www.youtube.com/channel/UCSEFJg_cMyZDttm4e6LZYSw)
 * [Godot docs tutorial list](https://docs.godotengine.org/en/stable/community/tutorials.html)
 * [Godot Shaders library](https://godotshaders.com/)
 
@@ -1006,7 +1005,6 @@ Godot 2 :
 ### [Rainware](https://www.youtube.com/channel/UCYSsVFCsjBSA1t9GsqBv9iQ)
 
 * [Godot Vlog 1-15 Create an RTS game playlist](https://www.youtube.com/playlist?list=PLV9wlVwi2Pgohszu88tmgcYHdjMsMcCd3)
-* Vlog 16-* are not in the playlist
 
 ### [Recursor](https://www.youtube.com/user/8safe)
 
