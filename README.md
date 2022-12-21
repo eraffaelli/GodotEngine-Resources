@@ -88,6 +88,9 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
   * [GDSkybox](https://github.com/Chaosus/GDSimpleSkybox)
   * [Planet simulation demo](https://github.com/Chaosus/GDPlanet)
   * [WAD level loader-script(from DOOM-alike games) for Godot](https://github.com/Chaosus/GDWADLevelLoader)
+* [BOTW Inventory like system](https://www.reddit.com/r/godot/comments/tjhh47/i_created_the_zelda_breath_of_the_wild_inventory/)
+* [BOTW Systems Clone](https://github.com/nagidev/bean-of-the-wild) - [Reddit post](https://www.reddit.com/r/godot/comments/qtim5f/just_finished_creating_a_botw_clone/)
+* [BOTW Recreating Grass in Godot using shaders](https://www.youtube.com/watch?v=Epjko_yHHzc)
 * [Dwana games : Godot 3.1 Character Setup 1 - Texture Painting in Blender 2.8](https://www.youtube.com/watch?v=fMic306LN3o)
 * [Em Alexander : Dialogue Tree Plugin](https://github.com/EmAlexander/DialogueTreePlugin)
 * [Godot 3 Windows issues](https://www.youtube.com/channel/UC1zMh5_cGW6tpMwKf13YSOQ)
@@ -545,6 +548,15 @@ Godot 2 :
 
 * [Using C++ and GDNative in Godot - Part 1](https://gamedevadventures.posthaven.com/using-c-plus-plus-and-gdnative-in-godot-part-1)
 
+### [Game Dev Simplified](https://www.youtube.com/@GameDevSimp)
+
+* [Godot RPG Dungeon Crawler Series](https://www.youtube.com/playlist?list=PLPuNhh82sRgk5eWzgI__j804Op1hDJnrK)
+* [Godot RPG Series](https://www.youtube.com/playlist?list=PLPuNhh82sRgklfB3VedShxzLkLUZY6ku1)
+* [Godot Stardew Valley Game Series](https://www.youtube.com/playlist?list=PLPuNhh82sRgmpJD-fnVEQfQ4Ii2N6PS2W)
+* [Godot Tutorial Basics](https://www.youtube.com/playlist?list=PLPuNhh82sRgn9gLPh_g4o-BCSqa-ATi6X)
+* [RTS Game In Godot 4.0](https://www.youtube.com/playlist?list=PLPuNhh82sRgljBFnwgASb0x5ZNhBheHY8)
+* [Zelda RPG Action-Adventure Series](https://www.youtube.com/playlist?list=PLPuNhh82sRgnUzS_2Er8Y5DiNWU3BeEDl)
+
 ### [GameDevelopmentCenter](https://www.youtube.com/c/GameDevelopmentCenter)
 
 * [3d Particles](https://www.youtube.com/playlist?list=PLZ-54sd-DMAIJ8e92RgOgeXVIUqGEa1oY)
@@ -843,6 +855,10 @@ Godot 2 :
 
 * [FlappyBird Tutorial - Godot](https://www.youtube.com/watch?v=csKL8xQq-p0&list=PLfhw26jMNbCrGGUVfF-z5pw7CheEWCnyf) (Spanish? Italian?)
 
+### [Leedeo Studio](https://www.youtube.com/@Leedeo) [Spanish]
+
+* [TUTORIALES DE GODOT ENGINE 3 EN ESPAÑOL](https://www.youtube.com/watch?v=OfW7hRt2enU&list=PL5PTqiCIVoiXlF5MI5uTORrkv_LZIOpMB)
+
 ### [L Leedoriden](https://www.youtube.com/channel/UCGDzWqPDXREUdPKRaP_x17w)
 
 * [Tutorials](https://www.youtube.com/playlist?list=PLukHeEkGhURtS_TvORngtXrhlF93alxR5)
@@ -944,6 +960,10 @@ Godot 2 :
 
 * [Simple Chat Room using Multiplayer API](http://www.narwalengineering.com/2018/07/01/godot-tutorial-simple-chat-room-using-multiplayer-api/)
 
+### [NekotoArts](https://www.youtube.com/@NekotoArts)
+
+* [Zelda stuff & shaders](https://www.youtube.com/playlist?list=PLec4vUzd98TY0drDyyzcxjrgnT538H2TJ)
+
 ### [Nel Games](https://www.youtube.com/channel/UCQfmCwHA9eNlko0P68VcGnQ)
 
 * [Godot 3.1 tutorial Basics- 2D Player - Movement and Rotation](https://www.youtube.com/watch?v=CpR9M_hMmV4)
@@ -1016,6 +1036,13 @@ Godot 2 :
 
 * [Godot 4 tutorials](https://www.youtube.com/playlist?list=PLRG1LUXP0LmfZibj1Eqb66U3O0B0LBkpj)
 
+### [PlayWithFurcifer](https://www.youtube.com/@PlayWithFurcifer)
+
+* [Game Development Knowledge](https://www.youtube.com/playlist?list=PLIPN1rqO-3eHLonTbIUIDPq_AxCpVbuug)
+* [Godot Engine Games Showcase](https://www.youtube.com/playlist?list=PLIPN1rqO-3eHm4QYcClqcx5Mg2sh_pa7_)
+* [Godot VFX Tutorials](https://www.youtube.com/playlist?list=PLIPN1rqO-3eHrOQ8BpTtelpq46TF_yFdk)
+* [Things About Godot You Should Know](https://www.youtube.com/playlist?list=PLIPN1rqO-3eHRuQI_zNbHMGB7Tj8UvM7p)
+
 ### [Polywarden](https://www.youtube.com/@PlatinumGold86)
 
 * [Multiple Realistic shaders and all kind of effects, terrains, etc](https://www.youtube.com/@PlatinumGold86/search?query=godot)
@@ -1037,6 +1064,11 @@ Godot 2 :
 ### [Rainware](https://www.youtube.com/channel/UCYSsVFCsjBSA1t9GsqBv9iQ)
 
 * [Godot Vlog 1-15 Create an RTS game playlist](https://www.youtube.com/playlist?list=PLV9wlVwi2Pgohszu88tmgcYHdjMsMcCd3)
+
+### [rayuse rp](https://www.youtube.com/@rayuserp)
+
+* [Godot Dedicated Server multiplayer game tutorials](https://www.youtube.com/playlist?list=PLRe0l8OGr7rcFTsWm3xyfCOP4NpH72vB1)
+* Multiple videos not in playlists
 
 ### [Recursor](https://www.youtube.com/user/8safe)
 
