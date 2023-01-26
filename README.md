@@ -461,9 +461,25 @@ Godot 2 :
 
 * [2D top-down RPG](https://www.davidepesce.com/2019/10/18/godot-tutorial-7-using-tile-maps-to-create-game-map/) (text)
 
+### [David Snopek](https://www.snopekgames.com/tutorials) (text)
+
+* [Godot and Git](https://www.snopekgames.com/course/godot-and-git)
+* [Godot And GitLab CI](https://www.snopekgames.com/course/godot-and-gitlab-ci)
+* [How to make a VR game for WebXR with Godot 4](https://www.snopekgames.com/tutorial/2023/how-make-vr-game-webxr-godot-4)
+
+
 ### [Detective Code](https://www.youtube.com/@detectivecode3980)
 
 * [How to make simple platformer game in Godot Engine?](https://www.youtube.com/watch?v=0Uditc9DNIg)
+
+### [DevLogLogan](https://www.youtube.com/@DevLogLogan)
+
+* [Godot 4 3D - AI Pathfinding/Navigation](https://www.youtube.com/watch?v=-juhGgA076E)
+* [Godot 4 3D - FPS Melee Attack](https://www.youtube.com/watch?v=qMBJaVL-vKc)
+* [Godot 4 / Blender - Third Person Character From Scratch](https://www.youtube.com/watch?v=VasHZZyPpYU)
+* [Godot 4 - Forest Night Environment From Scratch](https://www.youtube.com/watch?v=x4xS3N2GF-Q)
+* [Godot 4 - Online Multiplayer FPS From Scratch](https://www.youtube.com/watch?v=n8D3vEx7NAE)
+* [Godot 4 - Tiled Dungeon Environment From Scratch](https://www.youtube.com/watch?v=VjuyfBaryu8)
 
 ### [Deybis Melendez](https://www.youtube.com/channel/UCSxqszCdHyojStKsZw-76Aw) (SPA?)
 
