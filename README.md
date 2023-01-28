@@ -26,26 +26,28 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 ## Code/Examples
 
-* [arrnz: Godot - Trauma Screenshake Code](https://www.reddit.com/r/godot/comments/aoa1a2/godot_trauma_screenshake_code/)
 * [2D Day & Night Cycle](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle)
-* [Mishapsi: 3D Voxels to Pixel Art with viewports](https://www.reddit.com/r/godot/comments/9497gz/how_to_3d_voxels_to_pixel_art_with_viewports/)
-* [Icelus : Blend cutout and traditional animation in Godot](https://odysseygames.blogspot.com/2018/05/how-to-blend-cutout-and-traditional.html)
+* [arrnz: Godot - Trauma Screenshake Code](https://www.reddit.com/r/godot/comments/aoa1a2/godot_trauma_screenshake_code/)
 * [Decay Battle Royal](https://github.com/Gonkee/decay-br/)
 * [GD-Com TCP/UDP Godot - Nodejs](https://www.npmjs.com/package/@gd-com/utils) / [Github](https://github.com/gd-com)
+* [Godot Dialogue Nodes by Nagi](https://nagidev.itch.io/godot-dialogue-nodes)
+* [Godot Dynamic Inventory System](https://github.com/alfredbaudisch/GodotDynamicInventorySystem)
 * [Godot Enet Better](https://github.com/Faless/godot-enet-better)
+* [Godot OpenStreetMap (godot 2)](https://github.com/RodZill4/godot-openstreetmap)
 * [Godot-Voxel-Game-MineCraftClone](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone)
+* [Icelus : Blend cutout and traditional animation in Godot](https://odysseygames.blogspot.com/2018/05/how-to-blend-cutout-and-traditional.html)
 * [Jarl Owrey: 2D Normal Mapping in Godot with Sprite Illuminator](https://jarlowrey.com/blog/2d-normal-godot.html)
 * [Johnny Wycliffe : Civilization tile movement](https://github.com/johnnywycliffe/Civ-DungeonTileMovement)
+* [Mishapsi: 3D Voxels to Pixel Art with viewports](https://www.reddit.com/r/godot/comments/9497gz/how_to_3d_voxels_to_pixel_art_with_viewports/)
 * [MMORPG Godot engine test](https://github.com/leotada/solid-memory)
 * [Mr Minimal : Water Shader](https://gitlab.com/MrMinimal/GodotWater)
 * [Mr Minimal : Godot dedicated server tutorial](https://mrminimal.gitlab.io/2018/07/26/godot-dedicated-server-tutorial.html?fbclid=IwAR14Jqq17VMHS2-fEBvtCtgdY-o5Dvn2RxEONXmADgDOZM6Uh4Xgb7PnmIM)
-* [Godot OpenStreetMap (godot 2)](https://github.com/RodZill4/godot-openstreetmap)
 * [Rafael Arreaola: Page fold mobile](https://www.youtube.com/watch?v=zjYLVV2rVEo)
+* [SinisterNathan : Viewport Raycast in a certain area](https://www.reddit.com/r/godot/comments/9uj3hd/viewport_raycast_in_a_certain_area/)
 * [Tavurth : Simple FPS Camera](https://github.com/tavurth/godot-simple-fps-camera)
 * [Tom Kemna ! Connect and disconnect Godot Engine Dedicated Server](https://www.youtube.com/watch?v=O8X7RATgMwA)
 * [Tom Langwaldt : Godot mod and patch support](https://mrminimal.gitlab.io/2018/10/28/mod-support-in-godot.html)
 * [Top-Down MMO robots war](https://github.com/HassanHeydariNasab/sola) (Spanish)
-* [SinisterNathan : Viewport Raycast in a certain area](https://www.reddit.com/r/godot/comments/9uj3hd/viewport_raycast_in_a_certain_area/)
 * [voxelgame: Voxel Game Prototype](https://github.com/Zylann/voxelgame)
 
 ## Debug
@@ -978,6 +980,7 @@ Godot 2 :
 
 ### [NekotoArts](https://www.youtube.com/@NekotoArts)
 
+* [Make your scenes look good!](https://www.youtube.com/watch?v=-2SK19mNwmY)
 * [Zelda stuff & shaders](https://www.youtube.com/playlist?list=PLec4vUzd98TY0drDyyzcxjrgnT538H2TJ)
 
 ### [Nel Games](https://www.youtube.com/channel/UCQfmCwHA9eNlko0P68VcGnQ)
@@ -1261,6 +1264,11 @@ Godot 2 :
 ### [Toffe](https://www.youtube.com/channel/UC59u1s7pNB3yJW9tngNyh0g)
 
 * [Godot Engine 2 Tutorial - Player Inventory](https://www.youtube.com/playlist?list=PLFMb_QHFlIs10kbjBi1Rxs4tfvjp1j7FX)  [Godot 3 port](https://github.com/toffesource/GodotPlayerInventory)
+
+### [Tokisan Games](https://www.youtube.com/@TokisanGames)
+
+* Many 3D videos without playlists
+* [Open World Environment Lighting Godot Engine 3D Tutorial](https://www.youtube.com/watch?v=8kwnCxK8Vc8)
 
 ### [Toufou Master](https://www.youtube.com/channel/UCMVLloeU_BhxVT8Uai6sX5w) (FR)
 
