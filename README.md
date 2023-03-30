@@ -221,6 +221,11 @@ Playlist where I put [Godot show off, experiments or not tutorial videos](https:
 
 * [Godot Engine Walk-Through: Godot Engine | 實作responsive UI](https://www.youtube.com/playlist?list=PLTDQWu5_P3_Xy3hCWWjePE0PD8y7MSM7I)
 
+### [Aarimous](https://www.youtube.com/@Aarimous)
+
+* [How to Create a Godot Main Menu in 2022 Simple | Stylistic | Reusabl](https://www.youtube.com/watch?v=niuItBgRKCo&list=PLcQ1VY8_KV91hYLGdyoPi-dfdsOqw8GPB&index=2)
+* [Godot Tutorials](https://www.youtube.com/playlist?list=PLcQ1VY8_KV91hYLGdyoPi-dfdsOqw8GPB)
+
 ### [Adderly Céspedes](https://www.youtube.com/user/adderly2dd)
 
 * [Godot Engine 3 - Como crear Juegos Tutoriales en Español playlist](https://www.youtube.com/playlist?list=PL5K_XeigIfdJeaJ3-_YgnzD711StmJkZh)
@@ -481,6 +486,7 @@ Godot 2 :
 * [Godot 4 / Blender - Third Person Character From Scratch](https://www.youtube.com/watch?v=VasHZZyPpYU)
 * [Godot 4 - Forest Night Environment From Scratch](https://www.youtube.com/watch?v=x4xS3N2GF-Q)
 * [Godot 4 - Online Multiplayer FPS From Scratch](https://www.youtube.com/watch?v=n8D3vEx7NAE)
+* [Godot 4 - RPG Inventory System From Scratch](https://www.youtube.com/watch?v=V79YabQZC1s)
 * [Godot 4 - Tiled Dungeon Environment From Scratch](https://www.youtube.com/watch?v=VjuyfBaryu8)
 
 ### [Deybis Melendez](https://www.youtube.com/channel/UCSxqszCdHyojStKsZw-76Aw) (SPA?)
@@ -901,6 +907,10 @@ Godot 2 :
 ### [Make Your Game - Event Orizon Studio](https://www.youtube.com/channel/UCjRDU5fwe4eaEuI666nM2Zg)
 
 * [Godot Engine 3 Tutorials / Angry Birds clone](https://www.youtube.com/playlist?list=PLi-VYObBzzKN8MWcAVo7y2JPcct1WOyXd) (FR)
+
+### [Maker Tech](https://www.youtube.com/@MakerTech)
+
+* [Action RPG in Godot 4 tutorial series](https://www.youtube.com/playlist?list=PLMQtM2GgbPEVuTgD4Ln17ombTg6EahSLr)
 
 ### [Marcial Lincoln](https://www.youtube.com/@MarcialLincoln) [Brazilian]
 
