@@ -19,6 +19,7 @@ Table of Contents
 * [IDE](#ide)
 * [Libraries](#libraries)
 * [Not Godot Specific](#not-godot-specific)
+* [Plugins](#plugins)
 * [Talks](#talks)
 * [Tutorial](#tutorial)
   * [A](#A)  
@@ -47,6 +48,17 @@ Table of Contents
   * [X](#X)  
   * [Y](#Y)  
   * [Z](#Z)
+
+## Godot Engine communities
+
+* [Discord](discord.gg/4JBkykG)
+* [Facebook Group](https://www.facebook.com/groups/godotengine/)
+* [Forums](https://godotforums.org/)
+* [Forums (Deutsch)](https://godotcommunityde.github.io/)
+* [IRC](https://webchat.freenode.net/?channels=#godotengine)
+* [Matrix](https://matrix.to/#/#godotengine:matrix.org)
+* [Reddit](https://www.reddit.com/r/godot)
+* [Steam](https://steamcommunity.com/app/404790)
 
 ## Resources
 
@@ -240,6 +252,11 @@ Table of Contents
 * [Glenn Fiedler Gaffer on games about multiplayer](https://gafferongames.com/tags/networking)
 * [Render sprites with normal maps in Blender](https://games.kodera.pl/dev/render-sprites-with-normal-maps-in-blender/)
 
+## Plugins
+
+* [DialogueNodes](https://github.com/nagidev/DialogueNodes)
+* [Pandora](https://github.com/bitbrain/pandora)
+
 ## Talks
 
 * [GameDev.tv : Why The School For Games Switched From Unity To Godot](https://www.youtube.com/watch?v=5XunD-X3LO4)
@@ -255,6 +272,13 @@ Table of Contents
 #### [3DSNC](https://www.youtube.com/channel/UCrb-1i8j3lclMOx7QrBhOdQ)
 
 * [GDSCRIPT](https://www.youtube.com/playlist?list=PLmPn2MXksnkgh2ADq34R3nXC33QISTW8Z) (Portuguese)
+
+#### [16BitDev](https://www.youtube.com/@16bitdev)
+
+* [Action Skills](https://www.youtube.com/playlist?list=PLDvxSFN380vDTf2KlcmpLLQfNAoW_i6nM)
+* [Boss Fights](https://www.youtube.com/playlist?list=PLDvxSFN380vAdsbBU2dY8jIaQNgBIRxy9)
+* [Particles](https://www.youtube.com/playlist?list=PLDvxSFN380vCf_4QnmqV1zuE3PXhsAHeS)
+* [Timemap](https://www.youtube.com/playlist?list=PLDvxSFN380vBNTv_7eXAISplX2UKcZo9z)
 
 #### [جودو بالعربي](https://www.youtube.com/channel/UCwdtMK3akOxAooeUVSQ3UUw)
 
