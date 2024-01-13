@@ -83,6 +83,7 @@ Table of Contents
 ## Code/Examples
 
 * [2D Day & Night Cycle](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle)
+* [Advanced-Movement-System-Godot](https://github.com/ywmaa/Advanced-Movement-System-Godot)
 * [arrnz: Godot - Trauma Screenshake Code](https://www.reddit.com/r/godot/comments/aoa1a2/godot_trauma_screenshake_code/)
 * [Decay Battle Royal](https://github.com/Gonkee/decay-br/)
 * [GD-Com TCP/UDP Godot - Nodejs](https://www.npmjs.com/package/@gd-com/utils) / [Github](https://github.com/gd-com)
@@ -206,14 +207,15 @@ Table of Contents
 
 ## Initiation
 
-* [Godot Game Engine : initiation](https://fr.flossmanuals.net/godot-game-engine-initiation/a-propos-de-ce-livre/) (FR)
-* [Présentation et installation de Godot Engine 3.0 C#](https://makeyourgame.fun/presentation-installation-de-godot-engine-3-0/) (FR)
 * [Game Maker (GM:S) to Godot dictionary](https://github.com/coppolaemilio/gamemaker-godot-dictionary)
-* [Godot Training](https://github.com/xsellier/godot-training) (FR)
 * [Godot Beginners Guide](https://github.com/br-n518/Godot-Beginners-Guide/blob/master/godot_guide.md)
+* [Godot Game Engine : initiation](https://fr.flossmanuals.net/godot-game-engine-initiation/a-propos-de-ce-livre/) (FR)
+* [Godot Training](https://github.com/xsellier/godot-training) (FR)
+* [Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
 * [Lean GDScript](https://www.gdscript.com)
 * [Memo by flashjaysan](https://docs.google.com/document/d/1tW9vx3dyMTad4ljyDgF8xN0kI_HW1RpLoJdmH2qgzXw) (FR)
 * [Multiplayer Tutorial – Discovering the main concepts for Godot networking](https://godot3tutorials.wordpress.com/2018/03/02/part-3-multiplayer-tutorial-godot-main-multiplayer-concepts/) (This helped me to better understand the concept of master/slave in Godot which is a bit weird at first when you are used to deal with web server/client)
+* [Présentation et installation de Godot Engine 3.0 C#](https://makeyourgame.fun/presentation-installation-de-godot-engine-3-0/) (FR)
 
 ## IDE
 
@@ -254,6 +256,7 @@ Table of Contents
 
 ## Plugins
 
+* [Character Creation](https://github.com/Flynsarmy/gd-character-creation)
 * [DialogueNodes](https://github.com/nagidev/DialogueNodes)
 * [Pandora](https://github.com/bitbrain/pandora)
 
@@ -295,6 +298,14 @@ Table of Contents
 
 * [How to Create a Godot Main Menu in 2022 Simple | Stylistic | Reusabl](https://www.youtube.com/watch?v=niuItBgRKCo&list=PLcQ1VY8_KV91hYLGdyoPi-dfdsOqw8GPB&index=2)
 * [Godot Tutorials](https://www.youtube.com/playlist?list=PLcQ1VY8_KV91hYLGdyoPi-dfdsOqw8GPB)
+
+#### [ACB_Gamez](https://www.youtube.com/@acb_gamez)
+
+* [Beginner Tutorials](https://www.youtube.com/playlist?list=PLNCitZ2dgQpbvsKFByh94m4dHZT3uIb0s)
+* [Intermediate/Advanced Tutorials](https://www.youtube.com/playlist?list=PLNCitZ2dgQpalubElIdoZZZr251hvD4bp)
+* [Q&A Sessions](https://www.youtube.com/playlist?list=PLNCitZ2dgQpbfiWvIyx5C7FWgAly61ihg)
+* [The Non-Coder's Guide to GDScript](https://www.youtube.com/playlist?list=PLNCitZ2dgQpYWbMdT6ai5Z4apg7_ShydQ)
+
 
 #### [Adderly Céspedes](https://www.youtube.com/user/adderly2dd)
 
@@ -485,6 +496,11 @@ Godot 2 :
 
 * [The ultimate introduction to Godot 4](https://www.youtube.com/watch?v=nAh_Kx5Zh5Q)
 
+#### [Coco Code](https://www.youtube.com/@CocoCode)
+
+* [Godot UI](https://www.youtube.com/playlist?list=PL1aAeF6bPTB4x_mKd9kWz_MG6Udp2Ri2g)
+* [Godot scripting](https://www.youtube.com/playlist?list=PL1aAeF6bPTB4JQIbxaU0Gm_V9PR2O9bKG)
+
 #### [Code Otaku](https://www.youtube.com/channel/UCZ7il9AWfJ78UwUuD3daKvg)
 
 * [Lean Godot 3.1](https://www.youtube.com/playlist?list=PLlKj-4rp1Gz2Lu2AQ0zNovjQqOqHu9Vbu)
@@ -504,6 +520,8 @@ Godot 2 :
 
 * [GDScript for Begineers in Godot 3.2](https://www.youtube.com/playlist?list=PLiUQR4U_J9ee0W_7oLf9w3KsPnzP-Csp_)
 * [Godot Quick Tips](https://www.youtube.com/playlist?list=PLiUQR4U_J9ectCZ6rXJJAtn2NSv2NhBhT)
+* [Godot Tutorials](https://www.youtube.com/playlist?list=PLiUQR4U_J9ec0k91iHPme_qtfS1nrWF3W)
+* [Make a FPS in Godot](https://www.youtube.com/watch?v=UV-bhtb3734&list=PLiUQR4U_J9efMalyhB1DtqywA_HPg-FrR)
 * [Third Person in Godot](https://www.youtube.com/playlist?list=PLiUQR4U_J9eeApbWA-hWvMYcKCc9skxj9)
 
 #### [CodingDumbest](https://www.youtube.com/channel/UCl-iYRURdX35BNx4hjuCS1w)
@@ -752,6 +770,19 @@ Godot 2 :
 
 * [Jogos de plataforma godot 2D](https://www.youtube.com/playlist?list=PLpdqHomw5AFeFxUmbZqtEq1Bzm26pNVii)
 * [Mega Man X Godot 2.1.5](https://www.youtube.com/playlist?list=PLpdqHomw5AFfY36Q-aCStQC4mV9Ex76jM)
+
+#### [GodotGameLab](https://www.youtube.com/@godotgamelab)
+
+* [Free Godot 4 Courses: Slay the Spire Clone](https://www.youtube.com/playlist?list=PL6SABXRSlpH8CD71L7zye311cp9R4JazJ)
+
+#### [Godot Tutorials](https://www.youtube.com/@GodotTutorials)
+
+* [Basics of Design Principles in Godot](https://www.youtube.com/playlist?list=PLJ690cxlZTgK6j3wpoI9PBopRLNZc5QPv)
+* [Game Design Basics Series](https://www.youtube.com/playlist?list=PLJ690cxlZTgIbWdRyNRxaIpSQab5pU4V1)
+* [GDScript Fundamentals Tutorial Series](https://www.youtube.com/playlist?list=PLJ690cxlZTgL4i3sjTPRQTyrJ5TTkYJ2_)
+* [Godot Basics Tutorial Series](https://www.youtube.com/playlist?list=PLJ690cxlZTgIsmdEhFufnB7O6KWoMS8M6)
+* [Pong GDScript Basics Series](https://www.youtube.com/playlist?list=PLJ690cxlZTgL6KVSNl5RVKZ0O1_oD5BWB)
+
 
 #### [Gonkee](https://www.youtube.com/channel/UCJqCPFHdbc6443G3Sz6VYDw)
 
@@ -1007,6 +1038,10 @@ Godot 2 :
 #### [Maker Tech](https://www.youtube.com/@MakerTech)
 
 * [Action RPG in Godot 4 tutorial series](https://www.youtube.com/playlist?list=PLMQtM2GgbPEVuTgD4Ln17ombTg6EahSLr)
+* [C# Godot Tutorials](https://www.youtube.com/playlist?list=PLMQtM2GgbPEVSElG17amGd7T39A6G1Shf)
+* [Godot 4.2 Breakout code-a-long (C# and GDScript)](https://www.youtube.com/playlist?list=PLMQtM2GgbPEUWK5Aqilrm6x3vVerJhPHe)
+* [Godot Tutorials](https://www.youtube.com/playlist?list=PLMQtM2GgbPEXTqB6PCXSvXlgTIc20uPd3)
+* [How to Create an Inventory in Godot 4](https://www.youtube.com/playlist?list=PLMQtM2GgbPEW__dODFVRPNF2TBry25IK4)
 
 #### [Marcial Lincoln](https://www.youtube.com/@MarcialLincoln) [Brazilian]
 
