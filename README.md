@@ -408,6 +408,11 @@ Table of Contents
 * [Godot GDSCript Reactive Audio](https://www.youtube.com/watch?v=JcE4MF897bo)
 * [All videos / search list](https://www.youtube.com/channel/UCMeGhrTAryky9QFRTN6IWqQ/search?query=godot)
 
+#### [Bacon and Games](https://www.youtube.com/@baconandgames)
+
+* [Godot Tutorials](https://www.youtube.com/playlist?list=PLiJ2loFXqTO0pva9BiNYL3eE4VJKJX5gx)
+* [Let's Make Snake in Godot 4 (Coding Tutorial)](https://www.youtube.com/playlist?list=PLiJ2loFXqTO1_raZB5MhIYLtqdvT5CdSP)
+
 #### [Banduck](https://www.youtube.com/channel/UCfBt15W6Y0aPNTd5XxYEDyw)
 
 #### [BaraA GD](https://www.youtube.com/channel/UC_XkcNUmEo6-oZGlYRnCFYA)
@@ -424,7 +429,8 @@ Table of Contents
 
 #### [BornCG](https://www.youtube.com/channel/UCdioEctcBLd2nw2aQkl8msw)
 
-* [Creating a Simple 3D Game](https://www.youtube.com/watch?v=VeCrE-ge8xM)
+* [Godot 3 Tutorial Series : Creating a Simple 3D Game](https://www.youtube.com/playlist?list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ)
+* [Godot 4 Beginners: Learn to make a 3D Platformer!](https://www.youtube.com/playlist?list=PLda3VoSoc_TTp8Ng3C57spnNkOw3Hm_35)
 
 #### [BrainDeadBZH](https://www.braindead.bzh/)
 
@@ -585,6 +591,17 @@ Godot 2 :
 * [Godot 4 - RPG Inventory System From Scratch](https://www.youtube.com/watch?v=V79YabQZC1s)
 * [Godot 4 - Tiled Dungeon Environment From Scratch](https://www.youtube.com/watch?v=VjuyfBaryu8)
 
+#### [DevWorm](https://www.youtube.com/@dev-worm)
+
+* [2D shooting series (platformer)](https://www.youtube.com/watch?v=lDkOGnbk-gs&list=PL3cGrGHvkwn1QS9KlgRdnxzv9PwfQug0W&pp=iAQB)
+* [Godot](https://www.youtube.com/watch?v=_zV4LhXeH2Y&list=PL3cGrGHvkwn28Jpz8IeZiXRrz5-TTrjOv&pp=iAQB)
+* [How to (Godot)](https://www.youtube.com/watch?v=vA-0TL62R9M&list=PL3cGrGHvkwn0sfRucpwMSOMMDvLXKdmv1&pp=iAQB)
+* [How to Make Survival Game in Godot](https://www.youtube.com/watch?v=eAEe_9jCV4s&list=PL3cGrGHvkwn2NOT1LSwf5d2XZmlc5Bjsn&pp=iAQB)
+* [How to Make a FARMING GAME in Godot](https://www.youtube.com/watch?v=QnOQNkglXso&list=PL3cGrGHvkwn3zyVj-lHM1aGYhNv8E0HBS&pp=iAQB)
+* [How to Make an ACTION RPG in Godot 2022 (Step by Step)](https://www.youtube.com/watch?v=DB0QHrnMdWY&list=PL3cGrGHvkwn1n3l5blS-yQiWPzO8tpTiE&pp=iAQB)
+* [How to Make an RPG in Godot 4](https://www.youtube.com/watch?v=pBoXqW4RykE&list=PL3cGrGHvkwn0zoGLoGorwvGj6dHCjLaGd&pp=iAQB)
+* [Tips and Info for Game Development](https://www.youtube.com/watch?v=_zV4LhXeH2Y&list=PL3cGrGHvkwn21_CUbqbDGeHiMxIAk4uj_&pp=iAQB)
+
 #### [Deybis Melendez](https://www.youtube.com/channel/UCSxqszCdHyojStKsZw-76Aw) (SPA?)
 
 * [SPEED CODING CHALLENGE #1 / Timelapse GODOT 3](https://www.youtube.com/playlist?list=PLoXNpYRpQVcCseygUFXBBVjZgGvqfcogv)
@@ -610,6 +627,12 @@ Godot 2 :
 * [[ENG] 001- Theoric Introduction - Godot 3](https://www.youtube.com/watch?v=q0tlQ7kFKFQ)
 * [[ENG] 002 - Knowing Godot 3.0 Editor](https://www.youtube.com/watch?v=NjIXeKXXWKo)
 * [[ENG] 003 - Scenes & Nodes - Godot 3.0](https://www.youtube.com/watch?v=SCkxyaH6v-Q)
+
+#### [DitzyNinja's Godojo](https://www.youtube.com/@ditzyninja)
+
+* [Godot 4 Navigation](https://www.youtube.com/playlist?list=PLRdlA0DoNf6-2jRoHok_dkrncShlc7yR5)
+* [Godot 4 Networking](https://www.youtube.com/playlist?list=PLRdlA0DoNf6_vWj7grJETu-m0HfUQV94L)
+* [Procedural Mesh](https://www.youtube.com/playlist?list=PLRdlA0DoNf6_ztiBDD2lcqfBs30F4DHmp)
 
 ### E
 
@@ -637,6 +660,37 @@ Godot 2 :
 * [C# Version of Your First Game Tutorial](https://github.com/exts/godot-yourfirstgame)
 
 ### F
+
+#### [FencerDevLog](https://www.youtube.com/@FencerDevLog)
+
+* [Godot 4 and GDScript for beginners](https://www.youtube.com/playlist?list=PLNhMW555KBpky5NPtiQXib20JNHFOGtcJ)
+* [Godot 4 Shaders](https://www.youtube.com/playlist?list=PLNhMW555KBpm-_YdBkYH8mDmuf0svBRe-)
+* [Godot 4: Third-Person Controller tutorial](https://www.youtube.com/playlist?list=PLNhMW555KBpmeo1kWzcW4aSRgzcaZmlrl)
+* [Godot 4 Tutorial: From zero to full game (17 parts, every single detail explained)](https://www.youtube.com/playlist?list=PLNhMW555KBpk8iyIKCIf3arzlK6_H8NLx)
+
+#### [FinePointCGI](https://www.youtube.com/@FinePointCGI)
+
+* [Advanced Godot](https://www.youtube.com/watch?v=HG-PV4rlzoY&list=PLQl2eWiUO8_K0gZfOs3RC_qNitQQ3XDyB&pp=iAQB)
+* [Angry Birds Clone](https://www.youtube.com/watch?v=U1uknx8_C4I&list=PLQl2eWiUO8_Jv0hbTS1SFwRvMJNFKlxw3&pp=iAQB)
+* [Clones](https://www.youtube.com/watch?v=Azsw4NSc86w&list=PLQl2eWiUO8_I1opJcfMs1CcmWPOZun7LB&pp=iAQB)
+* [Compiling Godot](https://www.youtube.com/watch?v=zKq25lXlsUE&list=PLQl2eWiUO8_II7kM6IQYnz83mSL2XVcJi&pp=iAQB)
+* [Creating A 2D Platformer in C# Godot](https://www.youtube.com/watch?v=yVY2vGz6rwE&list=PLQl2eWiUO8_KwIEBy5PfaZCT2yEi2J7Ew&pp=iAQB)
+* [Creating A Horror Game With Godot C#](https://www.youtube.com/watch?v=5rP_jCbd8eE&list=PLQl2eWiUO8_ILan29aRS_7CxOpDgiQ7yK&pp=iAQB)
+* [Creating A Horror Game With Godot](https://www.youtube.com/watch?v=5rP_jCbd8eE&list=PLQl2eWiUO8_J_HkJ8eM4yuE-HCWYXS2id&pp=iAQB)
+* [Creating an FPS In Godot 4.2](https://www.youtube.com/watch?v=Hyl1ziV1MFs&list=PLQl2eWiUO8_KIRgkRLDDnEpOQxo5nBdkq&pp=iAQB)
+* [Game Development](https://www.youtube.com/watch?v=xbGY2Jqqknk&list=PLQl2eWiUO8_KXYVQCBvGUiiWvG3bqLz8W&pp=iAQB)
+* [Godot 4](https://www.youtube.com/watch?v=OtfxxY4AeVQ&list=PLQl2eWiUO8_J0XhXw8kczhjbs6haECWqz&pp=iAQB)
+* [Godot Android Development](https://www.youtube.com/watch?v=kjtfbHHWnT0&list=PLQl2eWiUO8_K1BcuBjRRq5_z5xqkLosRu&pp=iAQB)
+* [Godot Basics](https://www.youtube.com/watch?v=xbGY2Jqqknk&list=PLQl2eWiUO8_K2fNv6Y1s6wv4Yr-fzXCXc&pp=iAQB)
+* [Godot CSharp](https://www.youtube.com/watch?v=JJOzdpktHbM&list=PLQl2eWiUO8_JDsEb7-LIKiwDdqzPapiYJ&pp=iAQB)
+* [Godot HTML](https://www.youtube.com/watch?v=Q8G3oyZwbsE&list=PLQl2eWiUO8_IiboBnFN8PtsV72hI-C3o3&pp=iAQB)
+* [Industry News](https://www.youtube.com/watch?v=E0cApHOv7fY&list=PLQl2eWiUO8_K-udJTYBad3wwrmu7D47Qi&pp=iAQB)
+* [Integrating Steamworks C#](https://www.youtube.com/watch?v=-xv9yRlr9cE&list=PLQl2eWiUO8_JaikLqFIhdRVc5LP3sRuYe&pp=iAQB)
+* [Lets Learn Game Dev!](https://www.youtube.com/watch?v=du51pmhnVnw&list=PLQl2eWiUO8_KB9V-lO9TOk4RRDFGzN9hM&pp=iAQB)
+* [Lets Look At](https://www.youtube.com/watch?v=rMiK77h64ak&list=PLQl2eWiUO8_J9WocM1z5kUVsJWiUl5uk9&pp=iAQB)
+* [Quick Tips](https://www.youtube.com/watch?v=trfWOglaIJs&list=PLQl2eWiUO8_L0GcK7RmiVtId0BDf_sr2W&pp=iAQB)
+* [Shaders](https://www.youtube.com/watch?v=oFMcilEdfs0&list=PLQl2eWiUO8_JNwKPOsiAsv_vrmNAD7E9Y&pp=iAQB)
+* [Shorts](https://www.youtube.com/watch?v=qxV7XftKGMs&list=PLQl2eWiUO8_JLCd7Y_i_GPDbgsa9HjX4e&pp=iAQB)
 
 #### [fornclake](https://www.youtube.com/channel/UCcvec1pEInJKoyoXAr8MgUw)
 
@@ -683,6 +737,12 @@ Godot 2 :
 * [RTS Game In Godot 4.0](https://www.youtube.com/playlist?list=PLPuNhh82sRgljBFnwgASb0x5ZNhBheHY8)
 * [Zelda RPG Action-Adventure Series](https://www.youtube.com/playlist?list=PLPuNhh82sRgnUzS_2Er8Y5DiNWU3BeEDl)
 
+#### [GameDev w/ David](https://www.youtube.com/@GameDevWDavid/)
+
+* [Godot Community Creations](https://www.youtube.com/playlist?list=PLxzcpYoukdFGcjfbSWnC0yHCx6L_kOugN)
+* [Godot News](https://www.youtube.com/playlist?list=PLxzcpYoukdFFk8zy9WzoqNxrG8U8tTR7a)
+* [Game Programming Patterns in Godot](https://www.youtube.com/playlist?list=PLxzcpYoukdFGrraCLscIoKe1DqJQXokl1)
+
 #### [GameDevelopmentCenter](https://www.youtube.com/c/GameDevelopmentCenter)
 
 * [3d Particles](https://www.youtube.com/playlist?list=PLZ-54sd-DMAIJ8e92RgOgeXVIUqGEa1oY)
@@ -719,6 +779,17 @@ Godot 2 :
 * [Bowling With Godot -- A Complete 3D Game Using The Godot Game Engine](https://www.youtube.com/watch?v=-NtqTzevB-0)
 * [GDSCript Programming 101 - Godot 3 Tutorial Series](https://www.youtube.com/watch?v=ybz5CfIPYq0)
 * [Getting Started With Godot — Step By Step Game Development Tutorial Series](https://devga.me/tutorials/godot2d/) (TEXT) - [Rust version by paytonrules](https://github.com/paytonrules/AirCombat)
+
+#### [Game Gems](https://www.youtube.com/@gamegems7658)
+
+* [Godot 4 Tutorial - 3D Cards for TCGs using Viewports](https://www.youtube.com/watch?v=lnQMKkN-4Ys)
+* [Godot 4 Tutorial - Asynchronous Subscene Loading](https://www.youtube.com/watch?v=0E4dMP0iWLI)
+* [Godot 4 Tutorial - Dynamic Choice Dialog](https://www.youtube.com/watch?v=AkrkcFhJcYs)
+* [Godot 4 Tutorial - Exportable Node Paths](https://www.youtube.com/watch?v=5ztwXNLa2-0)
+* [Godot 4 Tutorial - Scene Trees as Data/Choose Your Own Adventure Tutorial](https://www.youtube.com/watch?v=5kM8UUaGgrw)
+* [Godot 4 Tutorial - The Message Bus Pattern](https://www.youtube.com/watch?v=vbw1ncvSUYg)
+* [Godot 4 Tutorial - Topdown Shooter/Roguelike Room Transition](https://www.youtube.com/watch?v=agPU8YL64wY)
+* [Godot 4 Tutorial - Volume Sliders](https://www.youtube.com/watch?v=BZDbB3e6xn8)
 
 #### [Gamer Haveli](https://www.youtube.com/channel/UCsu10B3tTGbaK8B3bciekzA)
 
@@ -806,6 +877,11 @@ Godot 2 :
 
 * [Godot 3.0](https://www.youtube.com/watch?v=PGPQkCug9TI&list=PLEDJ6khWHA7Xckoe58dv5mxfygQgEUpLy) [Brezilian]
 
+#### [Gwizz](https://www.youtube.com/@Gwizz1027)
+
+* [Gwizz Godot News Updates](https://www.youtube.com/playlist?list=PLqF5LscxmBZUCPR9P3SatZ8W3e2LVuBjN)
+* [Tutorials](https://www.youtube.com/playlist?list=PLqF5LscxmBZWD3Ezk_PKw5w4QQ5VQzbtB)
+
 ### H
 
 #### [Hasan Hüseyin CİHANGİR](https://www.youtube.com/channel/UCyXDN6sAuiX5lBChUYpPwIw)
@@ -826,6 +902,11 @@ Godot 2 :
 * [Solus Stunts Car Racing Game](https://www.youtube.com/playlist?list=PLjGHla0Bjth-iP1scUU5MW_jRr_Ei2him)
 
 ### I
+
+#### [iaknihs](https://www.youtube.com/@iaknihs)
+
+* [Godot Dungeon Generator Tutorial](https://www.youtube.com/playlist?list=PLupqOHtDqs9wHoaVzlKMFzFcQCmAldz13)
+* [Godot From Zero Tutorial](https://www.youtube.com/playlist?list=PLupqOHtDqs9x0rohFni6_L99gN8cyLZZs)
 
 #### [Intera Games](https://www.youtube.com/channel/UCGg38Rf3ExttCi2B7-axoPg)(Portuguese)
 
@@ -907,6 +988,23 @@ Godot 2 :
 
 * [Godot Engine: Meeting the Nodes](https://www.youtube.com/watch?v=ioMZ5-j_PD0&list=PLBgwKMnonTew0Z0xRA8rJch1aB3-Qnm1T)
 * [Godot 3: Global Illumination Quick Set-Up on Existing Scene](https://www.youtube.com/watch?v=jG1f3Cxopvc)
+
+#### [JumboGamedev](https://www.youtube.com/@JumboGamedev)
+
+* [Background Loading & Loading Screens | Godot 4](https://www.youtube.com/watch?v=-renxc-EmUg)
+* [Devlog #1 | The Midnight Eclipse | The theme of the game](https://www.youtube.com/watch?v=CZh6_j4iLxo)
+* [Godot 4 | Autoloads overview](https://www.youtube.com/watch?v=oNjaTYoSzBY)
+* [Godot 4 | Changing scenes](https://www.youtube.com/watch?v=ogDdLXwCEAY)
+* [Godot 4 | Scene and scene instantiation quick overview](https://www.youtube.com/watch?v=NwpCjyoNYHA)
+* [Godot 4 | Signals In Depth Overview](https://www.youtube.com/watch?v=hWIiYhfP-PE)
+* [Godot 4 | groups overview](https://www.youtube.com/watch?v=Acoxb9VmyWc)
+* [Godot 4 | scene manipulation (hiding and removing scenes)](https://www.youtube.com/watch?v=4cCvTjvSCoQ)
+* [Input mapping in 90 seconds | Godot 4](https://www.youtube.com/watch?v=s8ufcfTdjEM)
+* [MAKING A 3D CAR GAME | JumboGame #1 | The Midnight Eclipse](https://www.youtube.com/watch?v=FFn3mkMKOMA)
+* [Making a SPIDER VERSE GAME in 24 hours | JumboGame #2](https://www.youtube.com/watch?v=UAF6pKWzMVw)
+* [Pausing games in 85 seconds | Godot 4](https://www.youtube.com/watch?v=1c5vN3_h544)
+* [Roadmap to learn Godot 4 as quick as possible](https://www.youtube.com/watch?v=-HyB959JR7Y)
+* [Scene Tree Introduction | Godot 4](https://www.youtube.com/watch?v=h7lg-gpb5H4)
 
 #### [Just a Gamedev channel](https://www.youtube.com/channel/UCEalt0mssQeOGj7jyukP8_g)
 
@@ -1097,6 +1195,14 @@ Godot 2 :
 
 * [Make a Match 3 game like Candy Crush using Godot](https://www.youtube.com/playlist?list=PL4vbr3u7UKWqwQlvwvgNcgDL1p_3hcNn2)
 
+#### [Mitch Makes Things](https://www.youtube.com/@MitchMakesThings)
+
+* [Godot 3D C#](https://www.youtube.com/playlist?list=PLFsjUWfnATIn0Q363vn_0ewlVJII0fETe)
+* [Godot Quick Tips](https://www.youtube.com/playlist?list=PLFsjUWfnATInumitsWxGJXbeEOkU0H6lQ)
+* [Godot Tutorials](https://www.youtube.com/playlist?list=PLFsjUWfnATImuwScyedeG_wusL3_1NGRb)
+* [Godot Worms-like Destruction Series](https://www.youtube.com/playlist?list=PLFsjUWfnATInUrH15tlrwwSpOLsGIf3-G)
+
+
 #### [Miziziziz](https://www.youtube.com/channel/UCaoqVlqPTH78_xjTjTOMcmQ)
 
 * [Shader stylized waterfall](https://www.youtube.com/watch?v=PLCGL3RW548)
@@ -1243,6 +1349,11 @@ Godot 2 :
 
 * [Godot Vlog 1-15 Create an RTS game playlist](https://www.youtube.com/playlist?list=PLV9wlVwi2Pgohszu88tmgcYHdjMsMcCd3)
 
+#### [Rapid Vectors](https://www.youtube.com/@rapidvectors)
+
+* [2D Platformer Shooting Game - Godot 4 Tutorials - Chronobot](https://www.youtube.com/playlist?list=PLWTXKdBN8RZdvd3bbCC4mg2kHo3NNnBz7)
+* [Godot 2D Shaders - Godot 4 Tutorials](https://www.youtube.com/playlist?list=PLWTXKdBN8RZdf44dIE069TGNVDdlIUzpg)
+
 #### [rayuse rp](https://www.youtube.com/@rayuserp)
 
 * [Godot Dedicated Server multiplayer game tutorials](https://www.youtube.com/playlist?list=PLRe0l8OGr7rcFTsWm3xyfCOP4NpH72vB1)
@@ -1252,6 +1363,14 @@ Godot 2 :
 
 * [Adventure Game](https://www.youtube.com/playlist?list=PLZVNxI_lsRW0k77EH-tDlKsImSyiv9GiP)
 * [Platform tutorial](https://www.youtube.com/playlist?list=PLZVNxI_lsRW0F35BsPJ71lUvYj2qN0X6w)
+
+#### [Robin Lamb](https://www.youtube.com/@robinlambstudio)
+
+* [Animation Tree State Machine Boss Fight](https://www.youtube.com/watch?v=ZlKmDu9W8nQ&list=PLLpshu5sDhu1t67TByDqH0IFzg5dr3MQ4&pp=iAQB)
+* [Godot 4 Cutout Sprite Animation](https://www.youtube.com/watch?v=vxd0DaSvifU&list=PLLpshu5sDhu14Scua2XfK1-YiT2qb02M7&pp=iAQB)
+* [Godot 4 Escape Room](https://www.youtube.com/watch?v=VlizyWdsUH0&list=PLLpshu5sDhu2N6rZN1Y6D4Ji4FqgyDp6z&pp=iAQB)
+* [Godot 4 Simple 3D Third Person Game](https://www.youtube.com/watch?v=TFj67HbsyIg&list=PLLpshu5sDhu1wP6FfBUIY1VFezAD4dMji&pp=iAQB)
+* [Quick Godot Tips](https://www.youtube.com/watch?v=_MA3WLrXxlk&list=PLLpshu5sDhu2iVaQzEO0gHEZaOlg55Wep&pp=iAQB)
 
 #### [Roman Fetsch](https://www.youtube.com/channel/UChuD3nWmhp9xgTAPjcO_DqQ)
 
@@ -1393,6 +1512,13 @@ Godot 2 :
 
 * [Godot Engine Review](https://www.youtube.com/watch?v=y2RVAl3H-EY)
 * [Godot Engine Tutorial: The Basics of Branching Dialogue and Dynamic Events](https://www.youtube.com/watch?v=aVutIoCGAfE)
+
+#### [The Polyglot Programmer](https://www.youtube.com/@thepolyglotprogrammer)
+
+* [GDScript Basics to Advanced](https://www.youtube.com/playlist?list=PL1wWXwjiybX85xRva4lVGH9zlUxUy3YfU)
+* [Godot Basics for Beginners](https://www.youtube.com/playlist?list=PL1wWXwjiybX-e07LsEPumTKYqteFkfisl)
+* [Tips and Tools](https://www.youtube.com/playlist?list=PL1wWXwjiybX_qT8qGRj6vm3eqRpXfzIvP)
+
 
 #### [The Shaggy Dev](https://www.youtube.com/c/TheShaggyDev)
 
