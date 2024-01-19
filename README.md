@@ -283,14 +283,18 @@ Table of Contents
 * [Particles](https://www.youtube.com/playlist?list=PLDvxSFN380vCf_4QnmqV1zuE3PXhsAHeS)
 * [Timemap](https://www.youtube.com/playlist?list=PLDvxSFN380vBNTv_7eXAISplX2UKcZo9z)
 
-#### [جودو بالعربي](https://www.youtube.com/channel/UCwdtMK3akOxAooeUVSQ3UUw)
+#### [جودو بالعربي](https://www.youtube.com/channel/UCwdtMK3akOxAooeUVSQ3UUw) (AR)
 
 * [تعلم أساسيات محرك الألعاب جودو ثري دي - الدرس الأول](https://www.youtube.com/watch?v=ukNeJDVg2vk)
 * [تعلم أساسيات محرك الألعاب جودو ثري دي - الدرس الثاني - Godot 3D](https://www.youtube.com/watch?v=4e9RFhfpID0)
 
-#### [大鳥寶盒](https://www.youtube.com/channel/UC1SiOQU87st6JiaBhHXEtew)
+#### [大鳥寶盒](https://www.youtube.com/channel/UC1SiOQU87st6JiaBhHXEtew) (CN)
 
 * [Godot Engine Walk-Through: Godot Engine | 實作responsive UI](https://www.youtube.com/playlist?list=PLTDQWu5_P3_Xy3hCWWjePE0PD8y7MSM7I)
+
+#### [中央創遊](https://www.youtube.com/@user-yn6gc4yv9b) (CN)
+
+* [Godot教學](https://www.youtube.com/playlist?list=PLiCP5GnQTn6yOWsj5mPmjlBp2UbmAPzY4)
 
 ### A
 
@@ -425,7 +429,19 @@ Table of Contents
 
 #### [Bauxite](https://www.youtube.com/channel/UCJ4jQM0IuayS_eOuGEFNb2Q)
 
+#### [Bitlytic](https://www.youtube.com/@Bitlytic)
+
+* [Godot](https://www.youtube.com/playlist?list=PLQvIZAX4oV0n5bw2mn3cNrupbOvt7beKA)
+
 #### [Blazeowsky](https://www.youtube.com/channel/UCW6HicaATADWZpdU__aXjgg) (Polish)
+
+#### [Bonkahe](https://www.youtube.com/@Bonkahe/playlists)
+
+* [FPS Horror Series - C#](https://www.youtube.com/watch?v=9HfJ-mkwe40&list=PLV5T4EgpiiGO8e1gf8tZpBJY9cIoPk1il&pp=iAQB)
+* [FPS Horror Series - GDScript](https://www.youtube.com/watch?v=9HfJ-mkwe40&list=PLV5T4EgpiiGN8coMBB1OGnL6fLxjUM2yQ&pp=iAQB)
+* [Godot Beginners Tutorials](https://www.youtube.com/watch?v=2bVv_s1epf4&list=PLV5T4EgpiiGNh1nyf3tpu6i74uVBneeV0&pp=iAQB)
+* [Godot Intermediate Tutorials](https://www.youtube.com/watch?v=fIHQ1fqxA_M&list=PLV5T4EgpiiGPdtBDJO_K4bhab3_xKnNJ5&pp=iAQB)
+* [Project Hermit](https://www.youtube.com/watch?v=95uZW5ZND7w&list=PLV5T4EgpiiGMWM5S1M71zjM8dBMCZjQnJ&pp=iAQB)
 
 #### [BornCG](https://www.youtube.com/channel/UCdioEctcBLd2nw2aQkl8msw)
 
@@ -460,6 +476,10 @@ Godot 2 :
 #### [Brass Harpooner](https://www.youtube.com/channel/UCUzEitsrWzd6MYDdZGUgk3Q)
 
 * [Making Cyberglads](https://www.youtube.com/playlist?list=PLbhqfhVLMhLEiqjrWWcOFfVrm8WjySWAM)
+
+#### [Brokencircuit](https://www.youtube.com/@Brokencircuitboard)
+
+* Bunch of Ledge detection and grab tutorials
 
 #### [Bruno SXS](http://www.brunosxs.com)
 
@@ -634,6 +654,10 @@ Godot 2 :
 * [Godot 4 Networking](https://www.youtube.com/playlist?list=PLRdlA0DoNf6_vWj7grJETu-m0HfUQV94L)
 * [Procedural Mesh](https://www.youtube.com/playlist?list=PLRdlA0DoNf6_ztiBDD2lcqfBs30F4DHmp)
 
+#### [DuoTutor/ DoisTutor]
+
+* [Godot 4 RPG](https://www.youtube.com/playlist?list=PLNf5C5m0lhibGPgUkTgsMgO12VIHwqC7A)
+
 ### E
 
 #### [Emilio](https://www.youtube.com/channel/UC9DR22-qohBDtZ74R3FxOZg)
@@ -691,6 +715,10 @@ Godot 2 :
 * [Quick Tips](https://www.youtube.com/watch?v=trfWOglaIJs&list=PLQl2eWiUO8_L0GcK7RmiVtId0BDf_sr2W&pp=iAQB)
 * [Shaders](https://www.youtube.com/watch?v=oFMcilEdfs0&list=PLQl2eWiUO8_JNwKPOsiAsv_vrmNAD7E9Y&pp=iAQB)
 * [Shorts](https://www.youtube.com/watch?v=qxV7XftKGMs&list=PLQl2eWiUO8_JLCd7Y_i_GPDbgsa9HjX4e&pp=iAQB)
+
+#### [Firebelley Games](https://www.youtube.com/@FirebelleyGames)
+
+* [Tutorials](https://www.youtube.com/playlist?list=PLY8mfoBd3obX-keEnN3aBxXppM-P88zPW)
 
 #### [fornclake](https://www.youtube.com/channel/UCcvec1pEInJKoyoXAr8MgUw)
 
@@ -758,6 +786,19 @@ Godot 2 :
 * [The Godot Combat Series](https://www.youtube.com/playlist?list=PLZ-54sd-DMALOePYMiM9aOj49eM8tWxly)
 * [The Godot Enemy Logic Series](https://www.youtube.com/playlist?list=PLZ-54sd-DMAIayOOwIPXoL61mh3XDdaPk)
 * [Tower Defense in Godot](https://www.youtube.com/playlist?list=PLZ-54sd-DMAJltIzTtZ6ZhC-9hkqYXyp6)
+
+#### [Game Develop](https://www.youtube.com/@GameDevelop) (BR)
+
+* [Angry Birds en Godot](https://www.youtube.com/playlist?list=PLqgcxxI_5gjmt5odaVdEMAZv_BItG4mXa)
+* [Arkanoid en Godot](https://www.youtube.com/playlist?list=PLqgcxxI_5gjlhsbJeVjD9C25Gfbswm5_a)
+* [Curso de TileMap](https://www.youtube.com/playlist?list=PLqgcxxI_5gjnj4jajz61d57j95Jc88vqs)
+* [Godot 3D FPS](https://www.youtube.com/playlist?list=PLqgcxxI_5gjkFeQy8TjFffNSIdEP3yuc_)
+* [Godot4](https://www.youtube.com/playlist?list=PLqgcxxI_5gjkJOAeCU3684btwiPNVBAfU)
+* [Godot 4.x Multiplayer](https://www.youtube.com/playlist?list=PLqgcxxI_5gjmb8O7UVzx-IYH-NXVmbbvh)
+* [Inteligencia Artificial](https://www.youtube.com/playlist?list=PLqgcxxI_5gjmgHzsLfqG79ekLOsi48cfJ)
+* [Multiplayer en Godot](https://www.youtube.com/playlist?list=PLqgcxxI_5gjkoPFzi89Ubs1wuWhNr5omm)
+* [Shooter Top-Down](https://www.youtube.com/playlist?list=PLqgcxxI_5gjnGeThnS7iUQqkw9vmcROo1)
+* [Tu primer juego 3D](https://www.youtube.com/playlist?list=PLqgcxxI_5gjl4qcD0qVJnr14Dpj4Kx64j)
 
 #### [Game Endeavor](https://www.youtube.com/channel/UCLweX1UtQjRjj7rs_0XQ2Eg)
 
@@ -846,6 +887,11 @@ Godot 2 :
 
 * [Free Godot 4 Courses: Slay the Spire Clone](https://www.youtube.com/playlist?list=PL6SABXRSlpH8CD71L7zye311cp9R4JazJ)
 
+#### [Godotsneers](https://www.youtube.com/@godotneers/)
+
+* [Beginner videos](https://www.youtube.com/playlist?list=PLEbADkZjuNUR9CYUZB2KWE5IPWsZHqg4R)
+* [Intermediate videos](https://www.youtube.com/playlist?list=PLEbADkZjuNURk2-S1fu8GLurgaHX0zHvk)
+
 #### [Godot Tutorials](https://www.youtube.com/@GodotTutorials)
 
 * [Basics of Design Principles in Godot](https://www.youtube.com/playlist?list=PLJ690cxlZTgK6j3wpoI9PBopRLNZc5QPv)
@@ -853,7 +899,6 @@ Godot 2 :
 * [GDScript Fundamentals Tutorial Series](https://www.youtube.com/playlist?list=PLJ690cxlZTgL4i3sjTPRQTyrJ5TTkYJ2_)
 * [Godot Basics Tutorial Series](https://www.youtube.com/playlist?list=PLJ690cxlZTgIsmdEhFufnB7O6KWoMS8M6)
 * [Pong GDScript Basics Series](https://www.youtube.com/playlist?list=PLJ690cxlZTgL6KVSNl5RVKZ0O1_oD5BWB)
-
 
 #### [Gonkee](https://www.youtube.com/channel/UCJqCPFHdbc6443G3Sz6VYDw)
 
@@ -974,6 +1019,10 @@ Godot 2 :
 * [Beginner Godot Tutorial Playlist](https://www.youtube.com/watch?v=M3lkGGqnHPQ&list=PLTZoMpB5Z4aDkVYurK0w2iwekX4c9iYE9)
 * [Godot 3 Basic 3D Tutorial Playlist](https://www.youtube.com/watch?v=-D-IcbsdT04&list=PLTZoMpB5Z4aBOtdBUXOeemKdg2fKxgJjm)
 * [Godot FPS Controller Playlist](https://www.youtube.com/watch?v=Etpq-d5af6M&list=PLTZoMpB5Z4aD-rCpluXsQjkGYgUGUZNIV)
+
+#### [jess::codes](https://www.youtube.com/@jesscodes)
+
+* [How I Made Pixel Art Water Trails - Godot Visual Shader](https://www.youtube.com/watch?v=W4eVR_Fm5Gs)
 
 #### [Jonathan Wayman](https://www.youtube.com/channel/UCWC_QQ0hIHvv-3ywPck_lfA)
 
@@ -1122,10 +1171,22 @@ Godot 2 :
 
 * [Menu Template](https://www.youtube.com/playlist?list=PLI95OAGEsXs8_5_OrBpZylMFp4xuEVleL)
 
+#### [Leon Stansfield](https://www.youtube.com/@leonstansfield/)
+
+* [Actually good content](https://www.youtube.com/playlist?list=PLJgEXJbLgyR1sQqvvEdmJnoeMzaQfh9pE)
+* [Remaking : Hollow Knight, BOTW combat](https://www.youtube.com/playlist?list=PLJgEXJbLgyR0g6p9ukaAsbBOZ5IWL4ngL)
+
 #### [Lucas González](https://www.youtube.com/user/XTheGameDevelopersX)
 
 * [From Unity to Godot Dev Diary](https://www.youtube.com/watch?v=ujqDpnJ-WUE) [2](https://www.youtube.com/watch?v=O5MBjG-KkjI)
 * [Android Game Transductor](https://www.youtube.com/watch?v=dJvv8A04NF4)
+
+#### [Lukky](https://www.youtube.com/@lukky.)
+
+* [Builds : Halo, Unrecord, Pokemon Village, Android prototyping](https://www.youtube.com/playlist?list=PLmz4U-dud1hiGpF0UbwQUea1xYAh3dTjk)
+* [Educational](https://www.youtube.com/playlist?list=PLmz4U-dud1hjLKsh8GiRHAEZwr2FJohwP)
+* [Showcases](https://www.youtube.com/playlist?list=PLmz4U-dud1hgcxbh4xRDQ2J__j5B0wSTQ)
+* [Unity to Godot](https://www.youtube.com/playlist?list=PLmz4U-dud1hhT1ERl64qjTN7yappViYBH)
 
 ### M
 
@@ -1259,6 +1320,10 @@ Godot 2 :
 
 ### O
 
+#### [Odyssey of Dremid'ir](https://www.youtube.com/@odysseyofdremidir1494)
+
+* [Odyssey Making Ofs](https://www.youtube.com/playlist?list=PLEObgWQwgSPMU_CT_Y1L5glemKwiV6dPu)
+
 #### [Ombarus](https://www.youtube.com/channel/UCscoqrVcMbZwv5jIpKVYpDg)
 
 * [Godot](https://www.youtube.com/playlist?list=PL43PN07AM4J91PGH1Lp_sefQiCpeQolLv)
@@ -1316,6 +1381,7 @@ Godot 2 :
 
 * [Game Development Knowledge](https://www.youtube.com/playlist?list=PLIPN1rqO-3eHLonTbIUIDPq_AxCpVbuug)
 * [Godot Engine Games Showcase](https://www.youtube.com/playlist?list=PLIPN1rqO-3eHm4QYcClqcx5Mg2sh_pa7_)
+* [Godot Tutorials](https://www.youtube.com/playlist?list=PLIPN1rqO-3eGXTDiptZgPnXTObQ4vOQhG)
 * [Godot VFX Tutorials](https://www.youtube.com/playlist?list=PLIPN1rqO-3eHrOQ8BpTtelpq46TF_yFdk)
 * [Things About Godot You Should Know](https://www.youtube.com/playlist?list=PLIPN1rqO-3eHRuQI_zNbHMGB7Tj8UvM7p)
 
@@ -1642,6 +1708,9 @@ Godot 2 :
 * [Using Godot Engine tree structure like an EC system (kindof like Unity?)](https://www.youtube.com/watch?v=6tTaKxyOWFM)
 
 #### [Wojtek Pe](https://www.youtube.com/channel/UCHxE7lE60wV0B7DL4KHIfdQ)
+
+* [Arcade Game in Godot 3D](https://www.youtube.com/playlist?list=PLgf1MG33khg8qihhfQinP0NWh5BBSFVDa)
+* Tons of others video
 
 #### [XAND](https://www.youtube.com/channel/UC7vsIJl_Hb7QNeioDPM5kSg)
 
