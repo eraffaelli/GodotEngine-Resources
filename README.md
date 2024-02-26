@@ -288,6 +288,10 @@ Table of Contents
 * [تعلم أساسيات محرك الألعاب جودو ثري دي - الدرس الأول](https://www.youtube.com/watch?v=ukNeJDVg2vk)
 * [تعلم أساسيات محرك الألعاب جودو ثري دي - الدرس الثاني - Godot 3D](https://www.youtube.com/watch?v=4e9RFhfpID0)
 
+#### [سوب | Sop](https://www.youtube.com/@Sop_dev)
+
+* [كيف تصنع أول لعبة لك اليوم ! | Godot](https://www.youtube.com/watch?v=Tbg-kTYYk8M)
+
 #### [大鳥寶盒](https://www.youtube.com/channel/UC1SiOQU87st6JiaBhHXEtew) (CN)
 
 * [Godot Engine Walk-Through: Godot Engine | 實作responsive UI](https://www.youtube.com/playlist?list=PLTDQWu5_P3_Xy3hCWWjePE0PD8y7MSM7I)
@@ -553,6 +557,10 @@ Godot 2 :
 #### [CodingDumbest](https://www.youtube.com/channel/UCl-iYRURdX35BNx4hjuCS1w)
 
 #### [Coding with dom](https://www.youtube.com/channel/UC1bvBZB7iL2goVOxSALVbCg)
+
+#### [Crigz Vs Game Dev](https://www.youtube.com/@crigz)
+
+* [Godot 4 Tutorials](https://www.youtube.com/playlist?list=PLbsqaO4vI1a_1JsL07804DMpBPlBB5gek)
 
 #### [Cryptic Coding](https://www.youtube.com/channel/UCLtcXpEuZo-Px7Hzm_tflGQ)
 
