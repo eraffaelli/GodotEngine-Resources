@@ -452,6 +452,10 @@ Table of Contents
 * [Godot 3 Tutorial Series : Creating a Simple 3D Game](https://www.youtube.com/playlist?list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ)
 * [Godot 4 Beginners: Learn to make a 3D Platformer!](https://www.youtube.com/playlist?list=PLda3VoSoc_TTp8Ng3C57spnNkOw3Hm_35)
 
+#### [Brackeys](https://www.youtube.com/@Brackeys)
+
+* [How to make a Video Game - Godot Beginner Tutorial](https://www.youtube.com/watch?v=LOhfqjmasi0)
+
 #### [BrainDeadBZH](https://www.braindead.bzh/)
 
 Godot 2 :
