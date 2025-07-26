@@ -288,7 +288,7 @@ Table of Contents
 * [تعلم أساسيات محرك الألعاب جودو ثري دي - الدرس الأول](https://www.youtube.com/watch?v=ukNeJDVg2vk)
 * [تعلم أساسيات محرك الألعاب جودو ثري دي - الدرس الثاني - Godot 3D](https://www.youtube.com/watch?v=4e9RFhfpID0)
 
-#### [سوب | Sop](https://www.youtube.com/@Sop_dev)
+#### [سوب | Sop](https://www.youtube.com/@Sop_dev) (AR)
 
 * [كيف تصنع أول لعبة لك اليوم ! | Godot](https://www.youtube.com/watch?v=Tbg-kTYYk8M)
 
@@ -1255,6 +1255,19 @@ Godot 2 :
 * [Godot Bluetooth Coding](https://www.youtube.com/watch?v=V9WzbxwIpmU)
 * [Godot Bluetooth Success! Part1](https://www.youtube.com/watch?v=V867CoIYpv4)
 
+#### [Michael Games](https://www.youtube.com/@MichaelGamesOfficial)
+
+* [2D Platformer Movement Basics](https://www.youtube.com/playlist?list=PLfcCiyd_V9GFXegHL8eW10kJF0nzr70su)
+* [AARPG - Player Character & Abilities](https://www.youtube.com/playlist?list=PLfcCiyd_V9GFMwyWvxO13H0BzT8Vdis1Y)
+* [Game Programming Patterns in Godot](https://www.youtube.com/playlist?list=PLfcCiyd_V9GF9uyPJgK7RWhXmyzLQB87u)
+* [Godot 4.x Nodes and Features](https://www.youtube.com/playlist?list=PLfcCiyd_V9GEsWMgJV2uW7HgG6tJ2RiVj)
+* [Items & Equipment // Selections from the 2D AARPG Series](https://www.youtube.com/playlist?list=PLfcCiyd_V9GHY1RSURNaV5HgxybHoCItr)
+* [Make a 2D Action & Adventure RPG in Godot 4 - Tutorial Series](https://www.youtube.com/playlist?list=PLfcCiyd_V9GH8M9xd_QKlyU8jryGcy3Xa)
+* [NPC Interaction /// 2D AARPG Sidequest](https://www.youtube.com/playlist?list=PLfcCiyd_V9GFjsf9sQeCor6nCtmA3XQJs)
+* [Pixel Art](https://www.youtube.com/playlist?list=PLfcCiyd_V9GF881CQJN6w22gvu5dx9UM-)
+* [Shaders in Godot 4](https://www.youtube.com/playlist?list=PLfcCiyd_V9GFagBllzJ7o53t5lv66R0r9)
+* [Shop & Shopkeeper Feature](https://www.youtube.com/playlist?list=PLfcCiyd_V9GHWS9I6zo4N5AB4Np80eLFN)
+
 #### [Michas game dev](https://michagamedev.wordpress.com/)
 
 * [Autotiling in Godot 3.0](https://michagamedev.wordpress.com/2018/02/24/181/) (Text)
@@ -1441,6 +1454,10 @@ Godot 2 :
 
 * [Adventure Game](https://www.youtube.com/playlist?list=PLZVNxI_lsRW0k77EH-tDlKsImSyiv9GiP)
 * [Platform tutorial](https://www.youtube.com/playlist?list=PLZVNxI_lsRW0F35BsPJ71lUvYj2qN0X6w)
+
+#### [Rikikiz](https://www.youtube.com/@Rikikiz)
+
+* [MAKE YOUR FIRST 3D RPG IN GODOT](https://www.youtube.com/playlist?list=PLyF6ePssDsXOm9XmbDN8DQ6SBWi0-AxEa)
 
 #### [Robin Lamb](https://www.youtube.com/@robinlambstudio)
 
@@ -1633,6 +1650,7 @@ Godot 2 :
 #### [Tokisan Games](https://www.youtube.com/@TokisanGames)
 
 * Many 3D videos without playlists
+* [Make an MMO with Godot 4 + Golang](https://www.youtube.com/playlist?list=PLA1tuaTAYPbHAU2ISi_aMjSyZr-Ay7UTJ)
 * [Open World Environment Lighting Godot Engine 3D Tutorial](https://www.youtube.com/watch?v=8kwnCxK8Vc8)
 
 #### [Toufou Master](https://www.youtube.com/channel/UCMVLloeU_BhxVT8Uai6sX5w) (FR)
